@@ -18,7 +18,7 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 
 ## Module Patterns
 
-### Case Patterns
+### [Case Patterns](patterns/cases/README.md)
 - [Decision Case](./patterns/cases/DecisionCase.md)
 - [Evaluation Case](./patterns/cases/EvaluationCase.md)
 - [Problem-Diagnosis Case](./patterns/cases/ProblemDiagnosisCase.md)
