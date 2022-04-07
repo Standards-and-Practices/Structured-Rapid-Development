@@ -6,11 +6,47 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 
 
 ## Guiding Principles
+- [Understanding By Design (Backwards Design)] (https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/#stages)
 - [Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) - Use patterns if available rather than recreating elements from scratch. 
 - Community production - Anyone can submit a new pattern for inclusion in the collection. 
 - Peer review to use, change and share patterns and templates
 
 ## Learning Pathway Patterns
+- Explorer
+- Deep Dive
 
 
 ## Module Patterns
+
+### Case Patterns
+- Decision Case
+- Evaluation Case
+- Problem-Diagnosis Case
+- Outlier
+- Role Play
+- Longitudinal
+
+### Practice Patterns
+- Deliberate Practice
+- Scaffolded Assistance
+- Distributed
+- Variable
+
+### Problem Patterns
+- Logical Problem
+- Algorithmic Problem
+- Rule-Using Problem
+- Decisionmaking Problem
+- Story Problem
+- Troubleshooting Problem
+- Diagnosis-Solution Problem
+- Strategic Performance Problem
+- Dilemmas
+
+### Design Patterns
+- Design Thinking
+- Maker Spaces
+
+### Inquiry Patterns
+- Scientific Method
+- Socratic Questioning
