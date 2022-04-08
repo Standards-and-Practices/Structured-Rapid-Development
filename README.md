@@ -5,13 +5,14 @@ At WGU, we work to be the world's most innovative, student-centric university. W
 Structured Rapid Development (SRD) involves using replicable patterns and templates throughout the product design and development process to structure and expedite it. Here, patterns means a way of configuring elements of a learning product into a viable learning pathway. Templates refer to an arrangement of specific xBlocks on a page. 
 
 - [Learning Pathway Patterns](#learning-pathway-patterns)
-- [Module Patterns](#module-patterns)
+- Module Patterns
     - [Case Patterns](#case-patterns)
     - [Practice Patterns](#practice-patterns)
     - [Problems Patterns](#problems-patterns)
     - [Design Patterns](#design-patterns)
     - [Inquiry Patterns](#inquiry-patterns)
-- [Resources](#resources)
+- xBlocks
+- Resources
     - [Articles](#articles)
     - [Packages](#packages)
     - [Examples](#examples)
@@ -20,25 +21,25 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
     - [Books](#books)
     - [Courses](#courses)
 # Learning Pathway Patterns
-- Explorer
-- Deep Dive
+- [Explorer](./patterns/pathways/Explorer.md)
+- [Deep Dive](./patterns/pathways/DeepDive.md)
 # Module Patterns
 ## Case Patterns
-- [Decision Case](./patterns/cases/DecisionCase.md)
-- [Evaluation Case](./patterns/cases/EvaluationCase.md)
-- [Problem-Diagnosis Case](./patterns/cases/ProblemDiagnosisCase.md)
+- [Decision Case](./modules/cases/DecisionCase.md)
+- [Evaluation Case](./modules/cases/EvaluationCase.md)
+- [Problem-Diagnosis Case](./modules/cases/ProblemDiagnosisCase.md)
 - Outlier
 - Role Play
 - Longitudinal
 
 ## Practice Patterns
-- [Deliberate Practice](./patterns/practice/DeliberatePractice.md)
+- [Deliberate Practice](./modules/practice/DeliberatePractice.md)
 - Scaffolded Assistance
 - Distributed
 - Variable
 
 ## Problem Patterns
-- [Logical Problem](./patterns/problems/LogicalProblem.md)
+- [Logical Problem](./modules/problems/LogicalProblem.md)
 - Algorithmic Problem
 - Rule-Using Problem
 - Decisionmaking Problem
@@ -49,15 +50,15 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 - Dilemmas
 
 ## Design Patterns
-- [Design Thinking](./patterns/design/DesignThinking.md)
+- [Design Thinking](./modules/design/DesignThinking.md)
 - Maker Spaces
 
 ## Inquiry Patterns
-- [Scientific Method](./patterns/inquiry/ScientificMethod.md)
+- [Scientific Method](./modules/inquiry/ScientificMethod.md)
 - Socratic Questioning
 
 
-
+# xBlocks
 # Resources
 ## Articles
 Coming soon

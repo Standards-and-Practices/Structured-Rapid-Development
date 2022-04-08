@@ -1,1 +1,0 @@
-# Inquiry and Analysis Patterns
