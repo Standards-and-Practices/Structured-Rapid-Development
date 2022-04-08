@@ -6,6 +6,11 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 
 - [Learning Pathway Patterns](#learning-pathway-patterns)
 - [Module Patterns](#module-patterns)
+    - [Case Patterns](#case-patterns)
+    - [Practice Patterns](#practice-patterns)
+    - [Problems Patterns](#problems-patterns)
+    - [Design Patterns](#design-patterns)
+    - [Inquiry Patterns](#inquiry-patterns)
 - [Resources](#resources)
     - [Articles](#articles)
     - [Packages](#packages)
@@ -55,9 +60,16 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 
 # Resources
 ## Articles
+Coming soon
 ## Packages
+Coming soon
 ## Examples
+Coming soon
 ## Tools
+Coming soon
 ## Videos
+Coming soon
 ## Books
+Coming soon
 ## Courses
+Coming soon
