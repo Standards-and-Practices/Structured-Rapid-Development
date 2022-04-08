@@ -1,1 +1,1 @@
-# Design-based Patterns
+# Design Patterns
