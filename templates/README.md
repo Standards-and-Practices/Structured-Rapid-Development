@@ -1,2 +1,2 @@
 # Templates
-A template combines xBlock components to fill a user need. 
+A template combines xBlock components to fill a user need. We put learning resources into the template's placeholders to rapidly create high-quality learning experiences. Templates can be combined into learning pathways. 
