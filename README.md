@@ -4,8 +4,8 @@ At WGU, we work to be the world's most innovative, student-centric university. W
 
 Structured Rapid Development (SRD) involves using replicable patterns and templates throughout the product design and development process to structure and expedite it. Here, patterns means a way of configuring elements of a learning product into a viable learning pathway. Templates refer to an arrangement of specific xBlocks on a page. 
 
-- [Module Patterns](#module-patterns)
 - [Learning Pathway Patterns](#learning-pathway-patterns)
+- [Module Patterns](#module-patterns)
 - [Resources](#resources)
     - [Articles](#articles)
     - [Packages](#packages)
