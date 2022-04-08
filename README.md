@@ -30,7 +30,7 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 - Deep Dive
 
 ## Module Patterns
-### [Case Patterns](patterns/cases/README.md)
+### Case Patterns
 - [Decision Case](./patterns/cases/DecisionCase.md)
 - [Evaluation Case](./patterns/cases/EvaluationCase.md)
 - [Problem-Diagnosis Case](./patterns/cases/ProblemDiagnosisCase.md)
@@ -38,14 +38,14 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 - Role Play
 - Longitudinal
 
-### [Practice Patterns](patterns/practice/README.md)
-- Deliberate Practice 
+### Practice Patterns
+- [Deliberate Practice](./patterns/cases/Deliberate Practice.md)
 - Scaffolded Assistance
 - Distributed
 - Variable
 
-### [Problem Patterns](patterns/problems/README.md)
-- Logical Problem
+### Problem Patterns
+- [Logical Problem](./patterns/cases/Logical Problem.md)
 - Algorithmic Problem
 - Rule-Using Problem
 - Decisionmaking Problem
@@ -55,10 +55,10 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 - Strategic Performance Problem
 - Dilemmas
 
-### [Design Patterns](patterns/design/README.md)
-- Design Thinking
+### Design Patterns
+- [Design Thinking](./patterns/cases/Design Thinking.md)
 - Maker Spaces
 
-### [Inquiry Patterns](patterns/inquiry/README.md)
-- Scientific Method
+### Inquiry Patterns
+- [Scientific Method](./patterns/cases/Scientific Method.md)
 - Socratic Questioning
