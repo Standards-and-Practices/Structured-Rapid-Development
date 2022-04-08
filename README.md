@@ -5,19 +5,31 @@ At WGU, we work to be the world's most innovative, student-centric university. W
 Structured Rapid Development (SRD) involves using replicable patterns and templates throughout the product design and development process to structure and expedite it. Here, patterns means a way of configuring elements of a learning product into a viable learning pathway. Templates refer to an arrangement of specific xBlocks on a page. 
 
 
-## Guiding Principles
-- [Understanding By Design (Backwards Design)](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/#stages)
-- [Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) - Use patterns if available rather than recreating elements from scratch. 
-- Community production - Anyone can submit a new pattern for inclusion in the collection. 
-- Peer review to use, change and share patterns and templates
+- [Resources](#resources)
+  - [Official](#official)
+  - [Articles](#articles)
+  - [Packages](#packages)
+  - [Examples](#examples)
+  - [Tools](#tools)
+  - [Videos](#videos)
+  - [Books](#books)
+  - [Courses](#courses)
+
+# Resources
+## Official
+## Articles
+## Packages
+## Examples
+## Tools
+## Videos
+## Books
+## Courses
 
 ## Learning Pathway Patterns
 - Explorer
 - Deep Dive
 
-
 ## Module Patterns
-
 ### [Case Patterns](patterns/cases/README.md)
 - [Decision Case](./patterns/cases/DecisionCase.md)
 - [Evaluation Case](./patterns/cases/EvaluationCase.md)
@@ -26,13 +38,13 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 - Role Play
 - Longitudinal
 
-### Practice Patterns
-- Deliberate Practice
+### [Practice Patterns](patterns/practice/README.md)
+- Deliberate Practice 
 - Scaffolded Assistance
 - Distributed
 - Variable
 
-### Problem Patterns
+### [Problem Patterns](patterns/problems/README.md)
 - Logical Problem
 - Algorithmic Problem
 - Rule-Using Problem
@@ -43,10 +55,10 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 - Strategic Performance Problem
 - Dilemmas
 
-### Design Patterns
+### [Design Patterns](patterns/design/README.md)
 - Design Thinking
 - Maker Spaces
 
-### Inquiry Patterns
+### [Inquiry Patterns](patterns/inquiry/README.md)
 - Scientific Method
 - Socratic Questioning
