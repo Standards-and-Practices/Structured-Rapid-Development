@@ -12,3 +12,8 @@ function, a case must have four characteristics:
 
 [^1]: (William Ellet. (2018). The Case Study Handbook, Revised Edition : A Student’s Guide: Vol. Revised edition. Harvard Business Review Press.)
 
+# Resources
+## Examples
+Coming soon
+## Books
+- [William Ellet. (2018). The Case Study Handbook, Revised Edition : A Student’s Guide: Vol. Revised edition. Harvard Business Review Press.](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1797860&site=eds-live&scope=site&authtype=sso&custid=ns017578)
