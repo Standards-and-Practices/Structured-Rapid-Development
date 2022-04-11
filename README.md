@@ -4,39 +4,40 @@ At WGU, we work to be the world's most innovative, student-centric university. W
 
 Structured Rapid Development (SRD) involves using replicable patterns and templates throughout the product design and development process to structure and expedite it. Here, patterns means a way of configuring elements of a learning product into a viable learning pathway. Templates refer to an arrangement of specific xBlocks on a page. 
 
-- [Learning Pathway Patterns](#learning-pathway-patterns)
+<!-- - [Learning Pathway Patterns](#learning-pathway-patterns) -->
 - Module Patterns
     - [Case Patterns](#case-patterns)
     - [Practice Patterns](#practice-patterns)
     - [Problems Patterns](#problems-patterns)
     - [Design Patterns](#design-patterns)
     - [Inquiry Patterns](#inquiry-patterns)
-- xBlocks
-- Resources
+
+<!-- 
+# Resources
     - [Articles](#articles)
     - [Packages](#packages)
     - [Examples](#examples)
     - [Tools](#tools)
     - [Videos](#videos)
     - [Books](#books)
-    - [Courses](#courses)
+    - [Courses](#courses) 
 # Learning Pathway Patterns
 - [Explorer](./patterns/pathways/Explorer.md)
-- [Deep Dive](./patterns/pathways/DeepDive.md)
+- [Deep Dive](./patterns/pathways/DeepDive.md) -->
 # Module Patterns
 ## Case Patterns
 - [Decision Case](./patterns/modules/cases/DecisionCase.md)
 - [Evaluation Case](./patterns/modules/cases/EvaluationCase.md)
 - [Problem-Diagnosis Case](./patterns/modules/cases/ProblemDiagnosisCase.md)
-- Outlier
-- Role Play
-- Longitudinal
+- _Outlier_
+- _Role Play_
+- _Longitudinal_
 
 ## Practice Patterns
 - [Deliberate Practice](./patterns/modules/practice/DeliberatePractice.md)
-- Scaffolded Assistance
-- Distributed
-- Variable
+- _Scaffolded Assistance_
+- _Distributed_
+- _Variable_
 
 ## Problem Patterns
 - [Logical Problem](./patterns/modules/problems/LogicalProblem.md)
@@ -51,14 +52,14 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 
 ## Design Patterns
 - [Design Thinking](./patterns/modules/design/DesignThinking.md)
-- Maker Spaces
+- _Maker Spaces_
 
 ## Inquiry Patterns
 - [Scientific Method](./patterns/modules/inquiry/ScientificMethod.md)
-- Socratic Questioning
+- _Socratic Questioning_
 
 
-# xBlocks
+<!-- # xBlocks
 # Resources
 ## Articles
 Coming soon
@@ -73,4 +74,4 @@ Coming soon
 ## Books
 Coming soon
 ## Courses
-Coming soon
+Coming soon -->
