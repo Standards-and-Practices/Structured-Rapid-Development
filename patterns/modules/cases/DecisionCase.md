@@ -1,6 +1,4 @@
 # Decision Case
-
-
 <img src="./DecisionCase.png" alt="Decision Case"/>
 
 # Structure of a Decision Case
