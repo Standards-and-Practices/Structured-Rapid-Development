@@ -1,5 +1,7 @@
 # Well-Structured Problem
 
+<img src="./WellStructuredProblem.png" alt="Well-Structured Problem"/>
+
 # Structure of a Well-Structured Problem
 
 1. Review prerequisite component concepts, rules, and principles

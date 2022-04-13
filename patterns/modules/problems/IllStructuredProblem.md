@@ -1,5 +1,7 @@
 # Ill-Structured Problem
 
+<img src="./IllStructuredProblem.png" alt="Ill-Structured Problem"/>
+
 # Structure of a Ill-Structured Problem
 1. Articulate the problem context
 2. Introduce problem constraints
