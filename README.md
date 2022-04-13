@@ -27,16 +27,8 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 - Variable
 
 ## Problem Patterns
-- [Logical Problem](./patterns/modules/problems/LogicalProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- Algorithmic Problem
-- Rule-Using Problem
-- Decisionmaking Problem
-- Story Problem
-- Troubleshooting Problem
-- Diagnosis-Solution Problem
-- Strategic Performance Problem
-- Dilemmas
-
+- [Well-Structured Patterns](./patterns/modules/problems/WellStructuredProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Ill-Structured Patterns](./patterns/modules/problems/IllStructuredProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 ## Design Patterns
 - [Design Thinking](./patterns/modules/design/DesignThinking.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - Maker Spaces
