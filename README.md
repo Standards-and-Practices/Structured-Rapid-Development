@@ -16,34 +16,34 @@ Structured Rapid Development (SRD) involves using replicable patterns and templa
 - [Decision Case](./patterns/modules/cases/DecisionCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - [Evaluation Case](./patterns/modules/cases/EvaluationCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - [Problem-Diagnosis Case](./patterns/modules/cases/ProblemDiagnosisCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- Outlier <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
-- Role Play <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
-- Longitudinal <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
+- Outlier
+- Role Play
+- Longitudinal
 
 ## Practice Patterns
 - [Deliberate Practice](./patterns/modules/practice/DeliberatePractice.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- Scaffolded Assistance <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
-- Distributed <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
-- Variable <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
+- Scaffolded Assistance
+- Distributed
+- Variable
 
 ## Problem Patterns
 - [Logical Problem](./patterns/modules/problems/LogicalProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- Algorithmic Problem <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
-- Rule-Using Problem <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
-- Decisionmaking Problem <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
-- Story Problem <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
-- Troubleshooting Problem <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
-- Diagnosis-Solution Problem <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
-- Strategic Performance Problem <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
-- Dilemmas <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
+- Algorithmic Problem
+- Rule-Using Problem
+- Decisionmaking Problem
+- Story Problem
+- Troubleshooting Problem
+- Diagnosis-Solution Problem
+- Strategic Performance Problem
+- Dilemmas
 
 ## Design Patterns
 - [Design Thinking](./patterns/modules/design/DesignThinking.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- Maker Spaces <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
+- Maker Spaces
 
 ## Inquiry Patterns
 - [Scientific Method](./patterns/modules/inquiry/ScientificMethod.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- Socratic Questioning <img src="https://img.shields.io/badge/-proposed-lightgrey" alt="Proposed" />
+- Socratic Questioning
 
 
 <!-- # xBlocks
