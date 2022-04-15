@@ -6,6 +6,7 @@ WGU's vision is to be the world's most innovative, student-centric university.
 
 Structured Rapid Development uses three kinds of design patterns to streamline the learning product design and development.
 
+## Contents
 1. __Pathway Patterns__ - The journey a learner will go on.
 2. __Module Patterns__ - Experiences on the journey that encourage learning.
 - [Case Patterns](#case-patterns)
@@ -15,11 +16,13 @@ Structured Rapid Development uses three kinds of design patterns to streamline t
 - [Inquiry Patterns](#inquiry-patterns)
 3. __UX Patterns__ - What the user will actually see on their screen. 
 
-<!-- - [Learning Pathway Patterns](#learning-pathway-patterns) -->
+# Pathway Patterns
+Pathways are organized sets of achievements that usually lead to some sort of credential (e.g. a degree, a certificate). There are several typical patterns that pathways take. 
+- [Explorer](./pathways/Explorer.md)
+- [Deep Dive](./pathways/DeepDive.md)
 
-
-
-# Module Patterns
+# Component Patterns
+Modules are the sub-components of pathways. They could be found at the certificate, course, competency, or sub-competency level. 
 ## Case Patterns
 - [Decision Case](./modules/cases/DecisionCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - [Evaluation Case](./modules/cases/EvaluationCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
