@@ -10,7 +10,7 @@ Structured Rapid Development uses three kinds of design patterns to streamline t
 <summary>Table of Contents</summary>
 
 - [Pathway Patterns](#pathway-patterns) - The journey a learner will go on.
-- [Module Patterns](#module-patterns) - Experiences on the journey that encourage learning.
+- [Component Patterns](#component-patterns) - Experiences on the journey that encourage learning.
     - [Case Patterns](#case-patterns)
     - [Practice Patterns](#practice-patterns)
     - [Problems Patterns](#problems-patterns)
@@ -52,6 +52,8 @@ Modules are the sub-components of pathways. They could be found at the certifica
 - [Scientific Method](./modules/inquiry/ScientificMethod.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - Socratic Questioning
 
+
+# UX Patterns
 
 <!-- # xBlocks
 # Resources
