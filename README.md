@@ -9,14 +9,14 @@ Structured Rapid Development uses three kinds of design patterns to streamline t
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [Pathway Patterns - The journey a learner will go on.](#pathway-patterns)
-- [Module Patterns - Experiences on the journey that encourage learning.](#module-patterns)
+- [Pathway Patterns](#pathway-patterns) - The journey a learner will go on.
+- [Module Patterns](#module-patterns) - Experiences on the journey that encourage learning.]
     - [Case Patterns](#case-patterns)
     - [Practice Patterns](#practice-patterns)
     - [Problems Patterns](#problems-patterns)
     - [Design Patterns](#design-patterns)
     - [Inquiry Patterns](#inquiry-patterns)
-- [UX Patterns - What the user will actually see on their screen. ](#ux-patterns)
+- [UX Patterns](#ux-patterns) - What the user will actually see on their screen.
 
 </details>
 ---
