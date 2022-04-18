@@ -60,8 +60,8 @@ Modules are the sub-components of pathways. They could be found at the certifica
 - Variable
 
 ## Problem Patterns
-- [Well-Structured Patterns](./experiences/problems/WellStructuredProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- [Ill-Structured Patterns](./experiences/problems/IllStructuredProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Well-Structured Problems](./experiences/problems/WellStructuredProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Ill-Structured Problems](./experiences/problems/IllStructuredProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 ## Design Patterns
 - [Design Thinking](./experiences/design/DesignThinking.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - Maker Spaces
