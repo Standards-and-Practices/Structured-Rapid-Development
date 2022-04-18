@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Standards-and-Practices/structured-rapid-development">
-    <img src="" alt="Structured Rapid Development" width="125" height="125">
+    Structured Rapid Development
   </a>
 </h1>
 
@@ -46,28 +46,28 @@ Modules are the sub-components of pathways. They could be found at the certifica
 ## Case Patterns
 
 
-- [Decision Case](./modules/cases/DecisionCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- [Evaluation Case](./modules/cases/EvaluationCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- [Problem-Diagnosis Case](./modules/cases/ProblemDiagnosisCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Decision Case](./experiences/cases/DecisionCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Evaluation Case](./experiences/cases/EvaluationCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Problem-Diagnosis Case](./experiences/cases/ProblemDiagnosisCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - Outlier
 - Role Play
 - Longitudinal
 
 ## Practice Patterns
-- [Deliberate Practice](./modules/practice/DeliberatePractice.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Deliberate Practice](./experiences/practice/DeliberatePractice.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - Scaffolded Assistance
 - Distributed
 - Variable
 
 ## Problem Patterns
-- [Well-Structured Patterns](./modules/problems/WellStructuredProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- [Ill-Structured Patterns](./modules/problems/IllStructuredProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Well-Structured Patterns](./experiences/problems/WellStructuredProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Ill-Structured Patterns](./experiences/problems/IllStructuredProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 ## Design Patterns
-- [Design Thinking](./modules/design/DesignThinking.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Design Thinking](./experiences/design/DesignThinking.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - Maker Spaces
 
 ## Inquiry Patterns
-- [Scientific Method](./modules/inquiry/ScientificMethod.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Scientific Method](./experiences/inquiry/ScientificMethod.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - Socratic Questioning
 
 
