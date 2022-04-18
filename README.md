@@ -1,6 +1,22 @@
-# Structured Rapid Development
+<h1 align="center">
+  <a href="https://github.com/Standards-and-Practices/structured-rapid-development">
+    <img src="" alt="Structured Rapid Development" width="125" height="125">
+  </a>
+</h1>
 
-> Design Patterns to Streamline Learning Design and Development.
+<div align="center">
+  Design Patterns to Streamline Learning Design and Development.
+  <br />
+  <br />
+  <a href="https://github.com/Standards-and-Practices/structured-rapid-development/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  ·
+  <a href="https://github.com/Standards-and-Practices/structured-rapid-development/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+  .
+  <a href="https://github.com/Standards-and-Practices/structured-rapid-development/discussions">Ask a Question</a>
+</div>
+
+
+> 
 
 WGU's vision is to be the world's most innovative, student-centric university. 
 
@@ -10,13 +26,13 @@ Structured Rapid Development uses three kinds of design patterns to streamline t
 <summary>Table of Contents</summary>
 
 - [Pathway Patterns](#pathway-patterns) - The journey a learner will go on.
-- [Component Patterns](#component-patterns) - Experiences on the journey that encourage learning.
+- [Experience Patterns](#component-patterns) - Experiences on the journey that encourage learning.
     - [Case Patterns](#case-patterns)
     - [Practice Patterns](#practice-patterns)
     - [Problems Patterns](#problems-patterns)
     - [Design Patterns](#design-patterns)
     - [Inquiry Patterns](#inquiry-patterns)
-- [UX Patterns](#ux-patterns) - What the user will actually see on their screen.
+- [Layout Patterns](#ux-patterns) - What the user will actually see on their screen.
 
 </details>
 
@@ -25,9 +41,11 @@ Pathways are organized sets of achievements that usually lead to some sort of cr
 - [Explorer](./pathways/Explorer.md) - Expose learners to a variety of topics.
 - [Deep Dive](./pathways/DeepDive.md) - Increase a learner's proficiency in a single domain.
 
-# Component Patterns
+# Experience Patterns
 Modules are the sub-components of pathways. They could be found at the certificate, course, competency, or sub-competency level. 
 ## Case Patterns
+
+
 - [Decision Case](./modules/cases/DecisionCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - [Evaluation Case](./modules/cases/EvaluationCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - [Problem-Diagnosis Case](./modules/cases/ProblemDiagnosisCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
@@ -53,7 +71,7 @@ Modules are the sub-components of pathways. They could be found at the certifica
 - Socratic Questioning
 
 
-# UX Patterns
+# Layout Patterns
 
 <!-- # xBlocks
 # Resources
