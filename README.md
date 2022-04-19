@@ -32,7 +32,7 @@ Structured Rapid Development uses three kinds of design patterns to streamline t
     - [Problems Patterns](#problems-patterns)
     - [Design Patterns](#design-patterns)
     - [Inquiry Patterns](#inquiry-patterns)
-- [Layout Patterns](#ux-patterns) - What the user will actually see on their screen.
+- [Layout Patterns](#layout-patterns) - What the user will actually see on their screen.
 
 </details>
 
@@ -71,24 +71,13 @@ Modules are the sub-components of pathways. They could be found at the certifica
 - [ ] Socratic Questioning
 
 # Layout Patterns
-
+- Intro / Outro Sandwich
+- Check For Understanding (CFU)
 # To Do
-- [ ] Add Anti-patterns
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-<!-- # xBlocks
-# Resources
-## Articles
-Coming soon
-## Packages
-Coming soon
-## Examples
-Coming soon
-## Tools
-Coming soon
-## Videos
-Coming soon
-## Books
-Coming soon
-## Courses
-Coming soon -->
+- [ ] Add anti-patterns
+- [ ] Add resources
+- [ ] Add examples
+- [ ] Add tools
+- [ ] Add videos
+- [ ] Add books
+- [ ] Add courses
