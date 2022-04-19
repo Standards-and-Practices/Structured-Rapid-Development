@@ -3,6 +3,14 @@
 # Pattern Structure
 A learning experience implementing the Design Thinking pattern typically follows the structure:
 
+```mermaid
+  graph TD;
+      Empathize-->Define;
+      Define-->Ideate;
+      Ideate-->Prototype;
+      Prototype-->Test;
+```
+
 |[1. Empathize](#empathize)|[2. Define](#define)|[3. Ideate](#ideate)|[4. Prototype](#prototype)|[5. Test](#test)|
 |---|---|---|---|---|
 ## Empathize
