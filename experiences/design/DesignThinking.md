@@ -4,7 +4,7 @@
 A learning experience implementing the Design Thinking pattern typically follows the structure:
 
 ```mermaid
-  graph TD;
+  flowchart LR;
       Empathize-->Define;
       Define-->Ideate;
       Ideate-->Prototype;
