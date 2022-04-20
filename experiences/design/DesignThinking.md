@@ -4,6 +4,7 @@
 A learning experience implementing the Design Thinking pattern typically follows the structure:
 
 ```mermaid
+  %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ff0000'}}}%%
   flowchart LR;
       Empathize-->Define;
       Define-->Ideate;
