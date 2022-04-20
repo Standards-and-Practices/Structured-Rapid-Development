@@ -5,11 +5,11 @@ A learning experience implementing the Decision Case pattern typically follows t
 
 ```mermaid
   flowchart LR;
-      [Explore a case]-->[Identify options];
-      [Identify options]-->[Explore options];
-      [Explore options]-->[Make a decision];
-      [Make a decision]-->[Defend decision];
-      [Defend decision]-->[Receive feedback];
+      A[Explore a case]-->B[Identify options];
+      B[Identify options]-->C[Explore options];
+      C[Explore options]-->D[Make a decision];
+      D[Make a decision]-->E[Defend decision];
+      E[Defend decision]-->F[Receive feedback];
 ```
 ## 1. Read a case
 
