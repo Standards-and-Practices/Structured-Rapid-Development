@@ -5,13 +5,13 @@ A learning experience implementing the Evaluation Case pattern typically follows
 
 ```mermaid
   flowchart LR;
-      Explore a case-->Identify subject;
-      Identify subject-->Criteria selection;
-      Criteria selection-->Criteria-based analysis;
-      Criteria-based analysis-->Overall evaluation;
-      Overall evaluation-->Identify contingencies;
-      Identify contingencies-->Recommend action;
-      Recommend action-->Receive feedback;
+      A[Explore a case]-->B[Identify subject];
+      B[Identify subject]-->C[Criteria selection];
+      C[Criteria selection]-->D[Criteria-based analysis];
+      D[Criteria-based analysis]-->E[Overall evaluation];
+      E[Overall evaluation]-->F[Identify contingencies];
+      F[Identify contingencies]-->G[Recommend action];
+      G[Recommend action]-->H[Receive feedback];
 ```
 ## 1. Explore a case
 
