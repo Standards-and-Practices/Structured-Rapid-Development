@@ -4,11 +4,11 @@ Well-structured problems require the application of a finite number of concepts,
 
 ```mermaid
   flowchart LR;
-      A[Review prerequisite component<br/>concepts, rules, and principles]-->B[Present conceptual or causal model of problem domain];
-      B[Present conceptual or causal model of problem domain]-->C[Model problem solving performance in worked examples];
-      C[Model problem solving performance in worked examples]-->D[Present practice problems];
+      A[Review prerequisite component<br/>concepts, rules, and principles]-->B[Present conceptual or <br/>causal model of problem domain];
+      B[Present conceptual or <br/>causal model of problem domain]-->C[Model problem solving <br/>performance in worked examples];
+      C[Model problem solving <br/>performance in worked examples]-->D[Present practice problems];
       D[Present practice problems]-->E[Support the search for solutions];
-      E[Support the search for solutions]-->F[Reflect on problem state and problem solution];
+      E[Support the search for solutions]-->F[Reflect on problem state <br/>and problem solution];
 ```
 
 1. Review prerequisite component concepts, rules, and principles
