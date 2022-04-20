@@ -3,13 +3,19 @@
 # Pattern Structure
 A learning experience implementing the Evaluation Case pattern typically follows the structure:
 
-|[1. Read a case](#read-a-case)|[2. Identify options](#idenfity-options)|[3. Explore options](#explore-options)|[4. Make a decision](#make-a-decision)|[5. Defend decision](#defend-decision)|[6. Receive feedback](#receive-feedback)|
-|---|---|---|---|---|---|
+```mermaid
+  flowchart LR;
+      Explore a case -> Identify subject
+      Identify subject -> Criteria selection
+      Criteria selection -> Criteria-based analysis
+      Criteria-based analysis -> Overall evaluation
+      Overall evaluation -> Identify contingencies
+      Identify contingencies -> Recommend action
+      Recommend action -> Receive feedback
+```
+## 1. Explore a case
 
-
-## 1. Read a case
-
-## 2. Identify subject parameters
+## 2. Identify subject 
 
 ## 3. Criteria selection
 
@@ -19,6 +25,6 @@ A learning experience implementing the Evaluation Case pattern typically follows
 
 ## 6. Identify contingencies
 
-## 7. Recommend actions
+## 7. Recommend action
 
 ## 8. Receive feedback

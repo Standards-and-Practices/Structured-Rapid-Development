@@ -3,9 +3,14 @@
 # Pattern Structure
 A learning experience implementing the Decision Case pattern typically follows the structure:
 
-|[1. Read a case](#read-a-case)|[2. Identify options](#idenfity-options)|[3. Explore options](#explore-options)|[4. Make a decision](#make-a-decision)|[5. Defend decision](#defend-decision)|[6. Receive feedback](#receive-feedback)|
-|---|---|---|---|---|---|
-
+```mermaid
+  flowchart LR;
+      Explore a case -> Identify options
+      Identify options -> Explore options
+      Explore options -> Make a decision
+      Make a decision -> Defend decision
+      Defend decision -> Receive feedback
+```
 ## 1. Read a case
 
 
