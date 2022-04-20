@@ -17,5 +17,3 @@ A learning experience implementing the Decision Case pattern typically follows t
 ## 4. Make a decision
 ## 5. Defend decision
 ## 6. Receive feedback
-
-test text
