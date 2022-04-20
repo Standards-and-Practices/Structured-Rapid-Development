@@ -14,17 +14,10 @@ A learning experience implementing the Evaluation Case pattern typically follows
       G[Recommend action]-->H[Receive feedback];
 ```
 ## 1. Explore a case
-
 ## 2. Identify subject 
-
 ## 3. Criteria selection
-
 ## 4. Criteria-based analysis
-
 ## 5. Overall evaluation
-
 ## 6. Identify contingencies
-
 ## 7. Recommend action
-
 ## 8. Receive feedback
