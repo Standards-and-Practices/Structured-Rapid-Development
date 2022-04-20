@@ -11,14 +11,18 @@ A learning experience implementing the Design Thinking pattern typically follows
       Ideate-->Prototype;
       Prototype-->Test;
 ```
+
 <details open="open">
 <summary>Quick Links</summary>
+
 - [Empathize](#empathize)
 - [Define](#define)
 - [Ideate](#ideate)
 - [Prototype](#prototype)
-- [Test](#test) 
+- [Test](#test)
+
 </details>
+
 ## Empathize
 
 ## Define
