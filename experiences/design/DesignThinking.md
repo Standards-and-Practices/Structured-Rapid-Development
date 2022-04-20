@@ -15,7 +15,7 @@ A learning experience implementing the Design Thinking pattern typically follows
 <details open="open">
 <summary>Quick Links</summary>
 
-- [Empathize](#empathize)
+- [Empathize](#empathize) - Understand the user's deeply held need
 - [Define](#define)
 - [Ideate](#ideate)
 - [Prototype](#prototype)
