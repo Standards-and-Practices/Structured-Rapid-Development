@@ -72,7 +72,7 @@ Modules are the sub-components of pathways. They could be found at the certifica
 - [ ] Socratic Questioning
 
 ## Other Patterns
-- [Engage, Guide, and Apply] (./experiences/other/EngageGuideApply.md)
+- [Engage, Guide, and Apply](./experiences/other/EngageGuideApply.md)
 
 # Layout Patterns
 - Intro / Outro Sandwich
