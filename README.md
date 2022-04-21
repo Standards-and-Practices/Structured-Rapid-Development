@@ -27,7 +27,7 @@ Structured Rapid Development uses three kinds of design patterns to streamline t
 <summary>Table of Contents</summary>
 
 - [Pathway Patterns](#pathway-patterns) - The journey a learner will go on.
-- [Experience Patterns](#component-patterns) - Experiences on the journey that encourage learning.
+- [Experience Patterns](#experience-patterns) - Experiences on the journey that encourage learning.
     - [Case Patterns](#case-patterns)
     - [Practice Patterns](#practice-patterns)
     - [Problems Patterns](#problems-patterns)
