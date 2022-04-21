@@ -32,7 +32,7 @@ The first step in design thinking is to help learners develop empathy for their 
 
 https://youtu.be/9HwpR3Njq00
 
-A variety of tools and exercises could be used here. Here are some ideas.
+### Tools
 - [Empathy Map](https://www.nngroup.com/articles/empathy-mapping/)
 - Observation
   - [Immersion](https://www.designkit.org/methods/immersion)
