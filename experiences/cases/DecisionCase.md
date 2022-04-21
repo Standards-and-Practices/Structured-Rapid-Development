@@ -12,6 +12,8 @@ A learning experience implementing the Decision Case pattern typically follows t
       E[Defend decision]-->F[Receive feedback];
 ```
 ## 1. Explore a case
+This is just a test of adding something to a repo.
+
 ## 2. Idenfity options
 ## 3. Explore options
 ## 4. Make a decision
