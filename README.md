@@ -71,6 +71,9 @@ Modules are the sub-components of pathways. They could be found at the certifica
 - [Scientific Method](./experiences/inquiry/ScientificMethod.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
 - [ ] Socratic Questioning
 
+## Other Patterns
+- [Engage, Guide, and Apply] (./experiences/other/EngageGuideApply.md)
+
 # Layout Patterns
 - Intro / Outro Sandwich
 - Check For Understanding (CFU)
