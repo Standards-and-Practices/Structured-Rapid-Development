@@ -2,6 +2,13 @@
 Practice is one of the most effective skill-building strategies for learners of all abilities. Well-designed opportunities for practice encourage proficient, accurate, and reliable demonstration of skills. Practice helps learners master foundational skills and build toward higher order thinking and application of learning in varied contexts.
 
 But poorly designed practice opportunities can have detrimental effects by promoting rote memorization, reinforcing narrow skill development, and frustrating under-performing learners.
+
+
+# Guiding Theories
+- Deliberate Practice
+- Expert Performance
+- Communities of Practice
+
 ## Intent
 This pattern involves a series of progressively more difficult practice sets with formative feedback. After a possible diagnostic or pre-test, each set begins with simple Knowledge Check activities with rich automated feedback.  Skills development modules ensue (all potentially optional). The Practice is followed by the summative assessment. If the Practice has been taken seriously, summative assessment scores should be Perfect (or perfect enough).
 Practice Makes Perfect works really nicely for more skills-based classes where you are preparing students for high stakes assessments, especially those addressing formulas, math, and vocabulary. Accounting, Anatomy, Chemistry, Economics and Statistics courses do really well in this pattern. 
@@ -17,3 +24,7 @@ Push beyond, specific goals, focus/reflection, high quality feedback, develop a 
 
 ## Consequences
 When we practice something, we are involved in the deliberate repetition of a process with the intention of reaching a specific goal. The words deliberate and intention are key here because they define the difference between actively practicing something and passively learning it (Sterner, 2012).
+
+
+# Applicable Theories
+## Deliberate Practice

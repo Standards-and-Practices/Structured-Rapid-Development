@@ -1,1 +1,4 @@
-# Design-based CBE Patterns
+# Design Patterns
+# Guiding Theories
+-	Design Thinking
+-	Problem-based Learning
