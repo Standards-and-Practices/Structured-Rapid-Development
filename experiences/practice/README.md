@@ -28,3 +28,14 @@ When we practice something, we are involved in the deliberate repetition of a pr
 
 # Applicable Theories
 ## Deliberate Practice
+
+
+# Resources By College
+## College of Business
+- [Practice-based learning in nursing, health and social care mentorship, facilitation and supervision](https://search.ebscohost.com/login.aspx?direct=true&db=cat07141a&AN=ebc.EBC1124437&site=eds-live&scope=site&authtype=sso&custid=ns017578)
+- ## College of Health Professions
+- (Communication Case)
+- 
+## College of Information Technology
+- 
+## Teacher's College
