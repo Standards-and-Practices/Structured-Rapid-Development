@@ -21,4 +21,14 @@ function, a case must have four characteristics:
 -	Story Telling
 -	Narrative Theory
 
+
+# Resources By College
+## College of Business
+
+## College of Health Professions
+- (Communication Case)
+## College of Information Technology
+
+## Teacher's College
+
 [^1]: [William Ellet. (2018). The Case Study Handbook, Revised Edition : A Student’s Guide: Vol. Revised edition. Harvard Business Review Press.](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1797860&site=eds-live&scope=site&authtype=sso&custid=ns017578)
