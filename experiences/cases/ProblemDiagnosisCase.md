@@ -1,4 +1,11 @@
 # Problem-Diagnosis Case
+Across disciplines, qualified professionals are distinguished by their ability to diagnose and solve problems in a variety of circumstances. 
+
+The learner's objective in a Problem-Diagnosis Case is to: 
+1. Identify the root cause of the problem
+2. Evaluate potential solutions using a criteria-based approach
+3. Plan for contingencies
+4. Recommend the best course of action
 
 ```mermaid
   flowchart LR;

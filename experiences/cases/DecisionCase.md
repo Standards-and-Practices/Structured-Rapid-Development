@@ -1,4 +1,5 @@
 # Decision Case
+Helping learners step into the shoes of a decision maker during a critical moment of decision can be an engaging way to teach both subject-matter and critical thinking. Decision-based cases are the most common type of case study.
 
 # Pattern Structure
 A learning experience implementing the Decision Case pattern typically follows the structure:
