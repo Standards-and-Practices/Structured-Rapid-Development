@@ -47,13 +47,13 @@ Select one or more of the following compatible modalities to enable learners to 
 
 ## 3. Find the root cause
 
-<a href="./identify-problem/FishboneDiagram.md">
+<a href="./find-root-cause/FishboneDiagram.md">
   <img src="./images/fishbone-diagram.svg" alt="Fishbone Diagram" style="width: 200px;"/>
 </a>
-<a href="./identify-problem/FiveWhys.md">
+<a href="./find-root-cause/FiveWhys.md">
   <img src="./images/five-whys.svg" alt="Five Whys" style="width: 200px;"/>
 </a>
-<a href="./identify-problem/ProblemTree.md">
+<a href="./find-root-cause/ProblemTree.md">
   <img src="./images/problem-tree.svg" alt="Problem Tree" style="width: 200px;"/>
 </a>
 
