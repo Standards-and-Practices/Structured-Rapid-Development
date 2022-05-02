@@ -33,10 +33,19 @@ A learning experience implementing the Evaluation Case pattern typically follows
 ```
 ## 1. Explore a case
 
-<a href="./explore/ReadACase.md"><img src="./images/read-case.svg" alt="Read A Case Study" style="width: 200px; display: inline-block;"/></a>
-<a href="./explore/WatchACase.md"><img src="./images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px; display: inline-block;"/></a>
-<a href="./explore/ListenToACase.md"><img src="./images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px; display: inline-block;"/></a>
-<a href="./explore/EngageInAnInteractive.md"><img src="./images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px; display: inline-block;"/></a>
+<a href="./explore/ReadACase.md">
+  <img src="./images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
+</a>
+<a href="./explore/WatchACase.md">
+  <img src="./images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px;"/>
+</a>
+<a href="./explore/ListenToACase.md">
+  <img src="./images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px;"/>
+</a>
+<a href="./explore/EngageInAnInteractiveCase.md">
+  <img src="./images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px;"/>
+</a>
+
 
 ## 2. Identify subject 
 ## 3. Criteria selection
