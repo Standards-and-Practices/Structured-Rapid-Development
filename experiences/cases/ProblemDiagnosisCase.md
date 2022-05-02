@@ -23,6 +23,7 @@ The learner's objective in a Problem-Diagnosis Case is to:
 # Pattern Structure
 
 ## 1. Explore a case
+Select one or more of the following compatible modalities to enable learners to explore a case. 
 
 <a href="./explore/ReadACase.md">
   <img src="./images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
