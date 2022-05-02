@@ -33,10 +33,10 @@ A learning experience implementing the Evaluation Case pattern typically follows
 ```
 ## 1. Explore a case
 
-<img src="./images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
-<img src="./images/video-case.svg" alt="Video Case Study" style="width: 200px;"/>
-<img src="./images/podcast-case.svg" alt="Podcast Case Study" style="width: 200px;"/>
-<img src="./images/interactive-case.svg" alt="Interactive Case" style="width: 200px;"/>
+<img src="./images/read-case.svg" alt="Read A Case Study" style="width: 200px; display: inline-block;"/>
+<img src="./images/video-case.svg" alt="Video Case Study" style="width: 200px; display: inline-block;"/>
+<img src="./images/podcast-case.svg" alt="Podcast Case Study" style="width: 200px; display: inline-block;"/>
+<img src="./images/interactive-case.svg" alt="Interactive Case" style="width: 200px; display: inline-block;"/>
 
 ## 2. Identify subject 
 ## 3. Criteria selection
