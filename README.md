@@ -1,7 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Standards-and-Practices/structured-rapid-development">
-    <img src="./logo.svg" alt="Structured Rapid Development" width="84" /><br/>
-    Structured Rapid Development
+    <img src="./logo.png" alt="Structured Rapid Development" width="128" /><br/>
   </a>
 </h1>
 
