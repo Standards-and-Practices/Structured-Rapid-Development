@@ -32,7 +32,7 @@ A learning experience implementing the Evaluation Case pattern typically follows
       G[Recommend action]-->H[Receive feedback];
 ```
 ## 1. Explore a case
-
+Select one or more of the following compatible modalities to enable learners to explore a case.
 <a href="./explore/ReadACase.md">
   <img src="./images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
 </a>
