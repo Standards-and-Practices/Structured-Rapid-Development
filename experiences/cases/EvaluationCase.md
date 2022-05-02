@@ -33,6 +33,7 @@ A learning experience implementing the Evaluation Case pattern typically follows
 ```
 ## 1. Explore a case
 Select one or more of the following compatible modalities to enable learners to explore a case.
+
 <a href="./explore/ReadACase.md">
   <img src="./images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
 </a>
@@ -56,9 +57,7 @@ Select one or more of the following compatible modalities to enable learners to 
 - What questions will help you make the evaluation?
 - What concepts and frameworks might help answer your questions?
 
-
 ## 4. Criteria-based analysis
-
 
 ## 5. Overall evaluation
 - Based on your analysis above, what is your overall evaluation of the subject?

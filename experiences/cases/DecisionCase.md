@@ -47,12 +47,10 @@ Select one or more of the following compatible modalities to enable learners to 
 - What questions will help you decide which decision option is best for you?
 - What concepts and frameworks might help answer your questions?
 
-
 ## 4. Make a decision
 - What decision do you recommend?
 - What are the major reasons that support your recommendation?
 - What are the major risks of your recommended decision?
-
 - Eisenhower Decision Matrix
 ## 5. Defend decision
 - Arrange the criteria in order of importance, from the most to least. The evidence should show how each criterion supports your recommended decision.

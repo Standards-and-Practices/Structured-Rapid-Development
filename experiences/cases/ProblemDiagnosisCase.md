@@ -46,13 +46,23 @@ Select one or more of the following compatible modalities to enable learners to 
 </a>
 
 ## 3. Find the root cause
-- [Fishbone diagram](https://www.sessionlab.com/methods/fishbone-diagram)
-- [5 Whys](https://en.wikipedia.org/wiki/Five_whys)
-- [Problem Tree](https://www.sessionlab.com/methods/problem-tree)
+
+<a href="./identify-problem/FishboneDiagram.md">
+  <img src="./images/fishbone-diagram.svg" alt="Fishbone Diagram" style="width: 200px;"/>
+</a>
+<a href="./identify-problem/FiveWhys.md">
+  <img src="./images/five-whys.svg" alt="Five Whys" style="width: 200px;"/>
+</a>
+<a href="./identify-problem/ProblemTree.md">
+  <img src="./images/problem-tree.svg" alt="Problem Tree" style="width: 200px;"/>
+</a>
+
   
 ## 4. Overall diagnosis
 
 ## 5. Recommend action
-- Eisenhower Decision Matrix
+<a href="./identify-problem/EisenhowerDecisionMatrix.md">
+  <img src="./images/eisenhower-decision-matrix.svg" alt="Eisenhower Decision Matrix" style="width: 200px;"/>
+</a>
 
 ## 6. Receive feedback
