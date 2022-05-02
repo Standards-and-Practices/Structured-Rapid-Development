@@ -48,9 +48,22 @@ Select one or more of the following compatible modalities to enable learners to 
 
 
 ## 2. Identify subject 
+- What is the subject of the evaluation?
+- What is the evaluation you need to perform? (It can be determining the worth, value, performance, effectiveness, outcome, or consequences of the subject.)
+  
+- [Journalistic Six](https://www.sessionlab.com/methods/the-journalistic-six)
 ## 3. Criteria selection
+- What questions will help you make the evaluation?
+- What concepts and frameworks might help answer your questions?
+
+
 ## 4. Criteria-based analysis
+
+
 ## 5. Overall evaluation
+- Based on your analysis above, what is your overall evaluation of the subject?
+- What are the major reasons that support your overall evaluation?
+
 ## 6. Identify contingencies
 ## 7. Recommend action
 ## 8. Receive feedback
