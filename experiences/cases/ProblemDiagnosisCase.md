@@ -23,16 +23,16 @@ The learner's objective in a Problem-Diagnosis Case is to:
 ## 1. Explore a case
 Select one or more of the following compatible modalities to enable learners to explore a case. 
 
-<a href="./explore/ReadACase.md">
+<a href="./explore-case/ReadACase.md">
   <img src="./images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
 </a>
-<a href="./explore/WatchACase.md">
+<a href="./explore-case/WatchACase.md">
   <img src="./images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px;"/>
 </a>
-<a href="./explore/ListenToACase.md">
+<a href="./explore-case/ListenToACase.md">
   <img src="./images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px;"/>
 </a>
-<a href="./explore/EngageInAnInteractiveCase.md">
+<a href="./explore-case/EngageInAnInteractiveCase.md">
   <img src="./images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px;"/>
 </a>
 
@@ -61,7 +61,7 @@ Select one or more of the following compatible modalities to enable learners to 
 ## 4. Overall diagnosis
 
 ## 5. Recommend action
-<a href="./identify-problem/EisenhowerDecisionMatrix.md">
+<a href="./recommend-action/EisenhowerDecisionMatrix.md">
   <img src="./images/eisenhower-decision-matrix.svg" alt="Eisenhower Decision Matrix" style="width: 200px;"/>
 </a>
 

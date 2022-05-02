@@ -26,16 +26,16 @@ Decision Cases are highly scalable. A few sizes the Decision Case might include 
  - Explain - Tell them what they're going to get out of this. -->
 Select one or more of the following compatible modalities to enable learners to explore a case.
 
-<a href="./explore/ReadACase.md">
+<a href="./explore-case/ReadACase.md">
   <img src="./images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
 </a>
-<a href="./explore/WatchACase.md">
+<a href="./explore-case/WatchACase.md">
   <img src="./images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px;"/>
 </a>
-<a href="./explore/ListenToACase.md">
+<a href="./explore-case/ListenToACase.md">
   <img src="./images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px;"/>
 </a>
-<a href="./explore/EngageInAnInteractiveCase.md">
+<a href="./explore-case/EngageInAnInteractiveCase.md">
   <img src="./images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px;"/>
 </a>
 
