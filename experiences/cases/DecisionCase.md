@@ -7,7 +7,7 @@ Decision Cases are highly scalable. A few sizes the Decision Case might include 
 ## Unit Case
 Deliver a small Decision Case on one page of content. This might simply be a paragraph of text or a short video clip and a few formative assessment questions to guide the learner through the analysis. 
 
-<details><summary><span style="font-weight: bold;">Example 1</span>: Unit-Sized Business Decision Case</summary>
+<details><summary><strong>Example 1</strong>: Unit-Sized Business Decision Case</summary>
 <p>
 Chris is the CEO of a small tech company. The company has been in business for 5 years and is struggling to stay afloat. Chris is faced with the decision to either lay off 10% of the company's workforce, or to invest in a new product line that has the potential to be very profitable. To make this decision, Chris evaluates the options using the SWOT (Strengths, Weaknesses, Opportunities, Threats) framework.
 
