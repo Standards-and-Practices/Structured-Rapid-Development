@@ -143,14 +143,14 @@ LA03 --> SS02
 LA04 --> SS02
 SS02 --> SA02
 
-classDef CC fill:#002A4E color:#ffffff;
-classDef SO fill:#7C235E color:#ffffff;
-classDef LO fill:#F78D3A color:#ffffff;
-classDef U fill:#C69214 color:#ffffff;
-classDef LS fill:#F78D3A color:#ffffff;
-classDef LA fill:#337DA9 color:#ffffff;
-classDef SS fill:#7C235E color:#ffffff;
-classDef SA fill:#337DA9 color:#ffffff;
+classDef CC fill:#002A4E,color:#ffffff;
+classDef SO fill:#7C235E,color:#ffffff;
+classDef LO fill:#F78D3A,color:#ffffff;
+classDef U fill:#C69214,color:#ffffff;
+classDef LS fill:#F78D3A,color:#ffffff;
+classDef LA fill:#337DA9,color:#ffffff;
+classDef SS fill:#7C235E,color:#ffffff;
+classDef SA fill:#337DA9,color:#ffffff;
 
 
 ```
