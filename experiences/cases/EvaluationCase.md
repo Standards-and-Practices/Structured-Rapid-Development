@@ -62,9 +62,10 @@ Select one or more of the following compatible modalities to enable learners to 
 ## 5. Overall evaluation
 - Based on your analysis above, what is your overall evaluation of the subject?
 - What are the major reasons that support your overall evaluation?
-
+- [Activities for Evaluating Ideas]()
 ## 6. Identify contingencies
 ## 7. Recommend action
+- [Tools for Recommending Action](./recommend-action/README.md)
 ## 8. Receive feedback
 
 

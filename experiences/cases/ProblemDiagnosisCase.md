@@ -45,6 +45,10 @@ Select one or more of the following compatible modalities to enable learners to 
   <img src="./images/question-storming.svg" alt="Question Storming" style="width: 200px;"/>
 </a>
 
+- [Context Mapping](https://www.sessionlab.com/methods/context-map)
+- [History Mapping](https://www.sessionlab.com/methods/history-map-adifpm)
+- [Gap Analysis](https://www.sessionlab.com/methods/gap-analysis)
+
 ## 3. Find the root cause
 
 <a href="./find-root-cause/FishboneDiagram.md">
@@ -59,10 +63,10 @@ Select one or more of the following compatible modalities to enable learners to 
 
   
 ## 4. Overall diagnosis
+- [Impact / Effort Matrix](https://www.sessionlab.com/methods/impact-and-effort-matrix)
+- [SWOT Analysis](https://www.sessionlab.com/methods/swot-analysis)
+
 
 ## 5. Recommend action
-<a href="./recommend-action/EisenhowerDecisionMatrix.md">
-  <img src="./images/eisenhower-decision-matrix.svg" alt="Eisenhower Decision Matrix" style="width: 200px;"/>
-</a>
 
 ## 6. Receive feedback

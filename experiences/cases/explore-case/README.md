@@ -1,1 +1,0 @@
-# Explore a Case Study
