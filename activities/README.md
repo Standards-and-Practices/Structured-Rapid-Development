@@ -1,0 +1,2 @@
+# Activities for Learning
+Activities are packaged stimuili that encourage learners to grow. They are composed of [layouts](../layouts/README.md) and are combined to form [experiences](../experiences/README.md). 

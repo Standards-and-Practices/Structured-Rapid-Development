@@ -29,6 +29,7 @@ Structured Rapid Development uses three kinds of design patterns to streamline t
     - [Problems Patterns](#problems-patterns)
     - [Design Patterns](#design-patterns)
     - [Inquiry Patterns](#inquiry-patterns)
+- [Activities](./activities/README.md)
 - [Layout Patterns](#layout-patterns) - What the user will actually see on their screen.
 
 </details>
@@ -70,6 +71,8 @@ Modules are the sub-components of pathways. They could be found at the certifica
 ## Other Patterns
 - [Engage, Guide, and Apply](./experiences/other/EngageGuideApply.md)
 
+# Activites
+Check out the index of our learning activites [here](./activities/README.md).
 # Layout Patterns
 - Intro / Outro Sandwich
 - Check For Understanding (CFU)
