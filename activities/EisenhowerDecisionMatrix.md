@@ -1,7 +1,7 @@
 # Eisenhower Decision Matrix
 `Ike's Way To Prioritize Decisions Based On Importance And Urgency. Trust him. He stormed Normandy.`
 # Getting Started
-![A graphic of the Eisenhower decision matrix]([screenshot.png](https://upload.wikimedia.org/wikipedia/commons/3/33/7_habits_decision-making_matrix.png?20181120003806))
+![A graphic of the Eisenhower decision matrix](https://upload.wikimedia.org/wikipedia/commons/3/33/7_habits_decision-making_matrix.png)
 
 The Eisenhower Decision Matrix is a simple tool that can be used to help you make planning decisions. It is based on the premise that there are four types of activities: important and urgent, important and not urgent, not important and urgent, and not important and not urgent.
 
