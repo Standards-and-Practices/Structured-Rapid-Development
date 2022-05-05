@@ -75,16 +75,16 @@ A learning experience implementing the Decision Case pattern typically follows t
 Select one or more of the following compatible modalities to enable learners to explore a case.
 
 <a href="./explore-case/ReadACase.md">
-  <img src="./images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
+  <img src="../../images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
 </a>
 <a href="./explore-case/WatchACase.md">
-  <img src="./images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px;"/>
+  <img src="../../images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px;"/>
 </a>
 <a href="./explore-case/ListenToACase.md">
-  <img src="./images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px;"/>
+  <img src="../../images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px;"/>
 </a>
 <a href="./explore-case/EngageInAnInteractiveCase.md">
-  <img src="./images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px;"/>
+  <img src="../../images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px;"/>
 </a>
 
 ## 2. Idenfity options
