@@ -8,3 +8,5 @@ System diagrams are made up of a series of boxes, which represent the different 
 System diagrams are useful because they can help you to understand a system, and to see how the different parts of it interact with each other. They can also help you to spot any problems with a system, and to come up with ways to improve it.
 
 # Layout Variations
+# Examples
+# Resources

@@ -7,3 +7,5 @@ Making a tree diagram is simple. Just start with the main idea in the center, an
 Tree diagrams are useful because they give you a bird's eye view of a situation. You can quickly see how everything is connected, and identify any gaps. They're also helpful for brainstorming and problem solving.
 
 # Layout Variations
+# Examples
+# Resources

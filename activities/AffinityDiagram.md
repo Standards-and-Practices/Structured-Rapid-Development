@@ -8,3 +8,5 @@ To make an affinity diagram, start by writing down all of your ideas on sticky n
 Affinity diagrams can be helpful when you're brainstorming, or when you're trying to make sense of a bunch of information. By grouping together related ideas, you can start to see the big picture.
 
 # Layout Variations
+# Examples
+# Resources

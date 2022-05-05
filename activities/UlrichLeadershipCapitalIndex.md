@@ -17,3 +17,5 @@ The index is important because it provides a way to measure an individual's lead
 By understanding an individual's leadership potential, organizations can make better decisions about how to invest in their people.
 
 # Layout Variations
+# Examples
+# Resources

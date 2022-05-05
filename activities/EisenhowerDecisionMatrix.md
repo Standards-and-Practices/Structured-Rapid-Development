@@ -34,3 +34,5 @@ Here are instructions on how to use the Eisenhower Decision Matrix:
 
 ## Layout 2 (5 Pages):
 
+# Examples
+# Resources

@@ -8,3 +8,5 @@ Making a causal loop diagram is fairly simple. First, identify the different fac
 Causal loop diagrams are useful because they help you see the bigger picture. They can also be used to test out different scenarios to see how the system might react.
 
 # Layout Variations
+# Examples
+# Resources
