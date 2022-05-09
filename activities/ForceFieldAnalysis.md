@@ -1,0 +1,9 @@
+# Force Field Analysis
+
+# Getting Started
+
+When you're trying to effect change in an organization, it's important to understand the forces that are working for and against that change. That's where a Force Field Analysis comes in. A Force Field Analysis is simply a tool to help you map out the forces that are affecting a particular situation. To do a Force Field Analysis, you'll need to brainstorm all of the factors that are influencing the situation at hand. Once you have a good list, you can start to map out how those factors are affecting the situation. There are two types of forces that you'll need to consider: driving forces and restraining forces. Driving forces are the factors that are pushing for change, while restraining forces are the factors that are holding back change. Once you've mapped out the forces at play, you can start to identify strategies to overcome the restraining forces and effect change. Force Field Analyses can be helpful in a variety of situations, whether you're trying to effect change within an organization or trying to understand a complex situation. They're a valuable tool for anyone who needs to understand the forces at play in a given situation.
+
+# Layout Variations
+# Examples
+# Resources

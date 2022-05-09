@@ -1,0 +1,9 @@
+# Analogous Inspiration
+
+# Getting Started
+
+Analogous inspiration is a way to come up with new ideas by looking at existing ideas and seeing how they can be adapted or combined. To do this, you first need to come up with a list of existing ideas that are similar to what you want to create. Then, you need to look at each of these ideas and think about how they can be adapted or combined to create something new. This process is useful because it allows you to come up with new ideas that are based on existing ones. This means that you are more likely to come up with something that is practical and that people will actually want to use. Additionally, it can help you to spot gaps in the market that you can fill with your new product or service. To make an analogous inspiration board, you will need a list of existing ideas, a whiteboard or corkboard, and some push pins or tape. First, pin up your list of ideas on the board. Then, start looking at each idea and thinking about how it could be adapted or combined to create something new. As you come up with new ideas, jot them down on the board next to the appropriate existing idea. Keep going until you have a board full of new and exciting ideas.
+
+# Layout Variations
+# Examples
+# Resources
