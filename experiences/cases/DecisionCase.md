@@ -105,7 +105,7 @@ Select one or more of the following compatible modalities to enable learners to 
 - What are the major risks of your recommended decision?
 
 <a href="./recommend-action/EisenhowerDecisionMatrix.md">
-  <img src="./images/eisenhower-decision-matrix.svg" alt="Eisenhower Decision Matrix" style="width: 200px;"/>
+  <img src="../../images/eisenhower-decision-matrix.svg" alt="Eisenhower Decision Matrix" style="width: 200px;"/>
 </a>
 
 - [How Now Wow](https://www.sessionlab.com/methods/how-now-wow-matrix)

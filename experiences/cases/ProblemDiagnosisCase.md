@@ -24,16 +24,16 @@ The learner's objective in a Problem-Diagnosis Case is to:
 Select one or more of the following compatible modalities to enable learners to explore a case. 
 
 <a href="./explore-case/ReadACase.md">
-  <img src="../images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
+  <img src="../../images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
 </a>
 <a href="./explore-case/WatchACase.md">
-  <img src="../images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px;"/>
+  <img src="../../images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px;"/>
 </a>
 <a href="./explore-case/ListenToACase.md">
-  <img src="../images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px;"/>
+  <img src="../../images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px;"/>
 </a>
 <a href="./explore-case/EngageInAnInteractiveCase.md">
-  <img src="../images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px;"/>
+  <img src="../../images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px;"/>
 </a>
 
 ## 2. Identify the problem
@@ -42,7 +42,7 @@ Select one or more of the following compatible modalities to enable learners to 
 - Can you identify concepts of frameworks you have learned that might be useful for identifying and proving causes?
   
 <a href="./identify-problem/QuestionStorming.md">
-  <img src="./images/question-storming.svg" alt="Question Storming" style="width: 200px;"/>
+  <img src="../../images/question-storming.svg" alt="Question Storming" style="width: 200px;"/>
 </a>
 
 - [Context Mapping](https://www.sessionlab.com/methods/context-map)
@@ -52,13 +52,13 @@ Select one or more of the following compatible modalities to enable learners to 
 ## 3. Find the root cause
 
 <a href="./find-root-cause/FishboneDiagram.md">
-  <img src="../images/fishbone-diagram.svg" alt="Fishbone Diagram" style="width: 200px;"/>
+  <img src="../../images/fishbone-diagram.svg" alt="Fishbone Diagram" style="width: 200px;"/>
 </a>
 <a href="./find-root-cause/FiveWhys.md">
-  <img src="../images/five-whys.svg" alt="Five Whys" style="width: 200px;"/>
+  <img src="../../images/five-whys.svg" alt="Five Whys" style="width: 200px;"/>
 </a>
 <a href="./find-root-cause/ProblemTree.md">
-  <img src="../images/problem-tree.svg" alt="Problem Tree" style="width: 200px;"/>
+  <img src="../../images/problem-tree.svg" alt="Problem Tree" style="width: 200px;"/>
 </a>
 
   
