@@ -23,7 +23,7 @@ Structured Rapid Development uses three kinds of design patterns to streamline t
 <summary>Table of Contents</summary>
 
 - [Pathway Patterns](#pathway-patterns) - The journey a learner will go on.
-- [Experience Patterns](#experience-patterns) - Experiences on the journey that encourage learning.
+- [Learning Experience Patterns](#experience-patterns) - Learning experiences on the journey that encourage learning.
     - [Case Patterns](#case-patterns)
     - [Practice Patterns](#practice-patterns)
     - [Problems Patterns](#problems-patterns)
@@ -39,7 +39,7 @@ Pathways are organized sets of achievements that usually lead to some sort of cr
 - [Explorer](./pathways/Explorer.md) - Expose learners to a variety of topics.
 - [Deep Dive](./pathways/DeepDive.md) - Increase a learner's proficiency in a single domain.
 
-# Experience Patterns
+# Learning Experience Patterns
 Modules are the sub-components of pathways. They could be found at the certificate, course, competency, or sub-competency level. 
 ## Case Patterns
 
