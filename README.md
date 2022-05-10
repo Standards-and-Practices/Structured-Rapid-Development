@@ -73,9 +73,11 @@ Modules are the sub-components of pathways. They could be found at the certifica
 
 # Activites
 Check out the index of our learning activites [here](./activities/README.md).
-# Layout Patterns
+# Screen Layouts
 - Intro / Outro Sandwich
 - Check For Understanding (CFU)
+
+# [xBlock Components](./components/README.md)
 
 # OEX Structure
 
