@@ -17,20 +17,24 @@
 
 WGU's vision is to be the world's most innovative, student-centric university. 
 
-Structured Rapid Development uses three kinds of design patterns to streamline the learning product design and development.
+Structured Rapid Development uses these design patterns to streamline the learning product design and development.
+
+
+
 
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [Pathway Patterns](#pathway-patterns) - The journey a learner will go on.
-- [Learning Experience Patterns](#experience-patterns) - Learning experiences on the journey that encourage learning.
+- [Pathways](#pathway-patterns) - The journey a learner will go on.
+- [Learning Experiences](#experience-patterns) - Learning experiences on the journey that encourage learning.
     - [Case Patterns](#case-patterns)
     - [Practice Patterns](#practice-patterns)
     - [Problems Patterns](#problems-patterns)
     - [Design Patterns](#design-patterns)
     - [Inquiry Patterns](#inquiry-patterns)
 - [Activities](./activities/README.md)
-- [Layout Patterns](#layout-patterns) - What the user will actually see on their screen.
+- [Screen Layouts](#screen-layouts) - What the user will actually see on their screen.
+- [xBlocks](./xBlocks)
 
 </details>
 
@@ -40,7 +44,7 @@ Pathways are organized sets of achievements that usually lead to some sort of cr
 - [Deep Dive](./pathways/DeepDive.md) - Increase a learner's proficiency in a single domain.
 
 # Learning Experience Patterns
-Modules are the sub-components of pathways. They could be found at the certificate, course, competency, or sub-competency level. 
+Modules are the sub-xBlocks of pathways. They could be found at the certificate, course, competency, or sub-competency level. 
 ## Case Patterns
 
 
@@ -77,7 +81,7 @@ Check out the index of our learning activites [here](./activities/README.md).
 - Intro / Outro Sandwich
 - Check For Understanding (CFU)
 
-# [xBlock Components](./components/README.md)
+# [xBlock xBlocks](./xBlocks/README.md)
 
 # OEX Structure
 
