@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # The McKinsey 7S Framework
 
 # Getting Started

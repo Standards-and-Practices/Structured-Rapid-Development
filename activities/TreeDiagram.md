@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Tree Diagram
 # Getting Started
 A tree diagram is a way to visualize and organize information. It looks like a tree, with the main idea at the top, and smaller ideas branching off. You can use tree diagrams to map out anything from a family tree to the different steps in a project.

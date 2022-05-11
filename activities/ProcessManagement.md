@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Process Management
 
 # Getting Started

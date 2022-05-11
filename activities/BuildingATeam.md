@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # Build a Team
 
 # Getting Started

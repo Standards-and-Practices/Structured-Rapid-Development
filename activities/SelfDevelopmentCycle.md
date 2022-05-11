@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Self-Development Cycle
 
 # Getting Started

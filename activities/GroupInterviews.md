@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Group Interviews
 
 # Getting Started

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Expert Interviews
 
 # Getting Started

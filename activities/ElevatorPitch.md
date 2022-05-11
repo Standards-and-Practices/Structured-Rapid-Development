@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Elevator Pitch
 
 # Getting Started

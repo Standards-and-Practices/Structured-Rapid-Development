@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Ulrich's Leadership Capital Index
 
 # Getting Started

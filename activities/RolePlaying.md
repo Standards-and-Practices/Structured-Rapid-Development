@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Role Play
 
 # Getting Started

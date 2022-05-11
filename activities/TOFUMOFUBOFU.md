@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # TOFU, MOFU, and BOFU
 
 # Getting Started

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Insight Statements
 
 # Getting Started

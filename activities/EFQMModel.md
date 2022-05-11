@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The EFQM Model
 
 # Getting Started

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Heron's Six Categories of Intervention
 
 # Getting Started

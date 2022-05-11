@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # Causal Loop
 
 # Getting Started

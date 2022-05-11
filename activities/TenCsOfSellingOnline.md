@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Ten Cs of Selling Online
 
 # Getting Started

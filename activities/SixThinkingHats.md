@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Six Thinking Hats
 
 # Getting Started

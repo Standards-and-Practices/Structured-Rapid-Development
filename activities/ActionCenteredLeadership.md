@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # John Adair's Action-Centered Leadership model
 
 # Getting Started

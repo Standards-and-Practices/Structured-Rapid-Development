@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Total Quality Management (TQM)
 
 # Getting Started

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Scenario thinking
 
 # Getting Started

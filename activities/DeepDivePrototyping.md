@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # Deep Dive Prototyping
 
 # Getting Started

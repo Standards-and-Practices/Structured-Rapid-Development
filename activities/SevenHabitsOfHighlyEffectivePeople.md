@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Seven Habits of Highly Effective People
 
 # Getting Started

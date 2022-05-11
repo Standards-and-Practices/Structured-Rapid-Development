@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # 6W Method
 
 # Getting Started

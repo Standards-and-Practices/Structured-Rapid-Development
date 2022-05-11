@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The GRIP Framework (Goals, Reality, Implications, Plan)
 
 # Getting Started

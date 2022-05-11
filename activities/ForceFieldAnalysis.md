@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Force Field Analysis
 
 # Getting Started

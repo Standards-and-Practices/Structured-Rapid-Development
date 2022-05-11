@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Systems Diagram
 
 # Getting Started

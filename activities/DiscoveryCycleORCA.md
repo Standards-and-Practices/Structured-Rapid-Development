@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Discovery Cycle (ORCA)
 
 # Getting Started

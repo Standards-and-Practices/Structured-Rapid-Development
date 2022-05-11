@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # The Buyer's Cycle
 
 # Getting Started

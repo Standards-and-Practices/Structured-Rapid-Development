@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # The Change Curve
 
 # Getting Started

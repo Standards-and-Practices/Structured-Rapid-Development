@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Strategic HRM Model
 
 # Getting Started

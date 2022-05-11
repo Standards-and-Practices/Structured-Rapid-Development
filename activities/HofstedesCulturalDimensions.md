@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Hofstede's cultural dimensions
 
 # Getting Started

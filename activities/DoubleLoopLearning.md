@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Double-loop Learning
 
 # Getting Started

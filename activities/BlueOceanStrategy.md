@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # Blue Ocean Strategy
 
 # Getting Started

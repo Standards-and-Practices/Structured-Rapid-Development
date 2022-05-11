@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The service profit chain
 
 # Getting Started

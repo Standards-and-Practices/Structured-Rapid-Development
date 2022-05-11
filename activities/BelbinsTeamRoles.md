@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # Belbin's Team Roles
 
 # Getting Started

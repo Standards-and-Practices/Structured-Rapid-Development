@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Seven Steps for Surviving a Downturn
 
 # Getting Started

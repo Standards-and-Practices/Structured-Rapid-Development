@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Six Levels of Strategic Agility and Cost Control
 
 # Getting Started

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Market positioning and value curves
 
 # Getting Started

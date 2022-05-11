@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Secondary Research
 
 # Getting Started

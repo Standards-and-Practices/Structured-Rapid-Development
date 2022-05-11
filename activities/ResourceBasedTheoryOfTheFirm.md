@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Resource-based Theory of the Firm
 
 # Getting Started

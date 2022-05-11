@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Get Feedback
 
 # Getting Started

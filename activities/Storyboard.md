@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Storyboard
 
 # Getting Started

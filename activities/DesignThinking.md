@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # Design Thinking
 
 # Getting Started

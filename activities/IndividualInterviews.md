@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Individual Interviews
 
 # Getting Started

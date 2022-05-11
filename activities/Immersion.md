@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Immersion Observation
 
 # Getting Started

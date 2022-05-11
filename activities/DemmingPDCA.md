@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # The Deming Cycle (PDCA)
 
 # Getting Started

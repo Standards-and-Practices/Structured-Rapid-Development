@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Ratio Analysis
 
 # Getting Started

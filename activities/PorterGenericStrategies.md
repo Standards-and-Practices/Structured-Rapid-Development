@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Porter's Generic Competitive Strategies
 
 # Getting Started

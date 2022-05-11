@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Tipping Point
 
 # Getting Started

@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # Developing intangible resources
 
 # Getting Started

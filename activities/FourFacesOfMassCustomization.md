@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Four Faces of Mass Customization
 
 # Getting Started

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Pareto Chart
 
 # Getting Started

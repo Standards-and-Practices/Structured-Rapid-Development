@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # Bodystorming
 
 # Getting Started

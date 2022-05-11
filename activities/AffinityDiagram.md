@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # Affinity Diagram
 
 # Getting Started

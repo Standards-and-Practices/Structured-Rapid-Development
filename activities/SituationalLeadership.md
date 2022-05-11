@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Situational Leadership
 
 # Getting Started

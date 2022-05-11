@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Six Steps of Delegation
 
 # Getting Started

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Five Whys method
 
 # Getting Started

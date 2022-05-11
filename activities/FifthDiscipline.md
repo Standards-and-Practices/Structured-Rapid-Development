@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Peter Senge's Fifth Discipline
 
 # Getting Started

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Porter's Value Chain
 
 # Getting Started

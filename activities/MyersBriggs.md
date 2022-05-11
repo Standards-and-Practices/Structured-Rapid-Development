@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Myers-Briggs Type Indicator
 
 # Getting Started

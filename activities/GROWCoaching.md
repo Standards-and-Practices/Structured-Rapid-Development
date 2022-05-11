@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # GROW Coaching Model
 
 # Getting Started

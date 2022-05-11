@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Ways to Grow Framework
 
 # Getting Started

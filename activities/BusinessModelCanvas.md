@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # Business Model Canvas
 
 # Getting Started

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Six Rs of business
 
 # Getting Started

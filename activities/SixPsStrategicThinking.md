@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Six Ps of Strategic Thinking
 
 # Getting Started

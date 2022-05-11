@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Product Life Cycle
 
 # Getting Started

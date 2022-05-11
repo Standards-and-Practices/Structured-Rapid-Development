@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # Benchmarking
 
 # Getting Started

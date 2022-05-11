@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Problem Tree
 
 # Getting Started

@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Activities
+---
 # Card Sorting
 
 # Getting Started

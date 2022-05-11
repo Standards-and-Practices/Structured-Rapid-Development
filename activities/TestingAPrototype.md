@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Testing a Prototype
 
 # Getting Started

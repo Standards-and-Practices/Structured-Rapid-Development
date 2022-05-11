@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Rule of 150
 
 # Getting Started

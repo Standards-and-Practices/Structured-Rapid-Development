@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The NIne-Box Grid
 
 # Getting Started

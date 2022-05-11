@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Shareholder value analysis
 
 # Getting Started

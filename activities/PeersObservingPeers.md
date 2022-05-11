@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Peers Observing Peers
 
 # Getting Started

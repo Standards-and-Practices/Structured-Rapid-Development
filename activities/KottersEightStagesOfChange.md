@@ -1,4 +1,9 @@
 
+---
+layout: default
+parent: Activities
+---
+
 # Kotter's Eight-Stage Process for Leading Change
 
 # Getting Started

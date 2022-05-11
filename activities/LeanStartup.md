@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Lean Startup Methodology
 
 # Getting Started

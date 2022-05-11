@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Design Listening Sessions
 
 # Getting Started

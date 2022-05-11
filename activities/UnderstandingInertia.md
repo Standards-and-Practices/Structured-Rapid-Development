@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # Understanding and avoiding intertia
 
 # Getting Started

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Activities
+---
+
 # The Four Ps of Marketing
 
 # Getting Started
