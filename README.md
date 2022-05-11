@@ -24,10 +24,10 @@ Structured Rapid Development uses these design patterns to streamline the learni
 <summary>Table of Contents</summary>
 
 - [Pathways](#pathway-patterns) - The journey a learner will go on.
-- [Learning Experiences](#experience-patterns) - Learning experiences on the journey that encourage learning.
+- [Learning Experiences](#learning-experience-patterns) - Learning experiences on the journey that encourage learning.
     - [Case Patterns](#case-patterns)
     - [Practice Patterns](#practice-patterns)
-    - [Problems Patterns](#problems-patterns)
+    - [Problem Patterns](#problem-patterns)
     - [Design Patterns](#design-patterns)
     - [Inquiry Patterns](#inquiry-patterns)
 - [Activities](./activities/README.md)

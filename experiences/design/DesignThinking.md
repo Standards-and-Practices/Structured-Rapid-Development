@@ -31,24 +31,24 @@ A learning experience implementing the Design Thinking pattern typically follows
 The first step in design thinking is to help learners develop empathy for their users.
 
 ### Tools
-- [Empathy Map ⭐](https://www.nngroup.com/articles/empathy-mapping/)
+- [Empathy Map ⭐](../../activities/EmpathyMap.md)
 - Observation
-  - [Immersion](https://www.designkit.org/methods/immersion)
-  - [Observing Peers](https://www.designkit.org/methods/peers-observing-peers)
-  - [Diary Studies](https://www.nngroup.com/videos/diary-studies/)
+  - [Immersion](../../activities/Immersion.md)
+  - [Observing Peers](../../activities/ObservingPeers.md)
+  - [Diary Studies](../../activities/DiaryStudies.md)
 - Interviews
-  - [Basic Interviewing](https://www.designkit.org/methods/interview)
-  - [Group Interview](https://www.designkit.org/methods/group-interview)
-  - [Expert Interview](https://www.designkit.org/methods/expert-interview)
-  - [Listening Sessions](https://indiyoung.com/listening-tips/)
+  - [Basic Interviewing](../../activities/BasicInterviewing.md)
+  - [Group Interview](../../activities/GroupInterviews.md)
+  - [Expert Interview](../../activities/ExpertInterviews.md)
+  - [Listening Sessions](../../activities/ListeningSessions.md)
 - Survey
-- [Bodystorm](https://think.design/user-design-research/bodystorming/)
-- [Journey maps](https://www.nngroup.com/articles/journey-mapping-101/)
-- [Storyboards](https://medium.com/@joellewhagen/building-empathy-with-storyboarding-bbc0eed615b)
-- [Ask the 5 whys](https://www.designkit.org/methods/the-five-whys)
-- [Photojournaling](https://www.designkit.org/methods/photojournal)
-- [Affinity diagram](https://www.nngroup.com/articles/affinity-diagram/)
-- [6W Method](https://www.designthinking-methods.com/en/1Empathie/6w.html)
+- [Bodystorm](../../activities/Bodystorm.md)
+- [Journey maps](../../activities/JourneyMap.md)
+- [Storyboard](../../activities/Storyboard.md)
+- [Ask the 5 whys](../../activities/FiveWhys.md)
+- [Photojournal](../../activities/Photojournal.md)
+- [Affinity diagram](../../activities/AffinityDiagram.md)
+- [6W Method](../../activities/6WMethod.md)
 
 ## Define
 
