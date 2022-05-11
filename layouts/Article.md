@@ -3,8 +3,7 @@
 - [Article](#article)
   - [Article with Full-width Header Image](#article-with-full-width-header-image)
     - [Compatibility](#compatibility)
-    - [Required xBlocks:  Image, [Text]()](#required-xblocks--image-text)
-    - [Compatiblity](#compatiblity)
+    - [Required xBlocks: Image, [Text](../xBlocks/Text.md)](#required-xblocks-image-text)
     - [xBlocks Required](#xblocks-required)
   - [Article with Left-aligned Image](#article-with-left-aligned-image)
   - [Article with Right-aligned Image](#article-with-right-aligned-image)
@@ -17,13 +16,11 @@
 
 <img style="width:100px;" src="../images/layouts/article_01.png" alt="Article 01" />
 
-### Compatibility   
-  ![](https://img.shields.io/badge/NGP-Compatible-blue)![](https://img.shields.io/badge/CGP-Compatible-orange)  
-  ### Required xBlocks:  [Image](), [Text]()
-### Compatiblity
+### Compatibility
 
-![](https://img.shields.io/badge/NGP-Compatible-blue)
-![](https://img.shields.io/badge/CGP-Compatible-orange)
+![](https://img.shields.io/badge/NGP-Compatible-blue)![](https://img.shields.io/badge/CGP-Compatible-orange)
+
+### Required xBlocks: [Image](../xBlocks/Image.md), [Text](../xBlocks/Text.md)
 
 ### xBlocks Required
 
