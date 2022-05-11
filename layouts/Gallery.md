@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Screen Layouts
+---
+
 # Gallery
 <img style="width:100px;display:inline-block;" src="../images/layouts/gallery_01.png" alt="Gallery 01" />
 <img style="width:100px;display:inline-block;" src="../images/layouts/gallery_02.png" alt="Gallery 02" />

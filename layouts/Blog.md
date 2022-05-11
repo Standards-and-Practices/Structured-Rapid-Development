@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Screen Layouts
+---
+
 # Blog
 <img style="width:100px;display:inline-block;" src="../images/layouts/blog_01.png" alt="Blog 01" />
 <img style="width:100px;display:inline-block;" src="../images/layouts/blog_02.png" alt="Blog 02" />

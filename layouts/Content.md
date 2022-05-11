@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Screen Layouts
+---
+
 # Content
 <img style="width:100px;display:inline-block;" src="../images/layouts/content_01.png" alt="Content 01" />
 <img style="width:100px;display:inline-block;" src="../images/layouts/content_02.png" alt="Content 02" />

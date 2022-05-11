@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Screen Layouts
+---
+
 # Media
 <img style="width:100px;display:inline-block;" src="../images/layouts/media_01.png" alt="Media 01" />
 <img style="width:100px;display:inline-block;" src="../images/layouts/media_02.png" alt="Media 02" />

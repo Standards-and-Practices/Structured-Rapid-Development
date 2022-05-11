@@ -3,6 +3,7 @@ layout: default
 title: xBlocks
 nav_order: 6
 has_children: true
+parent: Home
 permalink: /xBlocks
 ---
 # xBlocks

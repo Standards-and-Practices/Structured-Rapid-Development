@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Screen Layouts
+---
+
 # Intro
 <img style="width:100px;display:inline-block;" src="../images/layouts/intro_01.png" alt="Intro 01" />
 <img style="width:100px;display:inline-block;" src="../images/layouts/intro_02.png" alt="Intro 02" />

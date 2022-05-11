@@ -3,6 +3,7 @@ layout: default
 title: Activites
 nav_order: 4
 has_children: true
+parent: Home
 permalink: /activities
 ---
 # Activities for Learning

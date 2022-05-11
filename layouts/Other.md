@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Screen Layouts
+---
+
 # Other
 <img style="width:100px;display:inline-block;" src="../images/layouts/other_01.png" alt="Other 01" />
 <img style="width:100px;display:inline-block;" src="../images/layouts/other_02.png" alt="Other 02" />
