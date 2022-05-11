@@ -1,3 +1,8 @@
+---
+layout: default
+parent: xBlocks
+---
+
 # Video Player
 Videos are added primarily with Advanced Components WGUVideoDAMS that do not require HTML.
 

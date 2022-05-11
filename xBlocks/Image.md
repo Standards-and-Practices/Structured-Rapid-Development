@@ -1,3 +1,8 @@
+---
+layout: default
+parent: xBlocks
+---
+
 # Image
 Images and videos are added primarily with Advanced Components (WGUImagesDAMS and WGUVideoDAMS) that do not require HTML.
 

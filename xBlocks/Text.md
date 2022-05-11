@@ -1,3 +1,8 @@
+---
+layout: default
+parent: xBlocks
+---
+
 # Text Content
 
 Explanations for  this component is documented in the WGUx Sharepoint site.
