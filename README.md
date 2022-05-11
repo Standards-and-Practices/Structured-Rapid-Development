@@ -1,3 +1,11 @@
+---
+layout: default
+title: Structured Rapid Development
+nav_order: 1
+has_children: true
+permalink: /
+---
+
 <h1 align="center">
   <a href="https://github.com/Standards-and-Practices/structured-rapid-development">
     <img src="./logo.png" alt="Structured Rapid Development" width="128" /><br/>
