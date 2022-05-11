@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Experiences
+---
+
 # Problems-based CBE Patterns
 
 # Guiding Theories

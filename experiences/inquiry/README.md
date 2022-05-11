@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Experiences
+---
+
 # Inquiry Patterns
 
 

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Experiences
+---
+
 # Case Patterns
 
 "Cases are an analogue of reality—an avatar, if you like—for the direct experience of business
