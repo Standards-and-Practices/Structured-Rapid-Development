@@ -76,76 +76,13 @@ Modules are the sub-xBlocks of pathways. They could be found at the certificate,
 # Activites
 Check out the index of our learning activites [here](./activities/README.md).
 # Screen Layouts
-## Article
-<img style="width:100px;display:inline-block;" src="./images/layouts/article_01.png" alt="Article 01" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/article_02.png" alt="Article 02" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/article_03.png" alt="Article 03" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/article_04.png" alt="Article 04" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/article_05.png" alt="Article 05" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/article_06.png" alt="Article 06" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/article_07.png" alt="Article 07" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/article_08.png" alt="Article 08" />
-
-
-## Blog
-<img style="width:100px;display:inline-block;" src="./images/layouts/blog_01.png" alt="Blog 01" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/blog_02.png" alt="Blog 02" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/blog_03.png" alt="Blog 03" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/blog_04.png" alt="Blog 04" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/blog_05.png" alt="Blog 05" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/blog_06.png" alt="Blog 06" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/blog_07.png" alt="Blog 07" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/blog_08.png" alt="Blog 08" />
-
-## Content
-<img style="width:100px;display:inline-block;" src="./images/layouts/content_01.png" alt="Content 01" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/content_02.png" alt="Content 02" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/content_03.png" alt="Content 03" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/content_04.png" alt="Content 04" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/content_05.png" alt="Content 05" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/content_06.png" alt="Content 06" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/content_07.png" alt="Content 07" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/content_08.png" alt="Content 08" />
-
-## Gallery
-<img style="width:100px;display:inline-block;" src="./images/layouts/gallery_01.png" alt="Gallery 01" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/gallery_02.png" alt="Gallery 02" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/gallery_03.png" alt="Gallery 03" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/gallery_04.png" alt="Gallery 04" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/gallery_05.png" alt="Gallery 05" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/gallery_06.png" alt="Gallery 06" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/gallery_07.png" alt="Gallery 07" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/gallery_08.png" alt="Gallery 08" />
-
-## Intro
-<img style="width:100px;display:inline-block;" src="./images/layouts/intro_01.png" alt="Intro 01" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/intro_02.png" alt="Intro 02" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/intro_03.png" alt="Intro 03" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/intro_04.png" alt="Intro 04" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/intro_05.png" alt="Intro 05" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/intro_06.png" alt="Intro 06" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/intro_07.png" alt="Intro 07" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/intro_08.png" alt="Intro 08" />
-
-## Media
-<img style="width:100px;display:inline-block;" src="./images/layouts/media_01.png" alt="Media 01" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/media_02.png" alt="Media 02" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/media_03.png" alt="Media 03" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/media_04.png" alt="Media 04" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/media_05.png" alt="Media 05" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/media_06.png" alt="Media 06" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/media_07.png" alt="Media 07" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/media_08.png" alt="Media 08" />
-
-## Other
-<img style="width:100px;display:inline-block;" src="./images/layouts/other_01.png" alt="Other 01" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/other_02.png" alt="Other 02" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/other_03.png" alt="Other 03" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/other_04.png" alt="Other 04" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/other_05.png" alt="Other 05" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/other_06.png" alt="Other 06" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/other_07.png" alt="Other 07" />
-<img style="width:100px;display:inline-block;" src="./images/layouts/other_08.png" alt="Other 08" />
+- [Article](./layouts/Article.md)
+- [Blog](./layouts/Blog.md)
+- [Content](./layouts/Content.md)
+- [Gallery](./layouts/Gallery.md)
+- [Intro](./layouts/Intro.md)
+- [Media](./layouts/Media.md)
+- [Other](./layouts/Other.md)
 
 
 - ~~Intro / Outro Sandwich~~ 
