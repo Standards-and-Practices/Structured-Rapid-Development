@@ -6,4 +6,5 @@ What Is a Porter’s Value Chain? A Porter’s value chain is a model that helps
 
 # Layout Variations
 # Examples
+If you're using this activity, [let us know](https://github.com/Standards-and-Practices/structured-rapid-development/issues/new?assignees=&labels=documentation&template=example-submission.md&title=Example+of+%5Byour+pattern+here%5D), so we can share it as an example.
 # Resources

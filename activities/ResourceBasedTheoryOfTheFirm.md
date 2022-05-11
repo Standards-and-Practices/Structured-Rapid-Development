@@ -6,4 +6,5 @@ A resource-based theory of the firm (RBT) is a model that views a company as a c
 
 # Layout Variations
 # Examples
+If you're using this activity, [let us know](https://github.com/Standards-and-Practices/structured-rapid-development/issues/new?assignees=&labels=documentation&template=example-submission.md&title=Example+of+%5Byour+pattern+here%5D), so we can share it as an example.
 # Resources

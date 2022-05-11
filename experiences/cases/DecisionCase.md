@@ -74,16 +74,16 @@ A learning experience implementing the Decision Case pattern typically follows t
  - Explain - Tell them what they're going to get out of this. -->
 Select one or more of the following compatible modalities to enable learners to explore a case.
 
-<a href="./explore-case/ReadACase.md">
+<a href="../../activities/ReadACase.md">
   <img src="../../images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
 </a>
-<a href="./explore-case/WatchACase.md">
+<a href="../../activities/WatchACase.md">
   <img src="../../images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px;"/>
 </a>
-<a href="./explore-case/ListenToACase.md">
+<a href="../../activities/ListenToACase.md">
   <img src="../../images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px;"/>
 </a>
-<a href="./explore-case/EngageInAnInteractiveCase.md">
+<a href="../../activities/EngageInAnInteractiveCase.md">
   <img src="../../images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px;"/>
 </a>
 
@@ -104,9 +104,8 @@ Select one or more of the following compatible modalities to enable learners to 
 - What are the major reasons that support your recommendation?
 - What are the major risks of your recommended decision?
 
-<a href="./recommend-action/EisenhowerDecisionMatrix.md">
-  <img src="../../images/eisenhower-decision-matrix.svg" alt="Eisenhower Decision Matrix" style="width: 200px;"/>
-</a>
+[![Decision Matrix](../../images/eisenhower-decision-matrix.svg)](../../activities/EisenhowerDecisionMatrix.md)
+
 
 - [How Now Wow](https://www.sessionlab.com/methods/how-now-wow-matrix)
 - [Pareto Chart](https://www.sessionlab.com/methods/pareto-chart)

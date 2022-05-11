@@ -6,4 +6,5 @@ Insight Statements are a tool that can be used to help you better understand you
 
 # Layout Variations
 # Examples
+If you're using this activity, [let us know](https://github.com/Standards-and-Practices/structured-rapid-development/issues/new?assignees=&labels=documentation&template=example-submission.md&title=Example+of+%5Byour+pattern+here%5D), so we can share it as an example.
 # Resources
