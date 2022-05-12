@@ -8,7 +8,6 @@ Practice is one of the most effective skill-building strategies for learners of 
 
 But poorly designed practice opportunities can have detrimental effects by promoting rote memorization, reinforcing narrow skill development, and frustrating under-performing learners.
 
-
 # Guiding Theories
 - Deliberate Practice
 - Expert Performance
