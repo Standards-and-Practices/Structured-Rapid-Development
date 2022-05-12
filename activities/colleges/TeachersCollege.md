@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: By Colleges
+parent: By College
 grand_parent: Activities
 has_children: true
 ---

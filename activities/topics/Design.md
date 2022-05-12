@@ -1,7 +1,6 @@
 ---
 layout: default
-parent: Topics
+parent: By Topic
 grand_parent: Activities
-has_children: true
 ---
 # Design
