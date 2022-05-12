@@ -2,6 +2,7 @@
 layout: default
 parent: Experiences
 title: Inquiry
+has_children: true
 ---
 
 # Inquiry

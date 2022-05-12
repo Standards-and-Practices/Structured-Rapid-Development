@@ -1,6 +1,7 @@
 ---
 layout: default
 parent: Experiences
+has_children: true
 ---
 
 # Cases
