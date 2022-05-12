@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 permalink: /activities
 ---
-# Activities for Learning
+# Learning Activities
 Activities are packaged stimuili that encourage learners to grow. They are composed of [layouts](../layouts/README.md) and are combined to form [experiences](../experiences/README.md). 
 
 # Topical Index
@@ -27,10 +27,10 @@ Learning Skills
 Career Skills
 
 # By College
-## College of Information Technology
-## College of Health Professions
-## College of Business
-## Teacher's College
+- [College of Information Technology](/activities/colleges/CollegeOfInformationTechnology.md)
+- [College of Health Professions](/activities/colleges/CollegeOfHealthProfessions.md)
+- [College of Business](/activities/colleges/CollegeOfBusiness.md)
+- [Teacher's College](/activities/colleges/TeachersCollege.md)
 # Alphabetical Index
 - [Eisenhower Decision Matrix](./EisenhowerDecisionMatrix.md)
 - [Elevator Pitch](./ElevatorPitch.md)]
