@@ -3,7 +3,7 @@ layout: default
 parent: Experiences
 ---
 
-# Inquiry Patterns
+# Inquiry
 
 
 In their article, The Many Levels of Inquiry, Heather Banchi and Randy Bell (2008)[^1] clearly outlines four levels of inquiry.

@@ -3,7 +3,7 @@ layout: default
 parent: Experiences
 ---
 
-# Design Patterns
+# Design
 # Guiding Theories
 -	Design Thinking
 -	Problem-based Learning

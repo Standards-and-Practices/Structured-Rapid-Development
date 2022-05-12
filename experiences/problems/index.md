@@ -3,7 +3,7 @@ layout: default
 parent: Experiences
 ---
 
-# Problems-based CBE Patterns
+# Problems
 
 # Guiding Theories
 -	Problem-based Learning (PBL)

@@ -3,7 +3,7 @@ layout: default
 parent: Experiences
 ---
 
-# Case Patterns
+# Cases
 
 "Cases are an analogue of reality—an avatar, if you like—for the direct experience of business
 or other types of activities. They immerse you in certainties and vagaries. To perform this
