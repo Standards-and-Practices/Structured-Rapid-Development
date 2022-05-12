@@ -1,6 +1,7 @@
 ---
 layout: default
-nav_exclude: true
+parent: Alphabetically
+grand_parent: Activities
 ---
 
 # Kotter's Eight-Stage Process for Leading Change

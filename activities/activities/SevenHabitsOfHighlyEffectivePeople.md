@@ -1,6 +1,7 @@
 ---
 layout: default
-nav_exclude: true
+parent: Alphabetically
+grand_parent: Activities
 ---
 
 # The Seven Habits of Highly Effective People

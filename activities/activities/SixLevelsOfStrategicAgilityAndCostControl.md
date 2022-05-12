@@ -1,6 +1,7 @@
 ---
 layout: default
-nav_exclude: true
+parent: Alphabetically
+grand_parent: Activities
 ---
 
 # Six Levels of Strategic Agility and Cost Control

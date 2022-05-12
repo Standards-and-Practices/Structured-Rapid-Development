@@ -5,7 +5,7 @@ grand_parent: Activities
 ---
 # Business
 
-## Decisionmaking
+## Decision-Making
 - [ParetoChart](../activities/ParetoChart.md)
 
 ## Entrepreneurship

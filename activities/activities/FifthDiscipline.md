@@ -1,6 +1,7 @@
 ---
 layout: default
-nav_exclude: true
+parent: Alphabetically
+grand_parent: Activities
 ---
 
 # Peter Senge's Fifth Discipline
