@@ -6,9 +6,19 @@ permalink: /
 ---
 
 # Structured Rapid Development
+
 `Design Patterns to Streamline Learning Design and Development.`
 
 WGU's vision is to be the world's most innovative, student-centric university. Structured Rapid Development uses these design patterns to streamline the learning product design and development.
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 # Pathway Patterns
 

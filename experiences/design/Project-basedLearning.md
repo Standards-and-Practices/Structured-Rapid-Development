@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Inquiry
+parent: Design
 grand_parent: Experiences
 ---
-# Scientific Method
+# Project-based Learning
 Coming soon!
