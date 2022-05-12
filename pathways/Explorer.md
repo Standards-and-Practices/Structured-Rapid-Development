@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Pathways
+title: Explorer 
+---
 # Explorer Pathway
 **Student Objective: Gain exposure to a variety of topics.**
 

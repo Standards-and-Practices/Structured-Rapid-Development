@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Pathways
+title: Deep Dive
+---
 # Deep Dive Pathway
 **Student Objective: Increase proficiency in a single domain.**
 

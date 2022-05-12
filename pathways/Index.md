@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pathway Patterns
+title: Pathways
 nav_order: 2
 has_children: true
 permalink: /pathways
