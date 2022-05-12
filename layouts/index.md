@@ -3,7 +3,6 @@ layout: default
 title: Screen Layouts
 nav_order: 5
 has_children: true
-parent: Home
 permalink: /layouts
 ---
 # Screen Layouts
