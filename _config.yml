@@ -12,14 +12,3 @@ aux_links:
     - "https://github.com/Standards-and-Practices/structured-rapid-development/discussions"
   "Share an Example":
     - "https://github.com/Standards-and-Practices/structured-rapid-development/issues/new?assignees=&labels=documentation&template=example-submission.md&title=Example+of+%5Byour+pattern+here%5D"
-
-
-defaults:
-  -
-    scope:
-      path: "activities"
-      type: "activities" 
-    values:
-      layout: activity
-      parent: Alphabetically
-      grand_parent: Activities
