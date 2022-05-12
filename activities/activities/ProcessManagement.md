@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: activity
 parent: Alphabetically
 grand_parent: Activities
 ---
