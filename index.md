@@ -5,15 +5,10 @@ nav_order: 1
 permalink: /
 ---
 
-<a href="https://github.com/Standards-and-Practices/structured-rapid-development">
-<img src="./logo.png" alt="Structured Rapid Development" width="128" />
-</a>
+# Structured Rapid Development
+`Design Patterns to Streamline Learning Design and Development.`
 
-Design Patterns to Streamline Learning Design and Development.
-
-WGU's vision is to be the world's most innovative, student-centric university.
-
-Structured Rapid Development uses these design patterns to streamline the learning product design and development.
+WGU's vision is to be the world's most innovative, student-centric university. Structured Rapid Development uses these design patterns to streamline the learning product design and development.
 
 # Pathway Patterns
 
