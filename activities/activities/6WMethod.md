@@ -1,13 +1,9 @@
 ---
-layout: activity
 title: 6W Method
 layoutVariations: Layouts here
 resources: Resources Here
 ---
 # 6W Method
-
-# Getting Started
-
 
 Have you ever found yourself in a situation where you're not sure what to do next? Maybe you're feeling overwhelmed by a project, or you've hit a roadblock in your work. The 6W Method can help you figure out what to do next.
 
@@ -52,10 +48,3 @@ Before you choose a solution, it's important to consider the risks and benefits 
 Once you've chosen a solution, you need to come up with a plan for how to implement it. What are the steps you need to take? Who needs to be involved? What resources are required?
 
 Making a 6W Method is a simple way to figure out what to do next. It's a helpful tool to use when you're feeling overwhelmed or stuck. By answering these six questions, you can develop a plan of action and move forward.
-
-# Layout Variations
-
-# Examples
-If you're using this activity, [let us know](https://github.com/Standards-and-Practices/structured-rapid-development/issues/new?assignees=&labels=documentation&template=example-submission.md&title=Example+of+%5Byour+pattern+here%5D), so we can share it as an example.
-
-# Resources
