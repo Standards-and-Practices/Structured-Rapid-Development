@@ -1,4 +1,5 @@
 ---
+layout: activity
 title: 6W Method
 layoutVariations: Layouts here
 resources: Resources Here
