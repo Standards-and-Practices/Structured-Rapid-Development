@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Cases
+---
 # Evaluation Case
 
 The *Case Study Handbook*[^1] explains Evaluation Cases as follows:

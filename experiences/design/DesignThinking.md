@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Design
+---
 # Design Thinking
 Design thinking is a human-centric, iterative problem-solving method. While there are multiple frameworks for thinking about design, each shares some common principles. 
 

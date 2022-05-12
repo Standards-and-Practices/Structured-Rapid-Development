@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Other
+---
 # Information Delivery
 
 ## Upfront Delivery

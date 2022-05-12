@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Cases
+---
 # Problem-Diagnosis Case
 
 Across disciplines, qualified professionals are distinguished by their ability to diagnose and solve problems in a variety of circumstances.

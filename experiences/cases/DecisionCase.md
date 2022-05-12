@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Cases
+---
 # Decision Case
 Helping learners step into the shoes of a decision maker during a critical moment of decision can be an engaging way to teach both subject-matter and critical thinking. Decision-based cases are the most common type of case study.
 
