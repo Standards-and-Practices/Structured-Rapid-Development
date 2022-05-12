@@ -30,11 +30,6 @@ Push beyond, specific goals, focus/reflection, high quality feedback, develop a 
 ## Consequences
 When we practice something, we are involved in the deliberate repetition of a process with the intention of reaching a specific goal. The words deliberate and intention are key here because they define the difference between actively practicing something and passively learning it (Sterner, 2012).
 
-
-# Applicable Theories
-## Deliberate Practice
-
-
 # Resources By College
 ## College of Business
 - 

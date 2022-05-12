@@ -21,15 +21,12 @@ The teacher provides only the research question for the students. The students a
 
 ### Level 4: Open/True Inquiry
 Students formulate their own research question(s), design and follow through with a developed procedure, and communicate their findings and results. This type of inquiry is often seen in science fair contexts where students drive their own investigative questions.
+
 # Guiding Theories
 -	Scientific Method
 -	Socratic Method
 -	Statistical Analysis
 -	Logic
 -	Dialogic
-
-## Pattern Catalog
-- [Scientific Method](./ScientificMethod.md)
-- [Socratic Method](./SocraticMethod.md)
 
 [^1]: [Bell, R., Banchi, H. (2008). The Many Levels of Inquiry. Science & Children, 46(2), 26-29.](https://www.michiganseagrant.org/lessons/wp-content/uploads/sites/3/2019/04/The-Many-Levels-of-Inquiry-NSTA-article.pdf)
