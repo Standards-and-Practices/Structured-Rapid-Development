@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Activities
+nav_exclude: true
 ---
 
 # Drivers of trust and the Trust Cycle

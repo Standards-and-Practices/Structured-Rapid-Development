@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Activities
+nav_exclude: true
 ---
 
 # The Resource-based Theory of the Firm

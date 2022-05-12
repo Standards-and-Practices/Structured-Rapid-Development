@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Activities
+nav_exclude: true
 ---
 # Check For Understanding
 # Pattern Structure

@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Activities
+nav_exclude: true
 ---
 
 # Seven Steps for Surviving a Downturn

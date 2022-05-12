@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Activities
+nav_exclude: true
 ---
 
 # Ulrich's Leadership Capital Index

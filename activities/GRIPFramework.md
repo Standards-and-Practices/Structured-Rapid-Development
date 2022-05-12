@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Activities
+nav_exclude: true
 ---
 
 # The GRIP Framework (Goals, Reality, Implications, Plan)

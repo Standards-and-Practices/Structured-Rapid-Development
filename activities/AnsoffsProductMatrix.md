@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Activities
+nav_exclude: true
 ---
 # Ansoff's Product Matrix
 # Getting Started
