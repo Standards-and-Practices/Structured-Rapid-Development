@@ -1,7 +1,7 @@
 ---
-layout: activity
-parent: Alphabetically
-grand_parent: Activities
+title: 6W Method
+layoutVariations: Layouts here
+resources: Resources Here
 ---
 # 6W Method
 
