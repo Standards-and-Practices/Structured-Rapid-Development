@@ -31,13 +31,5 @@ Career Skills
 - [College of Health Professions](/activities/colleges/CollegeOfHealthProfessions.md)
 - [College of Business](/activities/colleges/CollegeOfBusiness.md)
 - [Teacher's College](/activities/colleges/TeachersCollege.md)
-# Alphabetical Index
-- [Eisenhower Decision Matrix](./EisenhowerDecisionMatrix.md)
-- [Elevator Pitch](./ElevatorPitch.md)]
-- [Fishbone Diagram](./FishboneDiagram.md)
-- [Five Whys](./FiveWhys.md)
-- [Pareto Chart](./ParetoChart.md)
-- [Problem Tree](./ProblemTree.md)
-- [Question Storming](./QuestionStorming.md)
-- [Ulrich Leadership Capital Index](./UlrichLeadershipCapitalIndex.md)
+
 
