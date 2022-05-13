@@ -2,6 +2,8 @@
 title: 6W Method
 layout: activity
 parent: Alphabetically
+layoutVariations: Hello!
+resources: What's going on?
 grand_parent: Activities
 ---
 # 6W Method
