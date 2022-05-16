@@ -1,14 +1,35 @@
 ---
 layout: default
 ---
+
 {{ content }}
 
 <h1>Layout Variations</h1>
-{{ page.layoutVariations }}
+<ul>
+	{% for layout in site.layoutVariations %}
+	<li>
+		<a href="{{ layout.url }}">{{ layout.title }}</a>
+	</li>
+	{% endfor %}
+</ul>
 
 <h1>Examples</h1>
-If you're using this activity, <a href="https://github.com/Standards-and-Practices/structured-rapid-development/issues/new?assignees=&labels=documentation&template=example-submission.md&title=Example+of+%5Byour+pattern+here%5D">let us know</a>, so we can share it as an example.
-{{ page.examples }}
+If you're using this activity,
+<a href="https://github.com/Standards-and-Practices/structured-rapid-development/issues/new?assignees=&labels=documentation&template=example-submission.md&title=Example+of+%5Byour+pattern+here%5D">let us know</a>, so we can share it as an example. 
+<ul>
+	{% for example in site.examples %}
+	<li>
+		{{ example.title }}
+	</li>
+	{% endfor %}
+</ul>
+
 
 <h1>Resources</h1>
-{{ page.resources }}
+<ul>
+	{% for resource in site.resources %}
+	<li>
+		<a href="{{ resource.url }}">{{ resource.title }}</a>
+	</li>
+	{% endfor %}
+</ul>
