@@ -2,13 +2,10 @@
 title: 6W Method
 layout: activity
 parent: Alphabetically
-layoutVariations: |
-    ## Layout 1
-    - Testin
+layoutVariations:
     - Testing
     - Testing
-    ## Layout 2
-    ## Layout 3
+    - Testing
 resources: What's going on?
 grand_parent: Activities
 ---
