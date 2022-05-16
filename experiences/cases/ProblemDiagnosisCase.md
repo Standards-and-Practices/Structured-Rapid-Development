@@ -14,14 +14,14 @@ The learner's objective in a Problem-Diagnosis Case is to:
 3. Plan for contingencies
 4. Recommend the best course of action
 
-```mermaid
+<div class="mermaid">
   flowchart LR;
       A[Explore a case]-->B[Identify the problem];
       B[Identify the problem]-->C[Find the root cause];
       C[Find the root cause]-->D[Overall diagnosis];
       D[Overall diagnosis]-->E[Recommend action];
       E[Recommend action]-->F[Receive feedback];
-```
+</div>
 
 # Pattern Structure
 

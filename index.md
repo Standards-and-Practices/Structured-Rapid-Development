@@ -87,7 +87,7 @@ Check out the index of our learning activites [here](./activities/README.md).
 
 # OEX Structure
 
-```mermaid
+<div class="mermaid">
 graph TD
 CC[Course Content]:::CC
 SO01[Section Opener]:::SO
@@ -161,7 +161,7 @@ classDef SS fill:#7C235E,color:#ffffff;
 classDef SA fill:#337DA9,color:#ffffff;
 
 
-```
+</div>
 
 # To Do
 

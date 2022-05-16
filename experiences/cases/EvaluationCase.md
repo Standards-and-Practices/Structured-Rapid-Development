@@ -26,7 +26,7 @@ The *Case Study Handbook*[^1] explains Evaluation Cases as follows:
 # Pattern Structure
 A learning experience implementing the Evaluation Case pattern typically follows the structure:
 
-```mermaid
+<div class="mermaid">
   flowchart LR;
       A[Explore a case]-->B[Identify subject];
       B[Identify subject]-->C[Criteria selection];
@@ -35,21 +35,21 @@ A learning experience implementing the Evaluation Case pattern typically follows
       E[Overall evaluation]-->F[Identify contingencies];
       F[Identify contingencies]-->G[Recommend action];
       G[Recommend action]-->H[Receive feedback];
-```
+</div>
 ## 1. Explore a case
 Select one or more of the following compatible modalities to enable learners to explore a case.
 
 <a href="./explore-case/ReadACase.md">
-  <img src="./images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
+  <img src="../../images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
 </a>
 <a href="./explore-case/WatchACase.md">
-  <img src="./images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px;"/>
+  <img src="../../images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px;"/>
 </a>
 <a href="./explore-case/ListenToACase.md">
-  <img src="./images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px;"/>
+  <img src="../../images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px;"/>
 </a>
 <a href="./explore-case/EngageInAnInteractiveCase.md">
-  <img src="./images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px;"/>
+  <img src="../../images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px;"/>
 </a>
 
 

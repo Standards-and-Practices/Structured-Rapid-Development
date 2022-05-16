@@ -23,7 +23,7 @@ Chris is the CEO of a small tech company. The company has been in business for 5
 **Option 1: Lay off 10% of the workforce**
 Consider the option to `lay off 10% of the workforce` using the SWOT framework.
 
-```
+</div>
 
   Strengths: This would immediately reduce costs for the company.
 
@@ -32,12 +32,12 @@ Consider the option to `lay off 10% of the workforce` using the SWOT framework.
   Opportunities: The company may be able to rebound from the layoffs and be more successful than ever before. This would show employees that the company is willing to make tough decisions in order to stay afloat.
 
   Threat: The company may not be able to rebound from the layoffs and would have to close its doors. This could lead to bad publicity for the company.
-```
+</div>
 
 **Option 2: Invest in a new product line**
 Consider the option to `invest in a new product line` using the SWOT framework.
 
-```
+</div>
 Strengths: This could potentially bring in a lot of new revenue for the company It would show employees that the company is still viable and is willing to invest in its future.
 
 Weaknesses: The new product line may not be successful. The company may not have the resources to invest in a new product line.
@@ -45,11 +45,11 @@ Weaknesses: The new product line may not be successful. The company may not have
 Opportunities: The new product line may be successful and bring in a lot of new revenue.This could show employees that the company is still viable and is willing to invest in its future.| The new product line may not be successful.
 
 Threats: The company may not have the resources to invest in a new product line.
-```
+</div>
 
 **Option 3: Do nothing**
 
-```
+</div>
 Strengths: The company would not have to spend any additional money.
 
 Weaknesses: The company is likely to fail if it does not take action.Employees may lose faith in the company if it does not take action.
@@ -57,7 +57,7 @@ Weaknesses: The company is likely to fail if it does not take action.Employees m
 Opportunities: The company may be able to rebound if it takes action.Employees may be more willing to work for the company if it takes action.
 
 Threats: The company is likely to fail if it does not take action.Employees may lose faith in the company if it does not take action.
-```
+</div>
 
 </p>
 </details>

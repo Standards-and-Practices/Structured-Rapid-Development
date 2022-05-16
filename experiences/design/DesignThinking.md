@@ -13,13 +13,13 @@ Design thinking is a human-centric, iterative problem-solving method. While ther
 
 A learning experience implementing the Design Thinking pattern typically follows the structure:
 
-```mermaid
+<div class="mermaid">
   flowchart LR;
       Empathize-->Define;
       Define-->Ideate;
       Ideate-->Prototype;
       Prototype-->Test;
-```
+</div>
 
 <details open="open">
 <summary>Quick Links</summary>
