@@ -76,14 +76,14 @@ Create a course around an extended case study, using aspects of a case to teach 
 
 A learning experience implementing the Decision Case pattern typically follows the structure:
 
-```mermaid
+<div class="mermaid">
   flowchart LR;
       A[Explore a case]-->B[Identify options];
       B[Identify options]-->C[Explore options];
       C[Explore options]-->D[Make a decision];
       D[Make a decision]-->E[Defend decision];
       E[Defend decision]-->F[Receive feedback];
-```
+</div>
 
 ## 1. Explore a case
 
