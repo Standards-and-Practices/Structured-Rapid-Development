@@ -3,15 +3,10 @@ title: 6W Method
 layout: activity
 parent: Alphabetically
 layoutVariations:
-    - url: 'https://www.google.com'
-      title: "Google"
-      thumbnail:  'https://lorempixel.com/200/100'
-    - url: 'https://www.google.com'
-      title: "Google"
-      thumbnail:  'https://lorempixel.com/200/100'
-    - url: 'https://www.google.com'
-      title: "Google"
-      thumbnail:  'https://lorempixel.com/200/100'
+    - {url: 'https://www.google.com', title: "Google", thumbnail:  'https://lorempixel.com/200/100'}
+    - {url: 'https://www.google.com', title: "Google", thumbnail:  'https://lorempixel.com/200/100'}
+    - {url: 'https://www.google.com', title: "Google", thumbnail:  'https://lorempixel.com/200/100'}
+
 resources:
     - url: 'https://www.google.com'
       title: "Google"
