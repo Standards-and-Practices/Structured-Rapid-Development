@@ -8,7 +8,7 @@ layout: default
 <ul>
 	{% for layout in site.layoutVariations %}
 	<li>
-		<a href="{{ layout.url }}">{{ layout.title }}</a>
+		<a href="{{ layout.url }}"><img src="{{ layout.thumbnail }}" alt="{{ layout.title}}"/></a>
 	</li>
 	{% endfor %}
 </ul>
