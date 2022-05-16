@@ -6,8 +6,6 @@ grand_parent: Activities
 
 # GROW Coaching Model
 
-# Getting Started
-
 A GROW Coaching Model is a simple framework that can be used to coach individuals or teams. It's a great way to help people identify and achieve their goals, and it's also a great tool for team building. 
 
 GROW stands for
@@ -24,9 +22,3 @@ To use the GROW coaching model, all you need is a whiteboard or piece of paper a
 
 
 Once they have brainstormed their strategies, encourage them to choose one or two and get started on implementing them.
-
-# Layout Variations
-
-# Examples
-If you're using this activity, [let us know](https://github.com/Standards-and-Practices/structured-rapid-development/issues/new?assignees=&labels=documentation&template=example-submission.md&title=Example+of+%5Byour+pattern+here%5D), so we can share it as an example.
-# Resources

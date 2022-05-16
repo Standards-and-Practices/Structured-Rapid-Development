@@ -5,12 +5,4 @@ grand_parent: Activities
 ---
 
 # The Information Lifecycle
-
-# Getting Started
-
 The Information Lifecycle is the process by which information is created, used, and eventually disposed of. It begins with the idea or need for information, which is then created or gathered. This information is used in some way, and then eventually disposed of when it is no longer needed. The cycle can be thought of as a continuous loop, with information flowing from one stage to the next and back again. information can be reused or recycled at any point in the cycle, making it an efficient way to manage data. The key to making an effective Information Lifecycle is to identify the stages of the cycle and the specific needs of each stage. By doing this, you can ensure that information is managed in a way that is most efficient and effective for your organization. It is also important to consider the security and privacy of information at each stage of the cycle. The Information Lifecycle can be a helpful tool for any organization that needs to manage data efficiently. It can help you save time and money by preventing duplicate data from being created, and by ensuring that information is only kept for as long as it is needed. In a world where data is constantly being created and collected, the Information Lifecycle can help you keep track of it all.
-
-# Layout Variations
-# Examples
-If you're using this activity, [let us know](https://github.com/Standards-and-Practices/structured-rapid-development/issues/new?assignees=&labels=documentation&template=example-submission.md&title=Example+of+%5Byour+pattern+here%5D), so we can share it as an example.
-# Resources

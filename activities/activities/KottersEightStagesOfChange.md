@@ -5,9 +5,6 @@ grand_parent: Activities
 ---
 
 # Kotter's Eight-Stage Process for Leading Change
-
-# Getting Started
-
 In his classic work on leading change, John Kotter laid out an 8-stage process for successful organizational transformation. While there have been many subsequent models and frameworks developed, Kotter's remains one of the most widely used and respected. Here's a brief overview of the process: 
 
 1. **Establish a sense of urgency:** Kotter believes that the first step in any change effort is to create a sense of urgency around the need for change. This can be done by communicating the risks and rewards associated with change, and by painting a picture of what the future could look like if the change is not made. 
@@ -27,8 +24,3 @@ In his classic work on leading change, John Kotter laid out an 8-stage process f
 8. **Institutionalize the new approaches:** The eighth and final step is to embed the new ways of working into the organization so that they become the new norm. This may involve changes to policies, procedures, and processes. 
  
 The Kotter's Eight-Stage Process for Leading Change is a proven framework for organizational transformation. By following the steps laid out by Kotter, organizations can increase their chances of success when making changes.
-
-# Layout Variations
-# Examples
-If you're using this activity, [let us know](https://github.com/Standards-and-Practices/structured-rapid-development/issues/new?assignees=&labels=documentation&template=example-submission.md&title=Example+of+%5Byour+pattern+here%5D), so we can share it as an example.
-# Resources
