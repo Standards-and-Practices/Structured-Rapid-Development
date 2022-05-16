@@ -3,10 +3,22 @@ title: 6W Method
 layout: activity
 parent: Alphabetically
 layoutVariations:
-    - Testing
-    - Testing
-    - Testing
-resources: What's going on?
+    - url: 'https://www.google.com'
+      title: "Google"
+      thumbnail:  'https://lorempixel.com/200/100'
+    - url: 'https://www.google.com'
+      title: "Google"
+      thumbnail:  'https://lorempixel.com/200/100'
+    - url: 'https://www.google.com'
+      title: "Google"
+      thumbnail:  'https://lorempixel.com/200/100'
+resources:
+    - url: 'https://www.google.com'
+      title: "Google"
+    - url: 'https://www.google.com'
+      title: "Google"
+    - url: 'https://www.google.com'
+      title: "Google"
 grand_parent: Activities
 ---
 
