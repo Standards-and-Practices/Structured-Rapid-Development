@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Associate's Degree Patterns
+title: Associate's Degree
 parent: Pathways
 grand_parent: Home
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bachelor's Degree Patterns
+title: Bachelor's Degree
 parent: Pathways
 grand_parent: Home
 ---

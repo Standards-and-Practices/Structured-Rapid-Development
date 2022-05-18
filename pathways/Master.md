@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Master's Degree Patterns
+title: Master's Degree
 parent: Pathways
 grand_parent: Home
 ---

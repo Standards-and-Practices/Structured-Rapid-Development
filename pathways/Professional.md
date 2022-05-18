@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Professional Offering Patterns
+title: Professional
 parent: Pathways
 grand_parent: Home
 ---
