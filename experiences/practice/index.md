@@ -29,13 +29,13 @@ Push beyond, specific goals, focus/reflection, high quality feedback, develop a 
 ## Consequences
 When we practice something, we are involved in the deliberate repetition of a process with the intention of reaching a specific goal. The words deliberate and intention are key here because they define the difference between actively practicing something and passively learning it (Sterner, 2012).
 
-# Resources By College
-## College of Business
+# Resources By School
+## School of Business
 - 
-- ## College of Health Professions
+- ## School of Health Professions
 - (Communication Case)
 - [Practice-based learning in nursing, health and social care mentorship, facilitation and supervision](https://search.ebscohost.com/login.aspx?direct=true&db=cat07141a&AN=ebc.EBC1124437&site=eds-live&scope=site&authtype=sso&custid=ns017578)
 - 
-## College of Information Technology
+## School of Information Technology
 - 
-## Teacher's College
+## Teacher's School

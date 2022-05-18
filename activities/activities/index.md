@@ -26,10 +26,10 @@ Creativity Tools
 Learning Skills
 Career Skills
 
-# By College
-- [College of Information Technology](/activities/colleges/CollegeOfInformationTechnology.md)
-- [College of Health Professions](/activities/colleges/CollegeOfHealthProfessions.md)
-- [College of Business](/activities/colleges/CollegeOfBusiness.md)
-- [Teacher's College](/activities/colleges/TeachersCollege.md)
+# By School
+- [School of Information Technology](/activities/Schools/SchoolOfInformationTechnology.md)
+- [School of Health Professions](/activities/Schools/SchoolOfHealthProfessions.md)
+- [School of Business](/activities/Schools/SchoolOfBusiness.md)
+- [Teacher's School](/activities/Schools/TeachersSchool.md)
 
 

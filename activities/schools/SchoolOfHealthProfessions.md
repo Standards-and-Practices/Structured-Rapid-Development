@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: By College
+parent: By School
 grand_parent: Activities
 ---
-# Teacher's College
+# Health Professions

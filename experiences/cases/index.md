@@ -27,9 +27,9 @@ function, a case must have four characteristics:
 -	Narrative Theory
 
 
-# Resources By College
-## College of Business
-## College of Health Professions
+# Resources By School
+## School of Business
+## School of Health Professions
 - [Nursing case studies in caring : across the practice spectrum](https://search.ebscohost.com/login.aspx?direct=true&db=cat07141a&AN=ebc.EBC3565409&site=eds-live&scope=site&authtype=sso&custid=ns017578)
 - [Gerontology nursing case studies](https://search.ebscohost.com/login.aspx?direct=true&db=cat07141a&AN=ebc.EBC2166652&site=eds-live&scope=site&authtype=sso&custid=ns017578)
 - [Nursing case studies on improving health-related quality of life in older adults](https://search.ebscohost.com/login.aspx?direct=true&db=cat07141a&AN=ebc.EBC2166657&site=eds-live&scope=site&authtype=sso&custid=ns017578)
@@ -44,9 +44,9 @@ function, a case must have four characteristics:
 - [Leadership and Management in Nursing Test Success](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=606331&site=eds-live&scope=site&authtype=sso&custid=ns017578)
 - [Fundamentals of Nursing Test Success](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=500217&site=eds-live&scope=site&authtype=sso&custid=ns017578)
   
-## College of Information Technology
+## School of Information Technology
 - 
-## Teacher's College
+## Teacher's School
 - 
 
 ## Other

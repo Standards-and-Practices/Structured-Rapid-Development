@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: By College
-grand_parent: Pathways
+parent: By School
+grand_parent: Activities
 ---
 # Information Technology
