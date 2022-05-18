@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Pathways
-nav_order: 2
+parent: Home
 has_children: true
-permalink: /pathways
+nav_order: 2
 ---
 # Pathway Patterns
