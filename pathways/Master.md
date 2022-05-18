@@ -4,4 +4,4 @@ parent: Pathways
 title: Graduate
 has_children: true
 ---
-# Graduate Pathway Patterns
+# Master Patterns

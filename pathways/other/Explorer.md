@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Pathways
+parent: Other
 title: Explorer 
 ---
 # Explorer Pathway

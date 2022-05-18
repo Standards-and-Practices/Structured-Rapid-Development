@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Pathways
+parent: Other
 title: Deep Dive
 ---
 # Deep Dive Pathway
