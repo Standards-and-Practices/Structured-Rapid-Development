@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Pathways
+title: Other Pathway Patterns
 has_children: true
-permalink: /pathways
+grand_parent: Home
 ---
 # Other Patterns
