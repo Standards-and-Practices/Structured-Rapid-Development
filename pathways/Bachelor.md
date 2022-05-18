@@ -1,7 +1,6 @@
 ---
 layout: default
+title: Bachelor's Degree Patterns
 parent: Pathways
-title: Bachelor
-has_children: true
 ---
-# Bachelor Degree Patterns
+# Bachelor's Degree Patterns

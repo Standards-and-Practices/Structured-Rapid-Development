@@ -1,7 +1,6 @@
 ---
 layout: default
+title: Master's Degree Patterns
 parent: Pathways
-title: Graduate
-has_children: true
 ---
-# Master Patterns
+# Master's Degree Patterns

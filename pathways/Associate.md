@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Associate
-has_children: true
-permalink: /associate
+title: Associate's Degree Patterns
+parent: Pathways
 ---
-# Associate Degree Patterns
+# Associate's Degree Patterns

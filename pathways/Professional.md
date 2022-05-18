@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Pathways
-has_children: true
-permalink: /pathways
+title: Professional Offering Patterns
+parent: Pathways
 ---
 # Professional Offering Patterns
