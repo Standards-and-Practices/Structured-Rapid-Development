@@ -34,33 +34,33 @@ Modules are the sub-xBlocks of pathways. They could be found at the certificate,
 
 ## Case Patterns
 
-- [Decision Case](./experiences/cases/DecisionCase.md) 
-- [Evaluation Case](./experiences/cases/EvaluationCase.md) 
-- [Problem-Diagnosis Case](./experiences/cases/ProblemDiagnosisCase.md) 
+- [Decision Case](./experiences/cases/DecisionCase.md)
+- [Evaluation Case](./experiences/cases/EvaluationCase.md)
+- [Problem-Diagnosis Case](./experiences/cases/ProblemDiagnosisCase.md)
 - Outlier
 - Role Play
 - Longitudinal
 
 ## Practice Patterns
 
-- [Deliberate Practice](./experiences/practice/DeliberatePractice.md) 
+- [Deliberate Practice](./experiences/practice/DeliberatePractice.md)
 - Scaffolded Assistance
 - Distributed
 - Variable
 
 ## Problem Patterns
 
-- [Well-Structured Problems](./experiences/problems/WellStructuredProblem.md) 
-- [Ill-Structured Problems](./experiences/problems/IllStructuredProblem.md) 
+- [Well-Structured Problems](./experiences/problems/WellStructuredProblem.md)
+- [Ill-Structured Problems](./experiences/problems/IllStructuredProblem.md)
 
 ## Design Patterns
 
-- [Design Thinking](./experiences/design/DesignThinking.md) 
+- [Design Thinking](./experiences/design/DesignThinking.md)
 - Maker Spaces
 
 ## Inquiry Patterns
 
-- [Scientific Method](./experiences/inquiry/ScientificMethod.md) 
+- [Scientific Method](./experiences/inquiry/ScientificMethod.md)
 - Socratic Questioning
 
 ## Other Patterns
