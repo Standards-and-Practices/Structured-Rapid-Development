@@ -1,5 +1,4 @@
 ---
-title: 6W Method
 layout: activity
 parent: Alphabetically
 layoutVariations:

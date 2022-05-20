@@ -1,4 +1,5 @@
 ---
+title: Home
 nav_order: 1
 permalink: /
 ---
@@ -22,10 +23,10 @@ WGU's vision is to be the world's most innovative, student-centric university. S
 
 Pathways are organized sets of achievements that usually lead to some sort of credential (e.g. a degree, a certificate). There are several typical patterns that pathways take.
 
-- Associate Pathways
-- Bachelor Pathways
-- Master Pathways
-- Professional Pathways
+- [Associate Pathways](./pathways/Associate.md)
+- [Bachelor Pathways](./pathways/Bachelor.md)
+- [Master Pathways](./pathway/Master.md)
+- [Professional Pathways](./pathways/Professional.md)
 
 ## Learning Experience Patterns
 
