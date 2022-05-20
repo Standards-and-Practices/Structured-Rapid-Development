@@ -93,24 +93,16 @@ A learning experience implementing the Decision Case pattern typically follows t
 
 Select one or more of the following compatible modalities to enable learners to explore a case.
 
-<a href="../../activities/ReadACase.md">
-  <img src="../../images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
-</a>
-<a href="../../activities/WatchACase.md">
-  <img src="../../images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px;"/>
-</a>
-<a href="../../activities/ListenToACase.md">
-  <img src="../../images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px;"/>
-</a>
-<a href="../../activities/EngageInAnInteractiveCase.md">
-  <img src="../../images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px;"/>
-</a>
+- [Read A Case Study]()
+- [Watch A Video Case Study]()
+- [Listen To A Case Study]()
+- [Engage In An Interactive Case Study]()
 
 ## 2. Idenfity options
 
 - What is the decision that needs to be made in the case?
 - What are the major decision options?
-- [Brainstorming](https://www.sessionlab.com/methods/brainstorm-rules)
+- [Brainstorming](/activities/activities/Brainstorming.md)
 
 ## 3. Explore options
 

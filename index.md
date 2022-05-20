@@ -33,33 +33,33 @@ Modules are the sub-xBlocks of pathways. They could be found at the certificate,
 
 ## Case Patterns
 
-- [Decision Case](./experiences/cases/DecisionCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- [Evaluation Case](./experiences/cases/EvaluationCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- [Problem-Diagnosis Case](./experiences/cases/ProblemDiagnosisCase.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Decision Case](./experiences/cases/DecisionCase.md) 
+- [Evaluation Case](./experiences/cases/EvaluationCase.md) 
+- [Problem-Diagnosis Case](./experiences/cases/ProblemDiagnosisCase.md) 
 - [ ] Outlier
 - [ ] Role Play
 - [ ] Longitudinal
 
 ## Practice Patterns
 
-- [Deliberate Practice](./experiences/practice/DeliberatePractice.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Deliberate Practice](./experiences/practice/DeliberatePractice.md) 
 - [ ] Scaffolded Assistance
 - [ ] Distributed
 - [ ] Variable
 
 ## Problem Patterns
 
-- [Well-Structured Problems](./experiences/problems/WellStructuredProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
-- [Ill-Structured Problems](./experiences/problems/IllStructuredProblem.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Well-Structured Problems](./experiences/problems/WellStructuredProblem.md) 
+- [Ill-Structured Problems](./experiences/problems/IllStructuredProblem.md) 
 
 ## Design Patterns
 
-- [Design Thinking](./experiences/design/DesignThinking.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Design Thinking](./experiences/design/DesignThinking.md) 
 - [ ] Maker Spaces
 
 ## Inquiry Patterns
 
-- [Scientific Method](./experiences/inquiry/ScientificMethod.md) <img src="https://img.shields.io/badge/-dev-orange" alt="In Development" />
+- [Scientific Method](./experiences/inquiry/ScientificMethod.md) 
 - [ ] Socratic Questioning
 
 ## Other Patterns
@@ -79,9 +79,6 @@ Check out the index of our learning activites [here](./activities/README.md).
 - [Intro](./layouts/Intro.md)
 - [Media](./layouts/Media.md)
 - [Other](./layouts/Other.md)
-
-- ~~Intro / Outro Sandwich~~
-- ~~Check For Understanding (CFU)~~
 
 # [xBlock xBlocks](./xBlocks/README.md)
 
@@ -119,8 +116,6 @@ LS02 --> LA02
 LA01 --> SS01
 LA02 --> SS01
 SS01 --> SA01
-
-
 SO02[Section Opener]:::SO
 LO03[Lesson Opener]:::LO
 LO04[Lesson Opener]:::LO
@@ -150,7 +145,6 @@ LS04 --> LA04
 LA03 --> SS02
 LA04 --> SS02
 SS02 --> SA02
-
 classDef CC fill:#002A4E,color:#ffffff;
 classDef SO fill:#7C235E,color:#ffffff;
 classDef LO fill:#F78D3A,color:#ffffff;
@@ -159,8 +153,6 @@ classDef LS fill:#F78D3A,color:#ffffff;
 classDef LA fill:#337DA9,color:#ffffff;
 classDef SS fill:#7C235E,color:#ffffff;
 classDef SA fill:#337DA9,color:#ffffff;
-
-
 </div>
 
 # To Do
