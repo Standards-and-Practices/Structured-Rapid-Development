@@ -67,9 +67,12 @@ Modules are the sub-xBlocks of pathways. They could be found at the certificate,
 
 - [Engage, Guide, and Apply](./experiences/other/EngageGuideApply.md)
 
-# Activites
+# Activities
 
-Check out the index of our learning activites [here](./activities/README.md).
+- [A-Z Index](./activities/Alphabetically.md)
+- [By School](./activities/School.md)
+- [By Modality](./activities/Modality.md)
+- [By Topic](./activities/Topics.md)
 
 # Screen Layouts
 
