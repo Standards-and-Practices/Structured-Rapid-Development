@@ -36,16 +36,16 @@ Modules are the sub-xBlocks of pathways. They could be found at the certificate,
 - [Decision Case](./experiences/cases/DecisionCase.md) 
 - [Evaluation Case](./experiences/cases/EvaluationCase.md) 
 - [Problem-Diagnosis Case](./experiences/cases/ProblemDiagnosisCase.md) 
-- [ ] Outlier
-- [ ] Role Play
-- [ ] Longitudinal
+- Outlier
+- Role Play
+- Longitudinal
 
 ## Practice Patterns
 
 - [Deliberate Practice](./experiences/practice/DeliberatePractice.md) 
-- [ ] Scaffolded Assistance
-- [ ] Distributed
-- [ ] Variable
+- Scaffolded Assistance
+- Distributed
+- Variable
 
 ## Problem Patterns
 
@@ -55,12 +55,12 @@ Modules are the sub-xBlocks of pathways. They could be found at the certificate,
 ## Design Patterns
 
 - [Design Thinking](./experiences/design/DesignThinking.md) 
-- [ ] Maker Spaces
+- Maker Spaces
 
 ## Inquiry Patterns
 
 - [Scientific Method](./experiences/inquiry/ScientificMethod.md) 
-- [ ] Socratic Questioning
+- Socratic Questioning
 
 ## Other Patterns
 
@@ -80,7 +80,7 @@ Check out the index of our learning activites [here](./activities/README.md).
 - [Media](./layouts/Media.md)
 - [Other](./layouts/Other.md)
 
-# [xBlock xBlocks](./xBlocks/README.md)
+# [xBlocks](./xBlocks/README.md)
 
 # OEX Structure
 
@@ -157,10 +157,10 @@ classDef SA fill:#337DA9,color:#ffffff;
 
 # To Do
 
-- [ ] Add anti-patterns
-- [ ] Add resources
-- [ ] Add examples
-- [ ] Add tools
-- [ ] Add videos
-- [ ] Add books
-- [ ] Add courses
+- Add anti-patterns
+- Add resources
+- Add examples
+- Add tools
+- Add videos
+- Add books
+- Add courses
