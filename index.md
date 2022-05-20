@@ -24,6 +24,7 @@ WGU's vision is to be the world's most innovative, student-centric university. S
 
 Pathways are organized sets of achievements that usually lead to some sort of credential (e.g. a degree, a certificate). There are several typical patterns that pathways take.
 
+- [Pathways](./pathways)
 - [Explorer](./pathways/Explorer.md) - Expose learners to a variety of topics.
 - [Deep Dive](./pathways/DeepDive.md) - Increase a learner's proficiency in a single domain.
 
