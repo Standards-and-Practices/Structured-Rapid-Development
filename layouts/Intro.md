@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Screen Layouts
+parent: Layouts
 ---
 
 # Intro

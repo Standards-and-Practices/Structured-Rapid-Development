@@ -17,6 +17,8 @@ The _Case Study Handbook_[^1] explains Evaluation Cases as follows:
 
 A learning experience implementing the Evaluation Case pattern typically follows the structure:
 
+- [Evaluation Case](#evaluation-case)
+- [Pattern Structure](#pattern-structure)
   - [1. Explore a case](#1-explore-a-case)
   - [2. Identify subject](#2-identify-subject)
   - [3. Criteria selection](#3-criteria-selection)
@@ -52,6 +54,7 @@ Select one or more of the following compatible modalities to enable learners to 
 
 - Based on your analysis above, what is your overall evaluation of the subject?
 - What are the major reasons that support your overall evaluation?
+
 -
 
 ## 6. Identify contingencies

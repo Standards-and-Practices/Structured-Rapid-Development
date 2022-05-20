@@ -74,7 +74,7 @@ Modules are the sub-xBlocks of pathways. They could be found at the certificate,
 - [By Modality](./activities/Modality.md)
 - [By Topic](./activities/Topics.md)
 
-# Screen Layouts
+# Layouts
 
 - [Article](./layouts/Article.md)
 - [Blog](./layouts/Blog.md)
