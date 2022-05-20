@@ -1,7 +1,7 @@
 ---
 layout: activity
 parent: Alphabetically
-grand_parent: Activities
+grand_parent: Learning Activities
 ---
 # Basic Interviewing
 A Basic Interviewing is a simple, structured way to collect information from someone. You can use a Basic Interviewing to gather information about a person's work history, education, or other qualifications.

@@ -1,7 +1,7 @@
 ---
 layout: activity
 parent: Alphabetically
-grand_parent: Activities
+grand_parent: Learning Activities
 ---
 
 # Service Profit Chain

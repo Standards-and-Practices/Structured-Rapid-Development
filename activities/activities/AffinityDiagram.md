@@ -1,7 +1,7 @@
 ---
 layout: activity
 parent: Alphabetically
-grand_parent: Activities
+grand_parent: Learning Activities
 ---
 # Affinity DiagramAn 
 affinity diagram is a tool used to organize ideas or information. It's similar to a mind map, but instead of starting with a central idea and branching out, you start with a bunch of ideas and then group them together. This can be helpful when you're trying to identify patterns or find relationships between ideas. 

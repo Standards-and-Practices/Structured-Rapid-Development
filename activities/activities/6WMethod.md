@@ -14,7 +14,7 @@ resources:
       title: "Google"
     - url: 'https://www.google.com'
       title: "Google"
-grand_parent: Activities
+grand_parent: Learning Activities
 ---
 
 # 6W Method

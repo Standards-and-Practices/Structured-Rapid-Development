@@ -1,5 +1,5 @@
 ---
-parent: Activities
+parent: Learning Activities
 has_children: true
 ---
 

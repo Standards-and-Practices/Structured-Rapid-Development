@@ -1,5 +1,5 @@
 ---
 parent: By Topic
-grand_parent: Activities
+grand_parent: Learning Activities
 ---
 # Design

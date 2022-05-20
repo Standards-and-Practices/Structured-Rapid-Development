@@ -1,7 +1,7 @@
 ---
 layout: activity
 parent: Alphabetically
-grand_parent: Activities
+grand_parent: Learning Activities
 ---
 # Business Model Canvas
 If you're starting a business, or even if you're already running one, it's important to have a clear understanding of your business model. The best way to do this is to create a Business Model Canvas. A Business Model Canvas is a visual representation of your business model. It's a way to map out all of the important components of your business, and to see how they all fit together. 

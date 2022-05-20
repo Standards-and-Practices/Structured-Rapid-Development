@@ -1,7 +1,7 @@
 ---
 layout: activity
 parent: Alphabetically
-grand_parent: Activities
+grand_parent: Learning Activities
 ---
 # The McKinsey 7S FrameworkA 
 The 7S model is a framework for organizational analysis. It can be used to help organizations identify and overcome problems. 

@@ -1,5 +1,5 @@
 ---
 parent: By School
-grand_parent: Activities
+grand_parent: Learning Activities
 ---
 # Information Technology
