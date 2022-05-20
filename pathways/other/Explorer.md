@@ -1,5 +1,4 @@
 ---
-layout: default
 parent: Other
 title: Explorer 
 ---

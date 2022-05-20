@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Guiding Principles
 parent: Resources
 grand_parent: Home

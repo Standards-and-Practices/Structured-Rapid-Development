@@ -1,5 +1,4 @@
 ---
-layout: default
 parent: Undergraduate
 title: Choice Collection
 ---

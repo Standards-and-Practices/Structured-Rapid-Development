@@ -1,5 +1,4 @@
 ---
-layout: default
 parent: Cases
 grand_parent: Experiences
 ---
@@ -13,12 +12,12 @@ The _Case Study Handbook_[^1] explains Evaluation Cases as follows:
 > An example of an evaluation intended to improve something is a performance appraisal at work. It has a set of criteria relevant to the individual’s job and identifies strengths and weaknesses and often leads to goals for capitalizing on strengths and improving weaknesses.
 > Evaluations are sometimes a prelude to a decision. For instance, you might read online reviews of Chinese restaurants to help you and your friends decide where to have dinner. The review content and star ratings are one category of information to consider. But you’ll also use other information when making the decision, such as the restaurants’ prices, specific menus, and distance from your home.
 
-# Pattern Structure
+## Pattern Structure
 
 A learning experience implementing the Evaluation Case pattern typically follows the structure:
 
 - [Evaluation Case](#evaluation-case)
-- [Pattern Structure](#pattern-structure)
+  - [Pattern Structure](#pattern-structure)
   - [1. Explore a case](#1-explore-a-case)
   - [2. Identify subject](#2-identify-subject)
   - [3. Criteria selection](#3-criteria-selection)

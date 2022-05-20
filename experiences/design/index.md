@@ -1,5 +1,4 @@
 ---
-layout: default
 parent: Experiences
 title: Design
 has_children: true

@@ -1,5 +1,4 @@
 ---
-layout: default
 parent: Design
 grand_parent: Experiences
 ---
@@ -9,7 +8,7 @@ Design thinking is a human-centric, iterative problem-solving method. While ther
 - [Stanford D.School's Human-Centered Design Process](https://dschool.stanford.edu) - Empathize, Define, Ideate, Prototype, Test
 - [IDEO](https://www.ideou.com/blogs/inspiration/what-is-design-thinking) - inspiration, ideation, and implementation
 
-# Pattern Structure
+## Pattern Structure
 
 A learning experience implementing the Design Thinking pattern typically follows the structure:
 

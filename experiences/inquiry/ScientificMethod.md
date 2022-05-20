@@ -1,5 +1,4 @@
 ---
-layout: default
 parent: Inquiry
 grand_parent: Experiences
 ---

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Professional
 parent: Pathways
 grand_parent: Home

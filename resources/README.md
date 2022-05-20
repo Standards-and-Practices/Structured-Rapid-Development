@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Resources
 parent: Home
 has_children: true

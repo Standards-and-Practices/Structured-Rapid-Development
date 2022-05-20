@@ -1,5 +1,4 @@
 ---
-layout: default
 parent: Inquiry
 title: Socratic Method
 grand_parent: Experiences

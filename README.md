@@ -1,6 +1,4 @@
 ---
-layout: default
-title: Home
 nav_order: 1
 permalink: /
 ---
@@ -20,7 +18,7 @@ WGU's vision is to be the world's most innovative, student-centric university. S
 {:toc}
 </details>
 
-# Pathway Patterns
+## Pathway Patterns
 
 Pathways are organized sets of achievements that usually lead to some sort of credential (e.g. a degree, a certificate). There are several typical patterns that pathways take.
 
@@ -29,14 +27,11 @@ Pathways are organized sets of achievements that usually lead to some sort of cr
 - Master Pathways
 - Professional Pathways
 
-# Learning Experience Patterns
+## Learning Experience Patterns
 
 Modules are the sub-xBlocks of pathways. They could be found at the certificate, course, competency, or sub-competency level.
 
-
-
-
-## Case Patterns
+### Case Patterns
 
 - [Decision Case](./experiences/cases/DecisionCase.md)
 - [Evaluation Case](./experiences/cases/EvaluationCase.md)
@@ -45,40 +40,40 @@ Modules are the sub-xBlocks of pathways. They could be found at the certificate,
 - Role Play
 - Longitudinal
 
-## Practice Patterns
+### Practice Patterns
 
 - [Deliberate Practice](./experiences/practice/DeliberatePractice.md)
 - Scaffolded Assistance
 - Distributed
 - Variable
 
-## Problem Patterns
+### Problem Patterns
 
 - [Well-Structured Problems](./experiences/problems/WellStructuredProblem.md)
 - [Ill-Structured Problems](./experiences/problems/IllStructuredProblem.md)
 
-## Design Patterns
+### Design Patterns
 
 - [Design Thinking](./experiences/design/DesignThinking.md)
 - Maker Spaces
 
-## Inquiry Patterns
+### Inquiry Patterns
 
 - [Scientific Method](./experiences/inquiry/ScientificMethod.md)
 - Socratic Questioning
 
-## Other Patterns
+### Other Patterns
 
 - [Engage, Guide, and Apply](./experiences/other/EngageGuideApply.md)
 
-# Activities
+## Activities
 
 - [A-Z Index](./activities/Alphabetically.md)
 - [By School](./activities/School.md)
 - [By Modality](./activities/Modality.md)
 - [By Topic](./activities/Topics.md)
 
-# Layouts
+## Layouts
 
 - [Article](./layouts/Article.md)
 - [Blog](./layouts/Blog.md)
@@ -88,9 +83,9 @@ Modules are the sub-xBlocks of pathways. They could be found at the certificate,
 - [Media](./layouts/Media.md)
 - [Other](./layouts/Other.md)
 
-# [xBlocks](./xBlocks/README.md)
+## [xBlocks](./xBlocks/README.md)
 
-# OEX Structure
+## OEX Structure
 
 <div class="mermaid">
 graph TD;

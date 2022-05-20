@@ -1,5 +1,4 @@
 ---
-layout: default
 parent: Cases
 grand_parent: Experiences
 ---
@@ -23,7 +22,7 @@ The learner's objective in a Problem-Diagnosis Case is to:
       E[Recommend action]-->F[Receive feedback];
 </div>
 
-# Pattern Structure
+## Pattern Structure
 
 ## 1. Explore a case
 Select one or more of the following compatible modalities to enable learners to explore a case. 
