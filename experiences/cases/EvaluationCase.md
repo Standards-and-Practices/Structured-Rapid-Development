@@ -55,8 +55,6 @@ Select one or more of the following compatible modalities to enable learners to 
 - Based on your analysis above, what is your overall evaluation of the subject?
 - What are the major reasons that support your overall evaluation?
 
--
-
 ## 6. Identify contingencies
 
 - Scenario Planning

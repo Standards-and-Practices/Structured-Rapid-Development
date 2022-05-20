@@ -4,7 +4,9 @@ parent: Alphabetically
 grand_parent: Activities
 ---
 
-# TOFU, MOFU, and BOFUA TOFU, MOFU, and BOFU is a three-step process for creating a sales funnel. The TOFU (top of the funnel) is the first step, where you generate awareness and interest in your product or service. The MOFU (middle of the funnel) is the second step, where you nurture leads and build relationships. The BOFU (bottom of the funnel) is the third step, where you convert leads into customers or clients. The TOFU, MOFU, and BOFU sales funnel is a useful tool because it helps you focus your marketing efforts on the right people at the right time. By generate awareness and interest in the TOFU stage, you can then focus on nurturing those leads in the MOFU stage, and finally converting them into customers or clients in the BOFU stage. To create a TOFU, MOFU, and BOFU sales funnel, you need to first identify your target audience. Once you know who your target audience is, you can then create content that will appeal to them.
+# TOFU, MOFU, and BOFU
+
+TOFU, MOFU, and BOFU is a three-step process for creating a sales funnel. The TOFU (top of the funnel) is the first step, where you generate awareness and interest in your product or service. The MOFU (middle of the funnel) is the second step, where you nurture leads and build relationships. The BOFU (bottom of the funnel) is the third step, where you convert leads into customers or clients. The TOFU, MOFU, and BOFU sales funnel is a useful tool because it helps you focus your marketing efforts on the right people at the right time. By generate awareness and interest in the TOFU stage, you can then focus on nurturing those leads in the MOFU stage, and finally converting them into customers or clients in the BOFU stage. To create a TOFU, MOFU, and BOFU sales funnel, you need to first identify your target audience. Once you know who your target audience is, you can then create content that will appeal to them.
 
 ## Top Of Funnel (TOFU)
 
