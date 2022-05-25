@@ -2,6 +2,7 @@
 parent: Cases
 grand_parent: Experiences
 ---
+
 # Problem-Diagnosis Case
 
 Across disciplines, qualified professionals are distinguished by their ability to diagnose and solve problems in a variety of circumstances.
@@ -25,27 +26,20 @@ The learner's objective in a Problem-Diagnosis Case is to:
 ## Pattern Structure
 
 ## 1. Explore a case
-Select one or more of the following compatible modalities to enable learners to explore a case. 
 
+Select one or more of the following compatible modalities to enable learners to explore a case.
 
-<a href="./explore-case/ReadACase.md">
-  <img src="../../images/read-case.svg" alt="Read A Case Study" style="width: 200px;"/>
-</a>
-<a href="./explore-case/WatchACase.md">
-  <img src="../../images/video-case.svg" alt="Watch A Video Case Study" style="width: 200px;"/>
-</a>
-<a href="./explore-case/ListenToACase.md">
-  <img src="../../images/podcast-case.svg" alt="Listen To A Case Study" style="width: 200px;"/>
-</a>
-<a href="./explore-case/EngageInAnInteractiveCase.md">
-  <img src="../../images/interactive-case.svg" alt="Engage In An Interactive Case Study" style="width: 200px;"/>
-</a>
+- [Read A Case Study](/activities/activities/ReadCaseStudy.md)
+- [Watch A Video Case Study](/activities/activities/WatchCaseStudy.md)
+- [Listen To A Case Study](/activities/activities/ListenCaseStudy.md)
+- [Engage In An Interactive Case Study](/activities/activities/InteractiveCaseStudy.md)
 
 ## 2. Identify the problem
+
 - What problem does the case describe? (Problems are the effects of causes such as actions, processes, activities, or forces. Problem scenarios often concern business pathology.)
 - What questions will help you explore the problem and its causes?
 - Can you identify concepts of frameworks you have learned that might be useful for identifying and proving causes?
-  
+
 <a href="./identify-problem/QuestionStorming.md">
   <img src="../../images/question-storming.svg" alt="Question Storming" style="width: 200px;"/>
 </a>
@@ -66,11 +60,10 @@ Select one or more of the following compatible modalities to enable learners to 
   <img src="../../images/problem-tree.svg" alt="Problem Tree" style="width: 200px;"/>
 </a>
 
-  
 ## 4. Overall diagnosis
+
 - [Impact / Effort Matrix](https://www.sessionlab.com/methods/impact-and-effort-matrix)
 - [SWOT Analysis](https://www.sessionlab.com/methods/swot-analysis)
-
 
 ## 5. Recommend action
 
