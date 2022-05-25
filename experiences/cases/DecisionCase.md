@@ -1,6 +1,11 @@
 ---
 parent: Cases
 grand_parent: Experiences
+tags:
+- Case Study
+- Decision
+- Decision-making
+- Critical Thinking
 ---
 
 # Decision Case
@@ -20,10 +25,10 @@ A learning experience implementing the Decision Case pattern typically follows t
 
 ## 1. Explore a case
 
-- [Read A Case Study]()
-- [Watch A Video Case Study]()
-- [Listen To A Case Study]()
-- [Engage In An Interactive Case Study]()
+- [Read A Case Study](/activities/activities/ReadCaseStudy.md)
+- [Watch A Video Case Study](/activities/activities/WatchCaseStudy.md)
+- [Listen To A Case Study](/activities/activities/ListenCaseStudy.md)
+- [Engage In An Interactive Case Study](/activities/activities/InteractiveCaseStudy.md)
 
 ## 2. Idenfity options
 
