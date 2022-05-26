@@ -35,12 +35,11 @@ Select one or more of the following compatible modalities to enable learners to 
 - [Watch A Video Case Study](/activities/activities/WatchCaseStudy.md)
 - [Listen To A Case Study](/activities/activities/ListenCaseStudy.md)
 - [Engage In An Interactive Case Study](/activities/activities/InteractiveCaseStudy.md)
-  
+
 ## 2. Identify subject
 
 - What is the subject of the evaluation?
 - What is the evaluation you need to perform? (It can be determining the worth, value, performance, effectiveness, outcome, or consequences of the subject.)
-  
 - [Journalistic Six](https://www.sessionlab.com/methods/the-journalistic-six)
 
 ## 3. Criteria selection
