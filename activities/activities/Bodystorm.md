@@ -1,4 +1,3 @@
-
 # Bodystorming
 
 What is Bodystorming?

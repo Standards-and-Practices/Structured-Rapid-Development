@@ -1,7 +1,5 @@
 # Sales Funnel
 
-
-
 What is a Sales Funnel?
 
 A sales funnel is a process that businesses use to convert potential customers into paying customers. The funnel is made up of several steps that the customer goes through, from becoming aware of the product or service, to making a purchase.

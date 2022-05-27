@@ -1,7 +1,5 @@
 # Miles and Snow's Organizational Strategies
 
-
-
 In 1978, Michael Miles and Charles Snow proposed a typology of organizational strategies based on two major variables: (1) defender versus prospector and (2) analyzer versus reactor.
 
 The defender strategy is suitable for organizations operating in stable environments with well-known customer needs. The defender is focused on process efficiency and product quality, and it relies on incremental innovation to maintain its competitive advantage.

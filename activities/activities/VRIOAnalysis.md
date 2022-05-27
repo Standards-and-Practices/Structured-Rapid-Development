@@ -1,7 +1,5 @@
 # VRIO Analysis
 
-
-
 In business, VRIO is an acronym for “value, rareness, imitability, and organization.” It’s a core part of a strategy toolkit known as a resource-based view (RBV), which helps businesses map out what they’re good at relative to their competitors.
 
 The VRIO framework is based on the resource-based view of the firm, which states that a company’s competitive advantage comes from its unique resources and capabilities. The resources and capabilities must be valuable, rare, inimitable, and supported by an effective organization in order to create a competitive advantage.

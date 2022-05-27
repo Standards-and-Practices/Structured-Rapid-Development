@@ -1,7 +1,5 @@
 # Five Dysfunctions of Teams
 
-
-
 There are five dysfunctions of a team, and they are:
 
 1. Absence of trust

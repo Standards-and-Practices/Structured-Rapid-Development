@@ -1,4 +1,4 @@
-# The McKinsey 7S FrameworkA
+# The McKinsey 7S Framework
 
 The 7S model is a framework for organizational analysis. It can be used to help organizations identify and overcome problems.
 

@@ -1,4 +1,5 @@
 # Brainwriting
+
 What is a Brainwriting?
 
 A brainwriting is simply a written brainstorming technique that allows you to capture ideas from a group of people in a short period of time. It's an efficient way to generate ideas, and it's especially useful when you need to generate a lot of ideas quickly.

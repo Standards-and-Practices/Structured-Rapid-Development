@@ -1,7 +1,5 @@
 # Business Motivation Model
 
-
-
 Most people are familiar with the concept of a goal, and how setting and achieving goals is essential to success in any endeavor. What people may not be familiar with is how to create an effective goal, or how to create a system to track progress towards that goal. This is where the Business Motivation Model comes in.
 
 The Business Motivation Model (BMM) is a framework for thinking about and planning business goals. It can be used to create both simple and complex goals, and to track progress towards those goals. The model is based on the idea that all businesses have four core elements: purpose, users, process, and data.

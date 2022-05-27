@@ -1,10 +1,8 @@
 # Competitive Intelligence
 
+Competitive intelligence (CI) is the gathering and analysis of publicly available information about an organization's competitors. It is used to identify and assess the business strategies, strengths, and weaknesses of an organization's competitors.
 
-
-Competitive intelligence (CI) is the gathering and analysis of publicly available information about an organization's competitors. It is used to identify and assess the business strategies, strengths, and weaknesses of an organization's competitors. 
-
-Creating a competitive intelligence (CI) program is vital for any organization that wants to stay ahead of the competition. A well-designed CI program will help an organization to make better business decisions, choose the right strategies, and avoid costly mistakes. 
+Creating a competitive intelligence (CI) program is vital for any organization that wants to stay ahead of the competition. A well-designed CI program will help an organization to make better business decisions, choose the right strategies, and avoid costly mistakes.
 
 There are many reasons why an organization would want to create a competitive intelligence program. Some of the most important reasons include:
 
@@ -18,7 +16,7 @@ There are many reasons why an organization would want to create a competitive in
 
 5. To stay ahead of the competition
 
-Competitive intelligence programs can be designed and implemented in a variety of ways. The most important factor is to make sure that the program is tailored to the specific needs of the organization. 
+Competitive intelligence programs can be designed and implemented in a variety of ways. The most important factor is to make sure that the program is tailored to the specific needs of the organization.
 
 There are many different sources of information that can be used in a competitive intelligence program. Some of the most common sources include:
 

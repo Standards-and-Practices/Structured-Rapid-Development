@@ -1,7 +1,5 @@
 # Perceptual Mapping
 
-
-
 What is Perceptual Mapping?
 
 A perceptual map is a graphical representation of how consumers perceive a marketplace. In particular, it shows the relationships between different products and services in the minds of consumers. The purpose of a perceptual map is to help businesses understand how consumers see the marketplace, so that they can make decisions about positioning and marketing their products and services.

@@ -1,5 +1,3 @@
-
-
 # The Six Steps of Delegation
 
 The Six Steps of Delegation is a process that helps ensure that tasks are delegated effectively.

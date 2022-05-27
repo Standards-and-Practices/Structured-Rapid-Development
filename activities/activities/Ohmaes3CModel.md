@@ -1,7 +1,5 @@
 # Ohmae's 3C Model
 
-
-
 In his book "The Mind of the Strategist", Japanese business theorist Kenichi Ohmae introduced the 3C Model, a framework for thinking about business strategy. The 3Cs stand for Company, Customer, and Competitor.
 
 To create a 3C Model, you first need to identify your company's core competencies. What are the things that your company does better than anyone else? Once you have identified your company's strengths, you need to think about how you can use those strengths to meet the needs of your target customers.

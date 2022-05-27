@@ -1,5 +1,3 @@
-
-
 # Six Sigma
 
 Six Sigma is a quality control methodology developed in 1986 by Motorola. The methodology includes a number of quality improvement tools, including Statistical Process Control, Design of Experiments and Failure Mode and Effects Analysis. Six Sigma is now used in a variety of industries, from manufacturing to healthcare.

@@ -1,7 +1,5 @@
 # User Personas
 
-
-
 What is a User Persona?
 
 A user persona is a model of a specific user group’s characteristics, behaviors and motivations. personas are used to guide the design and development of user-centered products and services.

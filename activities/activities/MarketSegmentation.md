@@ -1,9 +1,5 @@
 # Market Segmentation
 
-
-
-
-
 A market segmentation is a way of subdividing a market into different groups, or segments, of customers that have similar needs and wants. Segmenting a market can allow businesses to target their marketing and advertising efforts more effectively, which can lead to increased sales and profits.
 
 There are a number of different ways to segment a market, but the most common approach is to use demographic factors such as age, gender, income, and location. Other methods of segmentation include psychographic factors such as lifestyle and personality, and behavior factors such as customer needs and purchase habits.

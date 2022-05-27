@@ -1,7 +1,5 @@
 # Focus Groups
 
-
-
 A focus group is a small, carefully selected group of people who participate in a guided discussion about a particular topic. The purpose of a focus group is to collect feedback and insights about a product, service, or issue.
 
 To create a focus group, start by identifying your target audience and selecting a moderator. Then, invite 8-10 people to participate in the discussion. Be sure to send a confirmation email with all the details about the discussion, including the date, time, location, and any preparation required.

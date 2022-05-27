@@ -1,7 +1,5 @@
 # Nadler-Tushman Congruence Model
 
-
-
 In any organization, there are always competing demands placed on employees. The Nadler-Tushman Congruence Model is a framework that can be used to help map out and understand these competing demands, and how they relate to each other.
 
 The model consists of four key elements: inputs, outputs, tasks, and person-environment fit. Inputs are the resources that an individual brings to a task, including skills, knowledge, and experience. Outputs are the results of a task, which can be either tangible or intangible. Tasks are the specific actions that an individual must take to produce an output. And finally, person-environment fit is the compatibility between an individual and their work environment.

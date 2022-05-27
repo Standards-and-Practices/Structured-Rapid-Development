@@ -1,7 +1,5 @@
 # Kotler and Keller's 5 Product Levels
 
-
-
 Kotler and Keller's 5 Product Levels is a tool that businesses can use to create a clear and concise product strategy. It involves breaking down your product offering into five distinct levels, each with its own unique benefits and features. By doing this, you can more easily identify which products are most important to your customers and what needs to be done to make them successful.
 
 The five levels are:

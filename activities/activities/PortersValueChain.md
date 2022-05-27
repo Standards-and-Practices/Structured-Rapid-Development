@@ -1,5 +1,3 @@
-
-
 # Porter's Value Chain
 
 What Is a Porter’s Value Chain? A Porter’s value chain is a model that helps managers to identify the major sources of cost and differentiation within their firm. It is based on the work of Michael Porter, a professor at Harvard Business School, and is also known as a “Porter’s generic competitive strategy.”

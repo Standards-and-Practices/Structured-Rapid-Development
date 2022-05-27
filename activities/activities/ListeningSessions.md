@@ -1,6 +1,5 @@
-
-
 # Design Listening Sessions
+
 Design Listening Sessions are a great way to get feedback from your target audience about your product or service. By hosting a listening session, you can gather valuable insights that you can use to improve your offering. Here's how to make a great listening session:
 
 1. Choose your target audience. You'll want to select a group of people who are representative of your potential customer base.

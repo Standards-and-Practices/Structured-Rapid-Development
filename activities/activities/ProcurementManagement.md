@@ -1,7 +1,5 @@
 # Procurement Management
 
-
-
 A procurement management plan is a document that outlines how an organization will go about acquiring the goods and services it needs. procuring goods and services can be a complicated and time-consuming process, so it's important to have a plan in place to ensure that everything runs smoothly.
 
 There are a few key elements that should be included in a procurement management plan:

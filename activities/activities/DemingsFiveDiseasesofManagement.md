@@ -1,7 +1,5 @@
 # Deming's Five Diseases of Management
 
-
-
 If you manage a team or company, you're likely familiar with the challenges that come with keeping everyone on track and ensuring that everyone is working towards the same goals. You might not be aware, however, of Deming's Five Diseases of Management - a helpful tool for identifying and addressing the root cause of management problems.
 
 Deming's Five Diseases of Management are:

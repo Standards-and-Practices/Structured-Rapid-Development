@@ -1,7 +1,5 @@
 # Porter's Four Corner Model
 
-
-
 Porter’s Four Corner Model is a powerful tool that can be used to analyze a company and its business environment. It is a framework that businesses can use to identify the key drivers of their business and to develop strategies to improve their performance.
 
 The Four Corner Model is based on four key drivers of business performance:

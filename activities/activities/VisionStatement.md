@@ -1,7 +1,5 @@
 # Vision Statement
 
-
-
 A vision statement is a powerful way to articulate your company’s purpose and desired outcomes. It is a declaration of what you want to achieve in the future, and it provides a framework for decision-making. A well-crafted vision statement can be a source of inspiration and motivation for your team, and it can help to focus your efforts on the things that matter most.
 
 There are a few key elements to creating a strong vision statement. First, you need to articulate your overall goal. What is it that you want to achieve? Keep it concise and clear. Second, you need to articulate the reason why this goal is important. What difference will it make in the world? Again, keep it concise and clear.

@@ -1,5 +1,3 @@
-
-
 # The Ten Cs of Selling Online
 
 Almost anyone can sell online these days - but not everyone can do it effectively. In order to be a successful online seller, you need to have a clear understanding of the ten key elements of selling online. This is what we call the "Ten Cs of Selling Online".

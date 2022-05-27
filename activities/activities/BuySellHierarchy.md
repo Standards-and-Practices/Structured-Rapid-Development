@@ -1,7 +1,5 @@
 # Buy-Sell Hierarchy
 
-
-
 When it comes to running a business, there are a lot of important decisions to be made. One of those decisions is what to do with the business if something happens to the owner. This is where a buy-sell hierarchy comes in.
 
 A buy-sell hierarchy is a documents that outlines what will happen to the business in the event that the owner dies or is otherwise unable to continue running the business. This document is important because it ensures that the business will continue to run smoothly even if something happens to the owner.

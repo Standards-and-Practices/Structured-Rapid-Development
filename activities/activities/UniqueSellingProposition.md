@@ -1,7 +1,5 @@
 # Unique Selling Proposition
 
-
-
 What is a Unique Selling Proposition?
 
 A Unique Selling Proposition (USP) is a statement that describes what makes your product or service unique, and how it can benefit your customers. It is often used as a tagline or slogan, but can also be included in your company's branding and marketing materials.

@@ -1,7 +1,5 @@
 # Mullins's Seven Domains Model
 
-
-
 A Mullins's Seven Domains Model is a tool that can be used to help understand, analyze, and improve upon complex systems. It is a means of breaking down a system into seven different domains in order to more easily identify trouble spots and areas of improvement. The seven domains are:
 
 1. Function

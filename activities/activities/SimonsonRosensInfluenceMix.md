@@ -1,7 +1,5 @@
 # Simonson and Rosen's Influence Mix
 
-
-
 Simonson and Rosen's Influence Mix is a tool that can be used to help identify and understand the factors that influence an individual's behavior. It can be used to predict how someone will respond to a given situation and can be used to plan interventions that will target those specific factors.
 
 To create a Simonson and Rosen's Influence Mix, an individual first needs to identify the people who have the most influence over their behavior. These people can be categorized into four groups: those who are most important to the individual (e.g., family and close friends), those who have the most power over the individual (e.g., bosses and authority figures), those who are most liked by the individual (e.g., people who are fun to be around), and those who are most similar to the individual (e.g., people who share similar characteristics).

@@ -1,7 +1,5 @@
 # Yes And... (improv comedy)
 
-
-
 In improv comedy, the performers create scenes based on suggestions from the audience. The scenes are usually funny, but they can also be serious or sentimental. The most important rule of improv is "Yes And…", which means that the performers must agree with each other and build on each other's ideas. This rule is what makes improv scenes work. Without it, the scenes would be confusing and would quickly fall apart.
 
 Here's a quick guide to making a Yes And… improv scene:

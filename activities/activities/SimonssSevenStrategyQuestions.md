@@ -1,7 +1,5 @@
 # Simons's Seven Strategy Questions
 
-
-
 If you're looking to get your business on track, you need to have a well-thought-out strategy. A Simons's Seven Strategy Questions can help you develop a clear and concise plan for your business.
 
 So, what exactly is a Simons's Seven Strategy Questions? It's a simple framework that helps you think through the various aspects of your business strategy. The seven questions are:

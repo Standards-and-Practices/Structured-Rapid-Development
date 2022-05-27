@@ -1,7 +1,5 @@
 # Pyramid of Organizational Development
 
-
-
 The term “pyramid of organizational development” was coined by Dr. Robert H. Beck in the early 1970s. It is a model that describes the levels of development that organizations go through as they grow and mature. The model has 5 levels:
 
 1. Level 5 - Pre-contemplation

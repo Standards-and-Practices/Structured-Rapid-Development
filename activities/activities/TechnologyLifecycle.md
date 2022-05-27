@@ -1,7 +1,5 @@
 # The Technology Lifecycle
 
-
-
 The technology lifecycle is the process that new technology goes through from inception to eventual obsolescence. The steps in the lifecycle are idea/invention, development, commercialization, adoption, and finally abandonment.
 
 Idea/Invention: This is the phase where a new technology is first conceived. It may be the result of a single individual's brainstorming or the work of a team of researchers.

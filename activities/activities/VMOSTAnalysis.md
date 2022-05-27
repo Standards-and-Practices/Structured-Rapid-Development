@@ -1,7 +1,5 @@
 # VMOST Analysis
 
-
-
 If you want to ensure that your organization is making the best possible use of its resources, you need to have a clear understanding of what its goals are and what it takes to achieve them. This is where a VMOST Analysis comes in.
 
 A VMOST Analysis is a tool that can be used to help you understand an organization's goals, objectives, and the resources it has at its disposal. It is a means of assessing how well an organization is structured to achieve its goals and objectives.

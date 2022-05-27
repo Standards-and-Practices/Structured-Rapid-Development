@@ -1,7 +1,5 @@
 # Pyramid of Purpose
 
-
-
 Think about the last time you lost your motivation to work on a project. What was the root cause? Chances are, it wasn’t the project itself that was the problem. It was probably something else entirely.
 
 The same is true for companies and organizations. They can lose their way when they lose sight of their purpose. This is where a Pyramid of Purpose can help.

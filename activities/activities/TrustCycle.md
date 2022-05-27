@@ -1,5 +1,3 @@
-
-
 # Drivers of trust and the Trust Cycle
 
 A Driver of trust is a reliable method by which an organization can ensure that its employees are trustworthy. The Trust Cycle is a reliable way to create and maintain trust between an organization and its employees. It is based on the idea that trust is built up over time through positive interactions and experiences. The Trust Cycle has four stages:

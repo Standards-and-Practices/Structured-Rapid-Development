@@ -1,7 +1,5 @@
 # Corporate Social Responsibility
 
-
-
 Corporate social responsibility (CSR) is a type of sustainable development. CSR is a way forcompanies to give back to society, and it can take many different forms. It can involve everything from supporting local charities to reducing your company's environmental impact.
 
 There are many reasons why you might want to consider implementing a CSR policy at your company. For one, it can help you build a positive reputation with the public. Good CSR can also lead to loyal customers and employees. And, of course, it's simply the right thing to do.

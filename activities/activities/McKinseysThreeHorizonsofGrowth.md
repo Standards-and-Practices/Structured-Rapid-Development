@@ -1,7 +1,5 @@
 # McKinsey's Three Horizons of Growth
 
-
-
 If your company is looking to grow, it's important to have a plan for how to best allocate resources to fuel that growth. That's where McKinsey's Three Horizons of Growth comes in.
 
 What is McKinsey's Three Horizons of Growth?

@@ -1,5 +1,3 @@
-
-
 # The Six Rs of business
 
 The Six Rs of business is a framework that can be used to help businesses improve their performance.

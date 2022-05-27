@@ -1,8 +1,6 @@
 # Mission Statement
 
-
-
-A mission statement is a brief description of what your company does, its core values, and how it plans to achieve its goals. It’s typically used as a way to attract investors, customers, and employees. 
+A mission statement is a brief description of what your company does, its core values, and how it plans to achieve its goals. It’s typically used as a way to attract investors, customers, and employees.
 
 Creating a mission statement is not as daunting as it sounds. Here are a few steps to get you started:
 

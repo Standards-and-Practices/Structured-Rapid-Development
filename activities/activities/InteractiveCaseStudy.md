@@ -1,2 +1,1 @@
-
 # Interactive Case Study

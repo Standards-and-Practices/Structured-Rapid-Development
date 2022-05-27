@@ -1,2 +1,1 @@
-
 # Read a Case Study

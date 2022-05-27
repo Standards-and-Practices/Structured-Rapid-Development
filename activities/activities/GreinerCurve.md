@@ -1,7 +1,5 @@
 # Greiner Curve
 
-
-
 A Greiner curve is a quick way to visualize growth over time. It's handy for estimating future growth or for tracking actual growth over time. Here's how to make one:
 
 1. Draw a line on a piece of paper.

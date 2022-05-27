@@ -1,7 +1,5 @@
 # Reidenbach and Robin's Five Stages of Corporate Ethical Development
 
-
-
 Most people think of businesses as being primarily concerned with making money. While it's true that businesses need to make money to stay afloat, there is more to being a successful business than just making a profit. A business also needs to be ethical in order to be successful in the long term.
 
 The Reidenbach and Robin's Five Stages of Corporate Ethical Development is a framework that businesses can use to ensure that they are behaving ethically. The five stages are:

@@ -1,5 +1,3 @@
-
-
 # The Four Ps of Marketing
 
 The Four Ps of Marketing is a essential tool for any business. It is a framework that businesses use to organize their thoughts and strategies.

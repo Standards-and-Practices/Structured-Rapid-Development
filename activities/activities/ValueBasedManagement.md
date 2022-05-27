@@ -1,9 +1,5 @@
 # Value-Based Management
 
-
-
-
-
 Many companies shy away from Value-Based Management (VBM), because it can be difficult to define what represents value. Is it the amount of money a company makes? The quality of its products or services? The satisfaction of its customers? The engagement of its employees?
 
 The answer is all of the above—and more. Value is whatever creates the most value for the company and its stakeholders.

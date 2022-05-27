@@ -1,6 +1,5 @@
-
-
 # Immersion Observation
+
 An Immersion Observation is an observation technique that allows you to really get to know your subject matter. To do an Immersion Observation, you need to be willing to fully engage with what you're observing. This means setting aside any preconceptions or expectations you might have, and instead allowing yourself to be open to whatever you encounter.
 
 To make an Immersion Observation, start by finding a comfortable place to sit or stand where you can watch your subject matter without being too intrusive. Then, simply take some time to observe. Pay attention to the details: what does your subject matter look like, sound like, smell like? How does it move? What does it seem to be interested in?

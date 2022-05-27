@@ -1,10 +1,5 @@
 # The ADL Matrix
 
-
-
-
-
-
 In 1965, a man named Robert F. Mager published a book called Measuring Instructional Results. In it, he introduced a concept he called the “ ADL Matrix.”
 
 The ADL Matrix is a tool that can be used to map out the steps required to complete a task. It is divided into four quadrants:

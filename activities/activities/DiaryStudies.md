@@ -1,5 +1,5 @@
-
 # Diary Studies
+
 A diary study is a research method in which participants document their daily lives in a diary. Researchers use diary studies to explore how people use products and services, and to understand the emotions and thoughts that accompany these activities.
 
 Diary studies are usually conducted over a period of several weeks or months. During this time, participants document their activities, thoughts, and emotions in a diary. They may also be asked to take photos, or to record videos or audio clips.

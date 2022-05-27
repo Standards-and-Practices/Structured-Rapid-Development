@@ -1,7 +1,5 @@
 # Segmentation, Targeting and Positioning Model (STP)
 
-
-
 The Segmentation, Targeting and Positioning Model (STP) is a powerful tool that companies use to market their products and services. The model is designed to help companies identify their target market, and then segment that market into smaller groups that have similar needs and wants. Once the market is segmented, the company can then choose the right positioning strategy to target each group.
 
 There are three key steps in creating an STP model:

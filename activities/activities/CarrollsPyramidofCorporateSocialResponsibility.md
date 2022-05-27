@@ -1,7 +1,5 @@
 # Carroll's Pyramid of Corporate Social Responsibility
 
-
-
 What is a Carroll’s Pyramid of Corporate Social Responsibility?
 
 A Carroll’s Pyramid of Corporate Social Responsibility is a pyramid that helps businesses decide how to best allocate their resources in order to do the most good for society. The pyramid is divided into four levels: economic, legal, ethical, and philanthropic. The idea is that businesses have a responsibility to society that goes beyond making a profit, and that they should take into account the economic, legal, and ethical implications of their actions. The philanthropic level is at the top of the pyramid because it represents the highest level of social responsibility.

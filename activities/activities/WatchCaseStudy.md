@@ -1,2 +1,1 @@
-
 # Watch a Case Study

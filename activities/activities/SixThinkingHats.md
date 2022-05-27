@@ -1,5 +1,3 @@
-
-
 # Six Thinking Hats
 
 A Six Thinking Hats is a tool for thinking about problems from different perspectives. It can be used to generate new ideas, to find solutions to problems, or to make decisions. To make a Six Thinking Hats, you will need six pieces of paper, each a different color. On each piece of paper, write down one of the following perspectives:

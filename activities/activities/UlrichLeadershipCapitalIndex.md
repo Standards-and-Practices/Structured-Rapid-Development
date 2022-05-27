@@ -1,5 +1,3 @@
-
-
 # Ulrich's Leadership Capital Index
 
 Ulrich's Leadership Capital Index is a measure of an individual's leadership potential. The index is based on four dimensions:
