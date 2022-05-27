@@ -1,7 +1,5 @@
 # 4S Web Marketing Mix
 
-
-
 The 4S Web Marketing Mix is a set of four elements that are essential for any successful online marketing campaign. The four elements are:
 
 1. Search Engine Optimization (SEO)

@@ -1,8 +1,4 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 
 # Kotter's Eight-Stage Process for Leading Change
 In his classic work on leading change, John Kotter laid out an 8-stage process for successful organizational transformation. While there have been many subsequent models and frameworks developed, Kotter's remains one of the most widely used and respected. Here's a brief overview of the process: 

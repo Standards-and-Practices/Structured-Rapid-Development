@@ -1,8 +1,4 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 
 # Design Listening Sessions
 Design Listening Sessions are a great way to get feedback from your target audience about your product or service. By hosting a listening session, you can gather valuable insights that you can use to improve your offering. Here's how to make a great listening session:

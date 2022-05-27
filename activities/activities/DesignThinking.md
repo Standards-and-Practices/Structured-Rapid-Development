@@ -1,8 +1,4 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 # Design Thinking
 Design Thinking is a structured process for creative problem solving. It is used to find innovative solutions to complex problems. The process is composed of five steps: empathize, define, ideate, prototype, and test. 
 

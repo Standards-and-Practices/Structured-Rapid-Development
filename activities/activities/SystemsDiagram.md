@@ -1,8 +1,4 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 
 # Systems Diagram
 System diagrams are used to show the relationships between different parts of a system. They can be used to show how a system works, or how it could be improved.

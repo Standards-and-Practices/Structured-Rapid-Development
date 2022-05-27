@@ -1,8 +1,4 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 
 # The Rule of 150
 The Rule of 150 is a great way to make sure you're always meeting new people and networking. 

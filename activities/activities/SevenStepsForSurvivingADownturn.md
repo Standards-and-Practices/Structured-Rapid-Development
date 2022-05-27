@@ -1,8 +1,4 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 
 # Seven Steps for Surviving a Downturn
 When the economy starts to tank, it can be a scary time for businesses. But if you take the right steps, you can weather the storm and come out the other side even stronger than before. Here are seven steps for surviving a downturn: 

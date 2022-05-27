@@ -1,8 +1,4 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 
 # Immersion Observation
 An Immersion Observation is an observation technique that allows you to really get to know your subject matter. To do an Immersion Observation, you need to be willing to fully engage with what you're observing. This means setting aside any preconceptions or expectations you might have, and instead allowing yourself to be open to whatever you encounter.

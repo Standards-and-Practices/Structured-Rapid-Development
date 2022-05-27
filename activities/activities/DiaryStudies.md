@@ -1,8 +1,4 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 # Diary Studies
 A diary study is a research method in which participants document their daily lives in a diary. Researchers use diary studies to explore how people use products and services, and to understand the emotions and thoughts that accompany these activities.
 

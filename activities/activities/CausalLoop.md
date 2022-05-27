@@ -1,8 +1,4 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 # Causal Loop
 A causal loop diagram is a visual tool used to map out cause-and-effect relationships. In other words, it helps you understand how things work by showing the how different factors can affect one another.
 

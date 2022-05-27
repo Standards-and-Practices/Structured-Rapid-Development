@@ -1,8 +1,4 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 
 # Six Levels of Strategic Agility and Cost Control
 The Six Levels of Strategic Agility and Cost Control is a framework that can help organizations make decisions about where to allocate resources in order to achieve their desired outcomes. The framework is made up of six levels, each of which corresponds to a different degree of strategic agility and cost control. Organizations can use the Six Levels of Strategic Agility and Cost Control to determine which level of agility and cost control is right for them, and how to allocate resources accordingly. The framework can also be used to assess an organization's current state and identify areas for improvement. 

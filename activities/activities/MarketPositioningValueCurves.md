@@ -1,7 +1,3 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 # Market positioning and value curves
 A market positioning and value curve is a graphical representation of how a company positions itself in the market in relation to its competitors. It shows the company's relative position in the market based on factors such as price, quality, and features. The purpose of a market positioning and value curve is to help a company determine how to best position itself in the market in order to maximize its profits. There are two main ways to create a market positioning and value curve. The first is to use market data, such as surveys or customer data, to plot the positions of different companies. The second is to create a hypothetical market and value curve based on your company's own values and goals. Once you have created a market positioning and value curve, it can be extremely useful in helping you make decisions about your product or service. For example, you can use it to decide where to price your product, what features to offer, or what quality level to maintain. Additionally, you can use it to track your progress over time and see how your positioning in the market changes. If you are looking to create a market positioning and value curve for your company, there are a few things to keep in mind. First, you need to have a clear understanding of your product or service and your place in the market. Second, you need to gather market data or create a hypothetical market in order to plot the positions of different companies. And finally, you need to use the market positioning and value curve to make decisions about your product or service.

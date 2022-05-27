@@ -1,8 +1,4 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 
 # Observing Peers
 When we watch others, we learn about their skills, abilities, and interests. We can also learn about how to relate to them and how they see the world. By observing peers, we can learn a great deal about ourselves and our own potential.

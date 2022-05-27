@@ -1,7 +1,3 @@
----
-layout: activity
-parent: Alphabetically
-grand_parent: Learning Activities
----
+
 # Market Barriers
 A market barrier is an artificial barrier that makes it difficult or impossible for a company to enter a market. Market barriers can be created by governments, by powerful incumbents, or by other companies. There are several ways to create market barriers. The most common is to make it difficult or expensive to enter the market. For example, a government could create a barrier by requiring a company to obtain a special license to operate in the market. Or an incumbent could create a barrier by owning all the key suppliers or distributors in the market. Another way to create a market barrier is to define the market in a way that excludes potential competitors. For example, an incumbent could define the market as “the provision of X service to customers in Y geographic area.” This would exclude potential competitors who provide the same service but in a different geographic area. Market barriers can be useful for companies because they can help to protect market share and profits. They can also help to keep out competitors that might be unable to compete effectively. However, market barriers can also be problematic because they can make it difficult for new companies to enter a market and compete. They can also lead to higher prices for consumers and less innovation. If you’re considering creating a market barrier, it’s important to think carefully about whether it’s the right decision for your company. You should also be aware of the potential risks and problems that market barriers can create.
