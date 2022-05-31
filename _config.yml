@@ -16,12 +16,14 @@ defaults:
   -
     scope:
       path: ""
-      type: "pages"
+      type: pages
     values:
-      layout: "default"
+      layout: default
   -
     scope:
-      path: "activities/activities"
-      type: "pages"
+      path: activities/activities
+      type: pages
     values:
-      layout: "activity"
+      layout: activity
+      parent: Alphabetically
+      grand_parent: Learning Activities
