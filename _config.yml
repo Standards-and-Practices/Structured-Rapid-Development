@@ -24,4 +24,4 @@ defaults:
       path: "activities/activities/*"
       type: "pages"
     values:
-      layout: "activities"
+      layout: "activity"
