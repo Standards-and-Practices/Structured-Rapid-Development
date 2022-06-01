@@ -1,0 +1,88 @@
+I"�<h1 id="evaluation-case">Evaluation Case</h1>
+
+<p>The <em>Case Study Handbook</em><sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> explains Evaluation Cases as follows:</p>
+
+<blockquote>
+  <p>An evaluation scenario in a case typically portrays a situation in which a deeper understanding of a subject—such as a person, team, product or service, company, country, strategy, or policy— is necessary before any critical decisions or actions can be taken. This deeper understanding comes from an evaluation, often of the worth, value, performance, effectiveness, outcome, or consequences (for example, of a decision that has been made) of the subject. Usually the main character of the case is responsible for the evaluation, but it is also possible for the main character to be the subject of the evaluation.
+Evaluations are ubiquitous in the real world. Reviews of movies, books, musical and dramatic performances, cars, consumer technology, industrial machinery, restaurants, and virtually any other product, service, or artistic creation are evaluations. They all have the same practical purpose: to give people information that can help them improve something or that assists them in making a choice or a recommendation.
+An example of an evaluation intended to improve something is a performance appraisal at work. It has a set of criteria relevant to the individual’s job and identifies strengths and weaknesses and often leads to goals for capitalizing on strengths and improving weaknesses.
+Evaluations are sometimes a prelude to a decision. For instance, you might read online reviews of Chinese restaurants to help you and your friends decide where to have dinner. The review content and star ratings are one category of information to consider. But you’ll also use other information when making the decision, such as the restaurants’ prices, specific menus, and distance from your home.</p>
+</blockquote>
+
+<h2 id="pattern-structure">Pattern Structure</h2>
+
+<p>A learning experience implementing the Evaluation Case pattern typically follows the structure:</p>
+
+<ul>
+  <li><a href="#evaluation-case">Evaluation Case</a>
+    <ul>
+      <li><a href="#pattern-structure">Pattern Structure</a></li>
+      <li><a href="#1-explore-a-case">1. Explore a case</a></li>
+      <li><a href="#2-identify-subject">2. Identify subject</a></li>
+      <li><a href="#3-criteria-selection">3. Criteria selection</a></li>
+      <li><a href="#4-criteria-based-analysis">4. Criteria-based analysis</a></li>
+      <li><a href="#5-overall-evaluation">5. Overall evaluation</a></li>
+      <li><a href="#6-identify-contingencies">6. Identify contingencies</a></li>
+      <li><a href="#7-recommend-action">7. Recommend action</a></li>
+      <li><a href="#8-receive-feedback">8. Receive feedback</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="1-explore-a-case">1. Explore a case</h2>
+
+<p>Select one or more of the following compatible modalities to enable learners to explore a case.</p>
+
+<ul>
+  <li><a href="/activities/activities/ReadCaseStudy.md">Read A Case Study</a>)</li>
+  <li><a href="/activities/activities/WatchCaseStudy.md">Watch A Video Case Study</a></li>
+  <li><a href="/activities/activities/ListenCaseStudy.md">Listen To A Case Study</a></li>
+  <li><a href="/activities/activities/InteractiveCaseStudy.md">Engage In An Interactive Case Study</a></li>
+</ul>
+
+<h2 id="2-identify-subject">2. Identify subject</h2>
+
+<ul>
+  <li>What is the subject of the evaluation?</li>
+  <li>What is the evaluation you need to perform? (It can be determining the worth, value, performance, effectiveness, outcome, or consequences of the subject.)</li>
+  <li><a href="https://www.sessionlab.com/methods/the-journalistic-six">Journalistic Six</a></li>
+</ul>
+
+<h2 id="3-criteria-selection">3. Criteria selection</h2>
+
+<ul>
+  <li>What questions will help you make the evaluation?</li>
+  <li>What concepts and frameworks might help answer your questions?</li>
+</ul>
+
+<h2 id="4-criteria-based-analysis">4. Criteria-based analysis</h2>
+
+<h2 id="5-overall-evaluation">5. Overall evaluation</h2>
+
+<ul>
+  <li>Based on your analysis above, what is your overall evaluation of the subject?</li>
+  <li>What are the major reasons that support your overall evaluation?</li>
+</ul>
+
+<h2 id="6-identify-contingencies">6. Identify contingencies</h2>
+
+<ul>
+  <li>Scenario Planning</li>
+</ul>
+
+<h2 id="7-recommend-action">7. Recommend action</h2>
+
+<ul>
+  <li><a href="./recommend-action/README.md">Tools for Recommending Action</a></li>
+</ul>
+
+<h2 id="8-receive-feedback">8. Receive feedback</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://search.ebscohost.com/login.aspx?direct=true&amp;db=nlebk&amp;AN=1797860&amp;site=eds-live&amp;scope=site&amp;authtype=sso&amp;custid=ns017578">William Ellet. (2018). The Case Study Handbook, Revised Edition : A Student’s Guide: Vol. Revised edition. Harvard Business Review Press.</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

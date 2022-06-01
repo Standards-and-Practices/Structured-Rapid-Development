@@ -1,0 +1,76 @@
+I"U<h1 id="problem-diagnosis-case">Problem-Diagnosis Case</h1>
+
+<p>Across disciplines, qualified professionals are distinguished by their ability to diagnose and solve problems in a variety of circumstances.</p>
+
+<p>The learner’s objective in a Problem-Diagnosis Case is to:</p>
+
+<ol>
+  <li>Identify the root cause of the problem</li>
+  <li>Evaluate potential solutions using a criteria-based approach</li>
+  <li>Plan for contingencies</li>
+  <li>Recommend the best course of action</li>
+</ol>
+
+<div class="mermaid">
+  flowchart LR;
+      A[Explore a case]--&gt;B[Identify the problem];
+      B[Identify the problem]--&gt;C[Find the root cause];
+      C[Find the root cause]--&gt;D[Overall diagnosis];
+      D[Overall diagnosis]--&gt;E[Recommend action];
+      E[Recommend action]--&gt;F[Receive feedback];
+</div>
+
+<h2 id="pattern-structure">Pattern Structure</h2>
+
+<h2 id="1-explore-a-case">1. Explore a case</h2>
+
+<p>Select one or more of the following compatible modalities to enable learners to explore a case.</p>
+
+<ul>
+  <li><a href="/activities/activities/ReadCaseStudy.md">Read A Case Study</a></li>
+  <li><a href="/activities/activities/WatchCaseStudy.md">Watch A Video Case Study</a></li>
+  <li><a href="/activities/activities/ListenCaseStudy.md">Listen To A Case Study</a></li>
+  <li><a href="/activities/activities/InteractiveCaseStudy.md">Engage In An Interactive Case Study</a></li>
+</ul>
+
+<h2 id="2-identify-the-problem">2. Identify the problem</h2>
+
+<ul>
+  <li>What problem does the case describe? (Problems are the effects of causes such as actions, processes, activities, or forces. Problem scenarios often concern business pathology.)</li>
+  <li>What questions will help you explore the problem and its causes?</li>
+  <li>Can you identify concepts of frameworks you have learned that might be useful for identifying and proving causes?</li>
+</ul>
+
+<p><a href="./identify-problem/QuestionStorming.md">
+  <img src="../../images/question-storming.svg" alt="Question Storming" style="width: 200px;" />
+</a></p>
+
+<ul>
+  <li><a href="https://www.sessionlab.com/methods/context-map">Context Mapping</a></li>
+  <li><a href="https://www.sessionlab.com/methods/history-map-adifpm">History Mapping</a></li>
+  <li><a href="https://www.sessionlab.com/methods/gap-analysis">Gap Analysis</a></li>
+</ul>
+
+<h2 id="3-find-the-root-cause">3. Find the root cause</h2>
+
+<p><a href="./find-root-cause/FishboneDiagram.md">
+  <img src="../../images/fishbone-diagram.svg" alt="Fishbone Diagram" style="width: 200px;" />
+</a>
+<a href="./find-root-cause/FiveWhys.md">
+  <img src="../../images/five-whys.svg" alt="Five Whys" style="width: 200px;" />
+</a>
+<a href="./find-root-cause/ProblemTree.md">
+  <img src="../../images/problem-tree.svg" alt="Problem Tree" style="width: 200px;" />
+</a></p>
+
+<h2 id="4-overall-diagnosis">4. Overall diagnosis</h2>
+
+<ul>
+  <li><a href="https://www.sessionlab.com/methods/impact-and-effort-matrix">Impact / Effort Matrix</a></li>
+  <li><a href="https://www.sessionlab.com/methods/swot-analysis">SWOT Analysis</a></li>
+</ul>
+
+<h2 id="5-recommend-action">5. Recommend action</h2>
+
+<h2 id="6-receive-feedback">6. Receive feedback</h2>
+:ET

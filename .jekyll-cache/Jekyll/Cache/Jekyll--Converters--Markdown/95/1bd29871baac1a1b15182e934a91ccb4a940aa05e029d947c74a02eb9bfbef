@@ -1,0 +1,182 @@
+I"X<h1 id="structured-rapid-development">Structured Rapid Development</h1>
+
+<p><code class="language-plaintext highlighter-rouge">Design Patterns to Streamline Learning Design and Development.</code></p>
+
+<p>WGU’s vision is to be the world’s most innovative, student-centric university. Structured Rapid Development uses these design patterns to streamline the learning product design and development.</p>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#structured-rapid-development" id="markdown-toc-structured-rapid-development">Structured Rapid Development</a>    <ol>
+      <li><a href="#pathway-patterns" id="markdown-toc-pathway-patterns">Pathway Patterns</a></li>
+      <li><a href="#learning-experience-patterns" id="markdown-toc-learning-experience-patterns">Learning Experience Patterns</a>        <ol>
+          <li><a href="#case-patterns" id="markdown-toc-case-patterns">Case Patterns</a></li>
+          <li><a href="#practice-patterns" id="markdown-toc-practice-patterns">Practice Patterns</a></li>
+          <li><a href="#problem-patterns" id="markdown-toc-problem-patterns">Problem Patterns</a></li>
+          <li><a href="#design-patterns" id="markdown-toc-design-patterns">Design Patterns</a></li>
+          <li><a href="#inquiry-patterns" id="markdown-toc-inquiry-patterns">Inquiry Patterns</a></li>
+          <li><a href="#other-patterns" id="markdown-toc-other-patterns">Other Patterns</a></li>
+        </ol>
+      </li>
+      <li><a href="#activities" id="markdown-toc-activities">Activities</a></li>
+      <li><a href="#layouts" id="markdown-toc-layouts">Layouts</a></li>
+      <li><a href="#xblocks" id="markdown-toc-xblocks">xBlocks</a></li>
+      <li><a href="#oex-structure" id="markdown-toc-oex-structure">OEX Structure</a></li>
+    </ol>
+  </li>
+</ol>
+
+</details>
+
+<h2 id="pathway-patterns">Pathway Patterns</h2>
+
+<p>Pathways are organized sets of achievements that usually lead to some sort of credential (e.g. a degree, a certificate). There are several typical patterns that pathways take.</p>
+
+<ul>
+  <li><a href="./pathways/Associate.md">Associate Pathways</a></li>
+  <li><a href="./pathways/Bachelor.md">Bachelor Pathways</a></li>
+  <li><a href="./pathway/Master.md">Master Pathways</a></li>
+  <li><a href="./pathways/Professional.md">Professional Pathways</a></li>
+</ul>
+
+<h2 id="learning-experience-patterns">Learning Experience Patterns</h2>
+
+<p>Modules are the sub-xBlocks of pathways. They could be found at the certificate, course, competency, or sub-competency level.</p>
+
+<h3 id="case-patterns">Case Patterns</h3>
+
+<ul>
+  <li><a href="./experiences/cases/DecisionCase.md">Decision Case</a></li>
+  <li><a href="./experiences/cases/EvaluationCase.md">Evaluation Case</a></li>
+  <li><a href="./experiences/cases/ProblemDiagnosisCase.md">Problem-Diagnosis Case</a></li>
+  <li>Outlier</li>
+  <li>Role Play</li>
+  <li>Longitudinal</li>
+</ul>
+
+<h3 id="practice-patterns">Practice Patterns</h3>
+
+<ul>
+  <li><a href="./experiences/practice/DeliberatePractice.md">Deliberate Practice</a></li>
+  <li>Scaffolded Assistance</li>
+  <li>Distributed</li>
+  <li>Variable</li>
+</ul>
+
+<h3 id="problem-patterns">Problem Patterns</h3>
+
+<ul>
+  <li><a href="./experiences/problems/WellStructuredProblem.md">Well-Structured Problems</a></li>
+  <li><a href="./experiences/problems/IllStructuredProblem.md">Ill-Structured Problems</a></li>
+</ul>
+
+<h3 id="design-patterns">Design Patterns</h3>
+
+<ul>
+  <li><a href="./experiences/design/DesignThinking.md">Design Thinking</a></li>
+  <li>Maker Spaces</li>
+</ul>
+
+<h3 id="inquiry-patterns">Inquiry Patterns</h3>
+
+<ul>
+  <li><a href="./experiences/inquiry/ScientificMethod.md">Scientific Method</a></li>
+  <li>Socratic Questioning</li>
+</ul>
+
+<h3 id="other-patterns">Other Patterns</h3>
+
+<ul>
+  <li><a href="./experiences/other/EngageGuideApply.md">Engage, Guide, and Apply</a></li>
+</ul>
+
+<h2 id="activities">Activities</h2>
+
+<ul>
+  <li><a href="./activities/Alphabetically.md">A-Z Index</a></li>
+  <li><a href="./activities/School.md">By School</a></li>
+  <li><a href="./activities/Modality.md">By Modality</a></li>
+  <li><a href="./activities/Topics.md">By Topic</a></li>
+</ul>
+
+<h2 id="layouts">Layouts</h2>
+
+<ul>
+  <li><a href="./layouts/Article.md">Article</a></li>
+  <li><a href="./layouts/Blog.md">Blog</a></li>
+  <li><a href="./layouts/Content.md">Content</a></li>
+  <li><a href="./layouts/Gallery.md">Gallery</a></li>
+  <li><a href="./layouts/Intro.md">Intro</a></li>
+  <li><a href="./layouts/Media.md">Media</a></li>
+  <li><a href="./layouts/Other.md">Other</a></li>
+</ul>
+
+<h2 id="xblocks"><a href="./xBlocks/README.md">xBlocks</a></h2>
+
+<h2 id="oex-structure">OEX Structure</h2>
+
+<div class="mermaid">
+graph TD;
+CC[Course Content]:::CC;
+SO01[Section Opener]:::SO;
+LO01[Lesson Opener]:::LO;
+LO02[Lesson Opener]:::LO;
+U01[Unit]:::U;
+U02[Unit]:::U;
+U03[Unit]:::U;
+U04[Unit]:::U;
+LS01[Lesson Summary]:::LS;
+LS02[Lesson Summary]:::LS;
+LA01[Lesson Assessment]:::LA;
+LA02[Lesson Assessment]:::LA;
+SS01[Section Summary]:::SS;
+SA01[Section Assessment]:::SA;
+CC --&gt; SO01;
+SO01 --&gt; LO01;
+SO01 --&gt; LO02;
+LO01 --&gt; U01;
+LO01 --&gt; U02;
+LO02 --&gt; U03;
+LO02 --&gt; U04;
+U01 --&gt; LS01;
+U02 --&gt; LS01;
+U03 --&gt; LS02;
+U04 --&gt; LS02;
+LS01 --&gt; LA01;
+LS02 --&gt; LA02;
+LA01 --&gt; SS01;
+LA02 --&gt; SS01;
+SS01 --&gt; SA01;
+SO02[Section Opener]:::SO;
+LO03[Lesson Opener]:::LO;
+LO04[Lesson Opener]:::LO;
+U05[Unit]:::U;
+U06[Unit]:::U;
+U07[Unit]:::U;
+U08[Unit]:::U;
+LS03[Lesson Summary]:::LS;
+LS04[Lesson Summary]:::LS;
+LA03[Lesson Assessment]:::LA;
+LA04[Lesson Assessment]:::LA;
+SS02[Section Summary]:::SS;
+SA02[Section Assessment]:::SA;
+CC --&gt; SO02;
+SO02 --&gt; LO03;
+SO02 --&gt; LO04;
+LO03 --&gt; U05;
+LO03 --&gt; U06;
+LO04 --&gt; U07;
+LO04 --&gt; U08;
+U05 --&gt; LS03;
+U06 --&gt; LS03;
+U07 --&gt; LS04;
+U08 --&gt; LS04;
+LS03 --&gt; LA03;
+LS04 --&gt; LA04;
+LA03 --&gt; SS02;
+LA04 --&gt; SS02;
+SS02 --&gt; SA02;
+</div>
+:ET

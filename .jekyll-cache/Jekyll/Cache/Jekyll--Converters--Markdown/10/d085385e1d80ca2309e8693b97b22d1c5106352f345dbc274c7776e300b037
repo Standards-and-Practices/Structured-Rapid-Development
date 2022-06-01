@@ -1,0 +1,57 @@
+I"+
+<h1 id="article">Article</h1>
+
+<h2 id="article-with-full-width-header-image">Article with Full-width Header Image</h2>
+
+<p><img style="width:100px;" src="../images/layouts/article_01.png" alt="Article 01" /></p>
+
+<h3 id="compatibility">Compatibility</h3>
+
+<p><img src="https://img.shields.io/badge/NGP-Compatible-blue" alt="" /><img src="https://img.shields.io/badge/CGP-Compatible-orange" alt="" /></p>
+
+<h3 id="required-xblocks-image-text">Required xBlocks: <a href="../xBlocks/Image.md">Image</a>, <a href="../xBlocks/Text.md">Text</a></h3>
+
+<h3 id="xblocks-required">xBlocks Required</h3>
+
+<h2 id="article-with-left-aligned-image">Article with Left-aligned Image</h2>
+
+<p><img src="https://img.shields.io/badge/NGP-Compatible-blue" alt="" />
+<img src="https://img.shields.io/badge/CGP-Compatible-orange" alt="" /></p>
+
+<p><img style="width:100px;" src="../images/layouts/article_02.png" alt="Article 02" /></p>
+
+<h2 id="article-with-right-aligned-image">Article with Right-aligned Image</h2>
+
+<p><img src="https://img.shields.io/badge/NGP-Compatible-blue" alt="" />
+<img src="https://img.shields.io/badge/CGP-Compatible-orange" alt="" /></p>
+
+<p><img style="width:100px;" src="../images/layouts/article_03.png" alt="Article 03" /></p>
+
+<h2 id="article-with-header-image-and-right-sidebar">Article with Header Image and Right Sidebar</h2>
+
+<p><img src="https://img.shields.io/badge/NGP-Compatible-blue" alt="" />
+<img src="https://img.shields.io/badge/CGP-Compatible-orange" alt="" /></p>
+
+<p><img style="width:100px;" src="../images/layouts/article_04.png" alt="Article 04" /></p>
+
+<h2 id="article-with-full-width-header-image-and-left-sidebar">Article with Full-width Header Image and Left Sidebar</h2>
+
+<p><img src="https://img.shields.io/badge/NGP-Compatible-blue" alt="" />
+<img src="https://img.shields.io/badge/CGP-Compatible-orange" alt="" /></p>
+
+<p><img style="width:100px;" src="../images/layouts/article_05.png" alt="Article 05" /></p>
+
+<h2 id="article-with-text-header">Article with Text Header</h2>
+
+<p><img src="https://img.shields.io/badge/NGP-Compatible-blue" alt="" />
+<img src="https://img.shields.io/badge/CGP-Compatible-orange" alt="" /></p>
+
+<p><img style="width:100px;" src="../images/layouts/article_06.png" alt="Article 06" /></p>
+
+<h2 id="article-with-text-header-and-right-sidebar">Article with Text Header and Right Sidebar</h2>
+
+<p><img src="https://img.shields.io/badge/NGP-Compatible-blue" alt="" />
+<img src="https://img.shields.io/badge/CGP-Compatible-orange" alt="" /></p>
+
+<p><img style="width:100px;" src="../images/layouts/article_07.png" alt="Article 07" /></p>
+:ET

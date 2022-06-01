@@ -1,0 +1,9 @@
+I"<h1 id="xblocks">xBlocks</h1>
+
+<p>xBlocks are components that can be combined to create <a href="../layouts/README.md">layouts</a> in Open edX. WGU’s library of xBlocks differs on the Current Generation Platform (CGP) and Next Generation Platform (NGP).</p>
+
+<ul>
+  <li><a href="https://openedx.org/faq/what-is-an-xblock/">What are xBlocks?</a></li>
+  <li><a href="https://edx.readthedocs.io/projects/xblock-tutorial/en/latest/overview/introduction.html#overview">Introduction to xBlocks documentation</a></li>
+</ul>
+:ET

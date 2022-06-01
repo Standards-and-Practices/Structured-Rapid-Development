@@ -1,0 +1,78 @@
+I"�<h1 id="design-thinking">Design Thinking</h1>
+<p>Design thinking is a human-centric, iterative problem-solving method. While there are multiple frameworks for thinking about design, each shares some common principles.</p>
+
+<ul>
+  <li><a href="https://dschool.stanford.edu">Stanford D.School’s Human-Centered Design Process</a> - Empathize, Define, Ideate, Prototype, Test</li>
+  <li><a href="https://www.ideou.com/blogs/inspiration/what-is-design-thinking">IDEO</a> - inspiration, ideation, and implementation</li>
+</ul>
+
+<h2 id="pattern-structure">Pattern Structure</h2>
+
+<p>A learning experience implementing the Design Thinking pattern typically follows the structure:</p>
+
+<div class="mermaid">
+  flowchart LR;
+      Empathize--&gt;Define;
+      Define--&gt;Ideate;
+      Ideate--&gt;Prototype;
+      Prototype--&gt;Test;
+</div>
+
+<details open="open">
+<summary>Quick Links</summary>
+
+- [Empathize](#empathize) - Understand the user's deep needs.
+- [Define](#define) - Decide what problem to solve.
+- [Ideate](#ideate) - Generate ideas for solutions.
+- [Prototype](#prototype) - Create a simple version of an idea to test.
+- [Test](#test) - Learn from users using the prototype.
+
+</details>
+
+<h2 id="empathize">Empathize</h2>
+<p>The first step in design thinking is to help learners develop empathy for their users.</p>
+
+<h3 id="tools">Tools</h3>
+<ul>
+  <li><a href="../../activities/EmpathyMap.md">Empathy Map ⭐</a></li>
+  <li>Observation
+    <ul>
+      <li><a href="../../activities/Immersion.md">Immersion</a></li>
+      <li><a href="../../activities/ObservingPeers.md">Observing Peers</a></li>
+      <li><a href="../../activities/DiaryStudies.md">Diary Studies</a></li>
+    </ul>
+  </li>
+  <li>Interviews
+    <ul>
+      <li><a href="../../activities/BasicInterviewing.md">Basic Interviewing</a></li>
+      <li><a href="../../activities/GroupInterviews.md">Group Interview</a></li>
+      <li><a href="../../activities/ExpertInterviews.md">Expert Interview</a></li>
+      <li><a href="../../activities/ListeningSessions.md">Listening Sessions</a></li>
+    </ul>
+  </li>
+  <li>Survey</li>
+  <li><a href="../../activities/Bodystorm.md">Bodystorm</a></li>
+  <li><a href="../../activities/JourneyMap.md">Journey maps</a></li>
+  <li><a href="../../activities/Storyboard.md">Storyboard</a></li>
+  <li><a href="../../activities/FiveWhys.md">Ask the 5 whys</a></li>
+  <li><a href="../../activities/Photojournal.md">Photojournal</a></li>
+  <li><a href="../../activities/AffinityDiagram.md">Affinity diagram</a></li>
+  <li><a href="../../activities/6WMethod.md">6W Method</a></li>
+</ul>
+
+<h2 id="define">Define</h2>
+
+<h2 id="ideate">Ideate</h2>
+
+<h2 id="prototype">Prototype</h2>
+
+<h2 id="test">Test</h2>
+
+<h1 id="resources">Resources</h1>
+<ul>
+  <li><a href="https://www.ted.com/talks/tim_brown_designers_think_big">Tim Brown TED Talk on Design Thinking</a></li>
+  <li><a href="https://www.designbetter.co/">Design Better</a> - Free books, audiobooks, podcast, and blogs about design.</li>
+  <li><a href="https://www.nngroup.com/reports">Nielsen Norman Group</a> - World leaders in research-based user experience.</li>
+  <li><a href="https://www.designkit.org">Design Kit</a> - The Field Guide to Human-Centered Design, created by the leading design firm, IDEO.</li>
+</ul>
+:ET
