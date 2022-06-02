@@ -2,8 +2,10 @@
 parent: Design
 grand_parent: Experiences
 ---
+
 # Design Thinking
-Design thinking is a human-centric, iterative problem-solving method. While there are multiple frameworks for thinking about design, each shares some common principles. 
+
+Design thinking is a human-centric, iterative problem-solving method. While there are multiple frameworks for thinking about design, each shares some common principles.
 
 - [Stanford D.School's Human-Centered Design Process](https://dschool.stanford.edu) - Empathize, Define, Ideate, Prototype, Test
 - [IDEO](https://www.ideou.com/blogs/inspiration/what-is-design-thinking) - inspiration, ideation, and implementation
@@ -11,14 +13,6 @@ Design thinking is a human-centric, iterative problem-solving method. While ther
 ## Pattern Structure
 
 A learning experience implementing the Design Thinking pattern typically follows the structure:
-
-<div class="mermaid">
-  flowchart LR;
-      Empathize-->Define;
-      Define-->Ideate;
-      Ideate-->Prototype;
-      Prototype-->Test;
-</div>
 
 <details open="open">
 <summary>Quick Links</summary>
@@ -32,9 +26,9 @@ A learning experience implementing the Design Thinking pattern typically follows
 </details>
 
 ## Empathize
+
 The first step in design thinking is to help learners develop empathy for their users.
 
-### Tools
 - [Empathy Map ⭐](../../activities/EmpathyMap.md)
 - Observation
   - [Immersion](../../activities/Immersion.md)
@@ -62,8 +56,9 @@ The first step in design thinking is to help learners develop empathy for their 
 
 ## Test
 
-# Resources 
+# Resources
+
 - [Tim Brown TED Talk on Design Thinking](https://www.ted.com/talks/tim_brown_designers_think_big)
 - [Design Better](https://www.designbetter.co/) - Free books, audiobooks, podcast, and blogs about design.
-- [Nielsen Norman Group](https://www.nngroup.com/reports) - World leaders in research-based user experience. 
+- [Nielsen Norman Group](https://www.nngroup.com/reports) - World leaders in research-based user experience.
 - [Design Kit](https://www.designkit.org) - The Field Guide to Human-Centered Design, created by the leading design firm, IDEO.
