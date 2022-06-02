@@ -41,7 +41,6 @@ The first step in design thinking is to help learners develop empathy for their 
   - [Listening Sessions](../../activities/ListeningSessions.md)
 - Survey
 - [Bodystorm](../../activities/Bodystorm.md)
-- [Journey maps](../../activities/JourneyMap.md)
 - [Storyboard](../../activities/Storyboard.md)
 - [Ask the 5 whys](../../activities/FiveWhys.md)
 - [Photojournal](../../activities/Photojournal.md)
@@ -51,6 +50,8 @@ The first step in design thinking is to help learners develop empathy for their 
 ## Define
 
 ## Ideate
+
+- [Journey maps](../../activities/JourneyMap.md)
 
 ## Prototype
 
