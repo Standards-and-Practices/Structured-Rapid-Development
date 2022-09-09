@@ -55,6 +55,28 @@ The first step in design thinking is to help learners develop empathy for their 
 
 ## Prototype
 
+### Determining what to prototype
+
+- [Prototype Mapping](https://design-kit-production.s3-us-west-1.amazonaws.com/Design+Kit+Method+Worksheets/DesignKit_PrototypeMapping_Worksheet.pdf)
+
+### Low-fidelity Prototypes
+
+#### Paper Prototypes
+
+- [ ] Storyboarding
+- [ ] Sketches
+- [ ] Wireframes
+
+#### Plastic
+
+- [ ] Lego
+- [ ] 3D Printing
+
+### High-fidelity Prototpyes
+
+- [ ] Mockups
+- [ ]
+
 ## Test
 
 # Resources
