@@ -17,7 +17,6 @@ While there is no single scientific method with a "fixed sequence of steps" (AAA
 6. Analyze Data
 7. Draw Conclusions
 
-
 ## Pattern Structure
 
 ### Observation
