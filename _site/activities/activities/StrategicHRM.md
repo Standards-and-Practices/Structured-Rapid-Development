@@ -1,1 +1,0 @@
-# The Strategic HRM Model

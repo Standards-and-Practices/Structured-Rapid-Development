@@ -1,7 +1,0 @@
-# Core Competency Analysis
-
-A Core Competency Analysis is a process used to identify an individual's or organization's core strengths. To create a Core Competency Analysis, first list all of the individual's or organization's current competencies. Then, rate each competency on a scale of 1-5, with 5 being the highest. Once all competencies have been rated, identify the top 3-5 competencies as the organization or individual's core strengths.
-
-There are several benefits to creating a Core Competency Analysis. For one, it can help individuals and organizations identify areas in which they need to continue to develop their skills. Additionally, a Core Competency Analysis can help individuals and organizations focus on their strengths, and use those strengths to their advantage. Finally, a Core Competency Analysis can be a useful tool for succession planning, as it can help identify individuals within an organization who have the potential to fill leadership roles in the future.
-
-If you're interested in creating a Core Competency Analysis for yourself or your organization, there are a few steps you'll need to follow. First, list all of your current competencies. Then, rate each competency on a scale of 1-5, with 5 being the highest. Once all competencies have been rated, identify the top 3-5 competencies as your core strengths. Finally, create a plan for how you will use your core strengths to your advantage.
